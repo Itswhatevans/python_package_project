@@ -1,2 +1,13 @@
-# python_package_project
-Demonstrate how to scrape data from the web using APIs, then implement cleaning, methods, and functions as a Python package users can download and implement in their own workflows
+# Final Project for Stat 386 by Jordan Evans and Trent Peterson
+This project demonstrates how data scraped from the web can be bundled with cleaning and tidying scripts in Python and implemented into a WebApp using Streamlit
+
+## Repository Overview:
+- File structure
+- Scraping using APIs
+- Data Wrangling
+- Python Package
+
+## Detailed explanations of Data Features, processes, tutorial
+**Explanation here**
+
+### Sub-section
