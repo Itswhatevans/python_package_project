@@ -1,0 +1,1001 @@
+name,launch_date,provider,rocket,launch_site,location,status
+Sputnik 8K74PS | Sputnik 1,1957-10-04T19:28:34Z,Soviet Space Program,Sputnik 8K74PS,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Sputnik 8K74PS | Sputnik 2,1957-11-03T02:30:00Z,Soviet Space Program,Sputnik 8K74PS,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vanguard | Vanguard,1957-12-06T16:44:35Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Juno-I | Explorer 1,1958-02-01T03:47:56Z,Army Ballistic Missile Agency,Juno-I,Launch Complex 26A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vanguard | Vanguard,1958-02-05T07:33:00Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Juno-I | Explorer 2,1958-03-05T18:27:57Z,Army Ballistic Missile Agency,Juno-I,Launch Complex 26A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vanguard | Vanguard,1958-03-17T12:15:41Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Juno-I | Explorer 3,1958-03-26T17:38:01Z,Army Ballistic Missile Agency,Juno-I,Launch Complex 26A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Sputnik 8A91 | D-1 1,1958-04-27T07:00:35Z,Soviet Space Program,Sputnik 8A91,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Vanguard | Vanguard,1958-04-29T02:53:00Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Sputnik 8A91 | D1- 2,1958-05-15T07:00:35Z,Soviet Space Program,Sputnik 8A91,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vanguard | Vanguard,1958-05-28T03:46:20Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vanguard | Vanguard,1958-06-26T05:00:52Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Project Pilot | NOTS 1,1958-07-25T00:00:00Z,US Navy,Project Pilot,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure
+Juno-I | Explorer 4,1958-07-26T15:00:57Z,Army Ballistic Missile Agency,Juno-I,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Project Pilot | NOTS 2,1958-08-12T00:00:00Z,US Navy,Project Pilot,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure
+Thor Able I | Able I (Pioneer),1958-08-17T12:18:00Z,Army Ballistic Missile Agency,Thor Able I,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Project Pilot | NOTS 3,1958-08-22T00:00:00Z,US Navy,Project Pilot,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure
+Juno-I | Explorer 5,1958-08-24T06:17:22Z,Army Ballistic Missile Agency,Juno-I,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure
+Project Pilot | NOTS 4,1958-08-25T00:00:00Z,US Navy,Project Pilot,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure
+Project Pilot | NOTS 5,1958-08-26T00:00:00Z,US Navy,Project Pilot,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure
+Project Pilot | NOTS 6,1958-08-28T00:00:00Z,US Navy,Project Pilot,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure
+Vostok-L 8K72 | Luna-1a,1958-09-23T07:40:23Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Vanguard | Vanguard,1958-09-26T15:38:00Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Able I | Pioneer 1,1958-10-11T08:42:13Z,Army Ballistic Missile Agency,Thor Able I,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok-L 8K72 | Luna-1b,1958-10-11T21:41:58Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Juno-I | Beacon,1958-10-23T03:21:04Z,Army Ballistic Missile Agency,Juno-I,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Able I | Pioneer 2,1958-11-08T07:30:21Z,Army Ballistic Missile Agency,Thor Able I,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vostok-L 8K72 | Luna-1c,1958-12-04T18:18:45Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Juno II | Pioneer 3,1958-12-06T05:44:52Z,National Aeronautics and Space Administration,Juno II,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas B | SCORE,1958-12-18T23:02:00Z,US Army,Atlas B,Launch Complex 11,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok-L 8K72 | Luna-1,1959-01-02T16:41:21Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vanguard | Vanguard II,1959-02-17T15:55:00Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena A | Discoverer 1,1959-02-28T21:49:16Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Juno II | Pioneer 4,1959-03-03T05:10:56Z,National Aeronautics and Space Administration,Juno II,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena A | Discoverer 2,1959-04-13T21:18:39Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Vanguard | Vanguard,1959-04-14T02:49:46Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Agena A | Discoverer 3,1959-06-03T20:09:20Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok-L 8K72 | Luna-2a,1959-06-18T08:08:00Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Vanguard | Vanguard,1959-06-22T20:16:09Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Agena A | Discoverer 4,1959-06-25T22:47:45Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure
+Juno II | NASA S-1,1959-07-16T17:37:03Z,National Aeronautics and Space Administration,Juno II,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Able III | Explorer 6,1959-08-07T14:24:20Z,United States Air Force,Thor Able III,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena A | Discoverer 5,1959-08-13T19:00:08Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Juno II | Beacon,1959-08-15T00:31:00Z,National Aeronautics and Space Administration,Juno II,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Agena A | Discoverer 6,1959-08-19T19:24:44Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Little Joe | LJ-1,1959-08-21T12:00:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Failure
+Atlas LV-3B | Big Joe 1,1959-09-09T08:19:00Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch was a Partial Failure
+Vostok-L 8K72 | Luna-2,1959-09-12T06:39:42Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Able II | Transit 1A,1959-09-17T14:34:00Z,United States Air Force,Thor Able II,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vanguard | Vanguard III,1959-09-18T05:20:07Z,US Navy,Vanguard,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok-L 8K72 | Luna-3,1959-10-04T00:43:39Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Little Joe | LJ-6,1959-10-04T10:00:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch was a Partial Failure
+Juno II | Explorer 7,1959-10-13T15:30:04Z,National Aeronautics and Space Administration,Juno II,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Little Joe | LJ-1A,1959-11-04T14:30:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch was a Partial Failure
+Thor Agena A | Discoverer 7,1959-11-07T20:28:41Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Agena A | Discoverer 8,1959-11-20T19:25:24Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas-Able | P-3,1959-11-26T07:26:00Z,United States Air Force,Atlas-Able,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure
+Little Joe | LJ-2,1959-12-04T16:20:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Little Joe | LJ-1B,1960-01-21T14:23:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor Agena A | Discoverer 9,1960-02-04T18:51:45Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Thor Agena A | Discoverer 10,1960-02-19T20:15:14Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure
+Atlas Agena A | Midas 1,1960-02-26T17:25:30Z,United States Air Force,Atlas Agena A,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Able IV | Pioneer V,1960-03-11T13:00:07Z,United States Air Force,Thor Able IV,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Juno II | NASA S-46,1960-03-23T13:35:11Z,National Aeronautics and Space Administration,Juno II,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Able II | Tiros 1,1960-04-01T11:40:09Z,United States Air Force,Thor Able II,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit 1B,1960-04-13T12:02:36Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok-L 8K72 | Luna-4a,1960-04-15T15:06:45Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Agena A | Discoverer 11,1960-04-15T20:30:37Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok-L 8K72 | Luna-4b,1960-04-16T16:07:41Z,Soviet Space Program,Vostok-L 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Delta | Echo,1960-05-13T09:16:05Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vostok 8K72 | Korabl'-Sputnik-1,1960-05-15T00:00:05Z,Soviet Space Program,Vostok 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Agena A | Midas 2,1960-05-24T17:36:46Z,United States Air Force,Atlas Agena A,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit 2A,1960-06-22T05:54:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena A | Discoverer 12,1960-06-29T22:00:44Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8K72 | Korabl-Sputnik (2),1960-07-28T09:31:00Z,Soviet Space Program,Vostok 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas LV-3B | Mercury-Atlas 1,1960-07-29T13:13:00Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Agena A | Discoverer 13,1960-08-10T20:37:54Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta | Echo 1,1960-08-12T09:39:43Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena A | Discoverer 14,1960-08-18T19:57:08Z,United States Air Force,Thor Agena A,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Ablestar | Courier 1A,1960-08-18T19:58:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vostok 8K72 | Korabl'-Sputnik-2,1960-08-19T08:44:06Z,Soviet Space Program,Vostok 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Agena A | Discoverer 15,1960-09-13T22:13:39Z,United States Air Force,Thor Agena A,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Blue Scout Jr | Blue Scout D-1,1960-09-21T13:01:53Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas-Able | P-30 (Able VA),1960-09-25T15:13:17Z,United States Air Force,Atlas-Able,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure
+Scout X-1 | ST-2,1960-10-04T15:23:00Z,National Aeronautics and Space Administration,Scout X-1,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor DM-21 Ablestar | Courier 1B,1960-10-04T17:50:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Mars-1a,1960-10-10T14:27:49Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas Agena A | Samos 1,1960-10-11T20:33:28Z,United States Air Force,Atlas Agena A,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure
+Molniya 8K78 | Mars-1b,1960-10-14T13:51:03Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Agena-B | Discoverer 16,1960-10-26T20:26:09Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Juno II | Explorer 8,1960-11-03T05:23:10Z,National Aeronautics and Space Administration,Juno II,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Little Joe | LJ-5,1960-11-08T15:18:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 17,1960-11-12T20:42:32Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Redstone MRLV | Mercury-Redstone 1,1960-11-21T14:00:00Z,National Aeronautics and Space Administration,Redstone,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor Delta | Tiros 2,1960-11-23T11:13:03Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit 3A,1960-11-30T19:50:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vostok 8K72 | Korabl'-Sputnik-3,1960-12-01T07:30:04Z,Soviet Space Program,Vostok 8K72,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-1 | NASA S-56,1960-12-04T21:14:00Z,National Aeronautics and Space Administration,Scout X-1,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 18,1960-12-07T20:20:58Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas-Able | P-31,1960-12-15T09:10:00Z,United States Air Force,Atlas-Able,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure
+Redstone MRLV | Mercury-Redstone 1A,1960-12-19T16:15:00Z,National Aeronautics and Space Administration,Redstone,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | Discoverer 19,1960-12-20T20:32:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok | Korabl-Sputnik (4),1960-12-22T07:45:19Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Redstone MRLV | Mercury-Redstone 2,1961-01-31T16:55:00Z,National Aeronautics and Space Administration,Redstone,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas LV-3A | Samos 2,1961-01-31T20:21:19Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Venera-1VA 1,1961-02-04T01:18:03Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Molniya 8K78 | Venera-1VA 2,1961-02-12T00:34:36Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-1 | Explorer 9,1961-02-16T13:05:00Z,National Aeronautics and Space Administration,Scout X-1,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor DM-21 Agena-B | KH-5 1,1961-02-17T20:25:02Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | Discoverer 21 (MIDAS RM-2),1961-02-18T22:57:58Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas LV-3B | Mercury-Atlas 2,1961-02-21T14:10:00Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit 3B & LOFTI-1,1961-02-22T03:45:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch was a Partial Failure
+Juno II | S-45,1961-02-25T00:13:16Z,Army Ballistic Missile Agency,Juno II,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Vostok-K | Sputnik 9,1961-03-09T06:29:00Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Little Joe | LJ-5A,1961-03-18T16:49:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch was a Partial Failure
+Redstone MRLV | Mercury-Redstone BD,1961-03-24T17:30:00Z,National Aeronautics and Space Administration,Redstone,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok-K | Sputnik 10,1961-03-25T05:54:00Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Delta DM-19 | Explorer 10,1961-03-25T15:17:04Z,United States Air Force,Delta DM-19,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | Discoverer 22,1961-03-30T20:34:43Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Thor DM-21 Agena-B | KH-5 2,1961-04-08T19:21:08Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok-K | Vostok 1,1961-04-12T06:07:00Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Trailblazer 1 | Trailblazer 1g,1961-04-21T05:56:20Z,National Aeronautics and Space Administration,Trailblazer 1,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Atlas LV-3B | Mercury-Atlas 3,1961-04-25T16:15:00Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure
+Juno II | Explorer 11,1961-04-27T14:16:38Z,Army Ballistic Missile Agency,Juno II,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Little Joe | LJ-5B,1961-04-28T14:03:00Z,National Aeronautics and Space Administration,Little Joe,Launch Area 4,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Redstone MRLV | Mercury-Redstone 3,1961-05-05T14:34:13Z,National Aeronautics and Space Administration,Redstone,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Juno II | S-45A,1961-05-24T19:48:05Z,Army Ballistic Missile Agency,Juno II,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor DM-21 Agena-B | KH-5 3,1961-06-08T21:16:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 25,1961-06-16T23:02:52Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Ablestar | Transit 4A & Injun-1 & Solrad 3,1961-06-29T04:23:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout X-1 | S-55,1961-06-30T17:09:00Z,National Aeronautics and Space Administration,Scout X-1,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 26,1961-07-07T23:29:48Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Delta DM-19 | Tiros-3,1961-07-12T10:25:06Z,United States Air Force,Delta DM-19,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas LV-3A | MIDAS 3,1961-07-12T15:11:46Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Redstone MRLV | Mercury-Redstone 4,1961-07-21T12:20:00Z,National Aeronautics and Space Administration,Redstone,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | KH-5 4,1961-07-21T22:35:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 28,1961-08-04T00:01:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok-K | Vostok 2,1961-08-06T06:00:00Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Delta DM-19 | Explorer 12,1961-08-16T03:21:05Z,United States Air Force,Delta DM-19,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Blue Scout Jr | O-1,1961-08-17T14:29:00Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas LV-3A | Ranger 1,1961-08-23T10:04:10Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch was a Partial Failure
+Scout X-1 | Explorer 13,1961-08-25T18:29:44Z,National Aeronautics and Space Administration,Scout X-1,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 29,1961-08-30T20:00:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas LV-3A | Samos 3,1961-09-09T19:28:27Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 30,1961-09-12T19:59:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas LV-3B | Mercury-Atlas 4,1961-09-13T14:04:16Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | Discoverer 31,1961-09-17T21:00:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | Discoverer 32,1961-10-13T19:22:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-1 | P-21,1961-10-19T17:38:00Z,National Aeronautics and Space Administration,Scout X-1,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Atlas LV-3A | MIDAS 4 & Westford-1,1961-10-21T13:53:03Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | Discoverer 33,1961-10-23T19:23:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure
+Saturn I | Saturn SA-1,1961-10-27T15:06:04Z,National Aeronautics and Space Administration,Saturn I,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | Kosmos-2I | DS-1-1,1961-10-27T16:30:00Z,Strategic Rocket Forces,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+Blue Scout II | Mercury-Scout 1,1961-11-01T15:32:00Z,National Aeronautics and Space Administration,Blue Scout II,Launch Complex 18B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor DM-21 Agena-B | Discoverer 34,1961-11-05T20:00:30Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch was a Partial Failure
+Thor DM-21 Agena-B | Discoverer 35,1961-11-15T21:22:46Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Ablestar | Transit 4B & TRAAC,1961-11-15T22:26:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas LV-3A | Ranger 2,1961-11-18T08:12:00Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure
+Atlas LV-3A | Samos 4,1961-11-22T20:45:47Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure
+Atlas LV-3B | Mercury-Atlas 5,1961-11-29T15:07:57Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Blue Scout Jr | Blue Scout Jr. O-2,1961-12-04T04:00:16Z,United States Air Force,Blue Scout Jr,Launch Complex A,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok-K | Zenit-2 1,1961-12-11T09:39:02Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Agena-B | Discoverer 36 & OSCAR 1,1961-12-12T20:40:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-1 2,1961-12-21T12:30:00Z,Strategic Rocket Forces,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+Atlas LV-3A | Samos 5,1961-12-22T19:12:33Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch was a Partial Failure
+Thor DM-21 Agena-B | Discoverer 37,1962-01-13T21:41:02Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Thor DM-21 Ablestar | 5 Payloads Rideshare,1962-01-24T09:30:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Atlas Agena B | Ranger 3,1962-01-26T20:30:11Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Delta | Tiros 4,1962-02-08T12:43:45Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas LV-3B | Mercury-Atlas 6,1962-02-20T14:47:39Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | P-102 Group 0-D,1962-02-21T18:44:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | KH-4 1,1962-02-27T19:39:20Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta | OSO 1,1962-03-07T16:06:18Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Agena B | Samos 6,1962-03-07T22:10:31Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-2 1,1962-03-16T11:59:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Scout X-2 | P-21A,1962-03-29T07:27:00Z,National Aeronautics and Space Administration,Scout X-2,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Kosmos-2I 63S1 | 1MS 1,1962-04-06T17:15:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas Agena B | Midas 5,1962-04-09T15:04:48Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | KH-4 2,1962-04-18T00:53:47Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena B | Ranger 4,1962-04-23T20:50:00Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | Sputnik 13,1962-04-24T04:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Saturn I | Saturn SA-2,1962-04-25T14:00:34Z,National Aeronautics and Space Administration,Saturn I,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok | Zenit-2 2,1962-04-26T10:02:00Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-2 | SOLRAD 4B,1962-04-26T10:49:00Z,US Navy,Scout X-2,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Thor Delta | Ariel 1,1962-04-26T18:00:16Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Agena B | Samos-E6 1,1962-04-26T18:56:08Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | KH-4 3,1962-04-29T00:30:12Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Trailblazer 2 | Trailblazer IIb,1962-05-06T05:41:00Z,National Aeronautics and Space Administration,Trailblazer 2,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor DM-21 Ablestar | ANNA 1A,1962-05-10T12:06:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor DM-21 Agena-B | KH-5 5,1962-05-15T19:36:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-2M | DSAP-1 F1,1962-05-24T00:00:00Z,United States Air Force,Scout X-2M,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Atlas LV-3B | Mercury-Atlas 7,1962-05-24T12:45:16Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | Sputnik 15,1962-05-28T03:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Thor DM-21 Agena-B | KH-4 4,1962-05-30T01:00:04Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 3,1962-06-01T09:38:00Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Agena-B | KH-4 5,1962-06-02T00:31:28Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena B | Samos-E6 2,1962-06-17T18:14:18Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | P-102 Group 2-D 1,1962-06-18T20:20:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta | Tiros 5,1962-06-19T12:19:01Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | KH-4 6,1962-06-23T00:30:47Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Agena D | KH-4 7,1962-06-28T01:09:00Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-P1 1,1962-06-30T16:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Thor Delta | Telstar 1,1962-07-10T08:35:05Z,United States Air Force,Thor Delta,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+X-15 | Flight 62,1962-07-17T17:30:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Atlas Agena B | Samos-E6 3,1962-07-18T20:51:20Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | KH-4 8,1962-07-21T00:56:40Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena B | Mariner 1,1962-07-22T09:21:23Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor DM-21 Agena-B | KH-4 9,1962-07-28T00:30:09Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 4,1962-07-28T09:18:31Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Agena D | KH-4 10,1962-08-02T00:17:00Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena B | Samos-E6 4,1962-08-05T17:58:59Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok-K | Vostok 3,1962-08-11T08:30:00Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok-K | Vostok 4,1962-08-12T08:02:33Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | Sputnik 18,1962-08-18T15:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Scout X-2M | DSAP-1 F2,1962-08-23T11:33:00Z,United States Air Force,Scout X-2M,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Venera 2a,1962-08-25T02:18:45Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas Agena B | Mariner 2,1962-08-27T06:53:14Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena D | KH-4 11 & RM 3,1962-08-29T01:00:36Z,United States Air Force,Thor Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-3A | Reentry-2,1962-08-31T16:25:00Z,National Aeronautics and Space Administration,Scout X-3A,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Molniya 8K78 | Venera 2b,1962-09-01T02:12:30Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Agena-B | KH-5 6,1962-09-01T20:39:09Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Venera 2c,1962-09-12T00:59:13Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Agena-B | KH-4 12,1962-09-17T23:46:18Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta | Tiros 6,1962-09-18T08:53:08Z,United States Air Force,Thor Delta,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 5,1962-09-27T09:39:51Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor DM-21 Agena-B | Alouette 1,1962-09-29T06:05:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Agena D | KH-4 13 & RM 4,1962-09-29T23:34:50Z,United States Air Force,Thor Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta A | Explorer 14,1962-10-02T22:11:30Z,United States Air Force,Thor Delta A,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas LV-3B | Mercury-Atlas 8,1962-10-03T12:15:12Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | KH-5 7,1962-10-09T18:35:39Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 6,1962-10-17T09:00:00Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Agena B | Ranger 5,1962-10-18T16:59:00Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | DS-A1 1,1962-10-20T04:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Molniya 8K78 | Mars 1c,1962-10-24T17:55:04Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Kosmos-2I 63S1 | 1MS 2,1962-10-25T07:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+Thor Agena D | Star-Rad,1962-10-26T16:14:39Z,United States Air Force,Thor Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta A | Explorer 15,1962-10-27T23:15:01Z,United States Air Force,Thor Delta A,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | ANNA 1B,1962-10-31T08:08:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Mars 1,1962-11-01T16:14:16Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya 8K78 | Mars 2a,1962-11-04T15:35:15Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Agena-B | KH-4 14,1962-11-05T22:04:32Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena B | Samos-E6 5,1962-11-11T20:17:02Z,United States Air Force,Atlas Agena B,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Saturn I | Saturn SA-3,1962-11-16T17:45:02Z,National Aeronautics and Space Administration,Saturn I,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Agena-B | KH-4 15,1962-11-24T22:00:54Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Agena D | KH-4 16,1962-12-04T21:30:35Z,United States Air Force,Thor Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Agena D | Poppy 3A & 3B,1962-12-13T04:07:00Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta B | Relay 1,1962-12-13T23:30:01Z,United States Air Force,Thor Delta B,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena D | KH-4 17,1962-12-14T21:26:07Z,United States Air Force,Thor Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-3 | Explorer 16,1962-12-16T14:33:04Z,National Aeronautics and Space Administration,Scout X-3,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Atlas Agena B | Midas 6,1962-12-17T20:36:33Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Failure
+Scout X-3 | Transit-5A 1,1962-12-19T01:25:45Z,United States Air Force,Scout X-3,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 7,1962-12-22T09:23:00Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya 8K78 | Luna-4c,1963-01-04T08:49:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Agena D | KH-4 18,1963-01-07T21:09:49Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Agena-B | P-698BK Group 1-D 1,1963-01-16T21:59:00Z,United States Air Force,Thor DM-21 Agena-B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 77,1963-01-17T16:59:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Molniya 8K78 | Luna-4d,1963-02-03T09:29:14Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Delta B | Syncom 1,1963-02-14T05:35:08Z,United States Air Force,Thor Delta B,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout X-3M | DSAP-1 F3,1963-02-19T16:52:00Z,United States Air Force,Scout X-3M,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4 19,1963-02-28T21:48:30Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure
+Thor SLV-2A Agena D | KH-6 1,1963-03-18T21:13:01Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8A92 | Zenit-2 8,1963-03-21T08:30:01Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Saturn I | Saturn SA-4,1963-03-28T20:11:55Z,National Aeronautics and Space Administration,Saturn I,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Agena D | KH-4 20,1963-04-01T23:01:00Z,United States Air Force,Thor Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Luna-4,1963-04-02T08:16:37Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta B | Explorer 17,1963-04-03T02:00:02Z,United States Air Force,Thor Delta B,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout X-3 | Transit-5A 2,1963-04-05T03:01:43Z,United States Air Force,Scout X-3,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Kosmos-2I 63S1 | DS-P1 2,1963-04-06T03:01:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+Kosmos-2I 63S1 | Omega 1,1963-04-13T11:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Vostok 8A92 | Zenit-2 9,1963-04-22T08:30:00Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-2M | DSAP-1 F4,1963-04-26T00:00:00Z,United States Air Force,Scout X-2M,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Thor Agena D | KH-5 8,1963-04-26T20:12:57Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8A92 | Zenit-2 10,1963-04-28T08:49:56Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta B | Telstar 2,1963-05-07T11:38:03Z,United States Air Force,Thor Delta B,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Agena B | Midas 7,1963-05-09T20:06:16Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas LV-3B | Mercury-Atlas 9,1963-05-15T13:04:13Z,National Aeronautics and Space Administration,Atlas LV-3B,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-6 2,1963-05-18T22:21:36Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-A1 2,1963-05-22T03:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Vostok 8A92 | Zenit-2 11,1963-05-24T10:34:06Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-MT 1,1963-06-01T02:50:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+Atlas Agena B | Midas 8,1963-06-12T00:00:00Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Failure
+Thor SLV-2A Agena D | KH-4 21,1963-06-12T23:58:38Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok-K | Vostok 5,1963-06-14T11:58:58Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Agena D | Poppy 4A & 4B,1963-06-15T14:29:00Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure
+Scout X-3 | Transit-5A 3,1963-06-16T01:49:52Z,United States Air Force,Scout X-3,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok-K | Vostok 6,1963-06-16T09:29:52Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta B | Tiros 7,1963-06-19T09:50:01Z,United States Air Force,Thor Delta B,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4 22,1963-06-27T00:37:26Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 87,1963-06-27T17:56:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Scout X-4 | GRS,1963-06-28T21:19:22Z,United States Air Force,Scout X-4,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor SLV-2A Agena B | P-698BK Group 1-D 2,1963-06-29T22:30:00Z,United States Air Force,Thor SLV-2A Agena B,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | KH-7 1,1963-07-12T20:45:59Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Agena D | KH-4 23,1963-07-19T00:00:10Z,United States Air Force,Thor Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena B | Midas 9,1963-07-19T03:51:18Z,United States Air Force,Atlas Agena B,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 90,1963-07-19T18:20:05Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Thor Delta B | Syncom 2,1963-07-26T14:33:00Z,United States Air Force,Thor Delta B,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Blue Scout Jr | OAR 22-1,1963-07-30T16:16:08Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-6 3,1963-07-31T00:00:26Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-P1 3,1963-08-06T06:07:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Kosmos-2I 63S1 | DS-A1 3,1963-08-22T06:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+X-15 | Flight 91,1963-08-22T18:05:57Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Thor SLV-2A Agena D | KH-4A 1,1963-08-25T00:29:58Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Little Joe II | QTV,1963-08-28T16:00:02Z,National Aeronautics and Space Administration,Little Joe II,Launch Complex 36,White Sands Missile Range,Launch Successful
+Thor SLV-2 Agena D | KH-5 9,1963-08-29T20:31:04Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | KH-7 2,1963-09-06T19:30:18Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 2,1963-09-23T23:00:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-2B | DSAP-1 F5,1963-09-27T11:17:49Z,United States Air Force,Scout X-2B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Thor DM-21 Ablestar | Transit 5BN-1,1963-09-28T20:22:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | Vela 1A & 1B,1963-10-17T02:37:00Z,United States Air Force,Atlas Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 13,1963-10-18T09:29:58Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-A1 4,1963-10-24T04:30:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure
+Atlas Agena D | KH-7 3,1963-10-25T18:59:27Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-5 10,1963-10-29T21:19:04Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Sputnik 11A59 | Polyot,1963-11-01T08:56:38Z,Soviet Space Program,Sputnik 11A59,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2 Agena D | KH-4 24 & RM 5,1963-11-09T20:27:54Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Failure
+Molniya 8K78 | Zond-1a,1963-11-11T06:23:35Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Voskhod | Zenit-4 1,1963-11-16T10:34:25Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta C | Explorer 18,1963-11-27T02:30:01Z,United States Air Force,Thor Delta C,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Centaur | AC-2 Instrumentation Ring,1963-11-27T19:03:23Z,United States Air Force,Atlas Centaur,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2 Agena D | KH-4 25,1963-11-27T21:15:40Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 14,1963-11-28T09:19:59Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Ablestar | Transit-5BN 2,1963-12-05T21:51:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | Omega 2,1963-12-13T14:15:24Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas Agena D | KH-7 4,1963-12-18T21:45:30Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 15,1963-12-19T09:28:58Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-4 | Explorer 19,1963-12-19T18:49:25Z,National Aeronautics and Space Administration,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta B | Tiros 8,1963-12-21T09:30:00Z,United States Air Force,Thor Delta B,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4 26,1963-12-21T21:45:42Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+"Thor SLV-2A Agena D | Poppy 5A, 5B & 5C",1964-01-11T20:07:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2 Agena D | DSAP-1 F6 & F7,1964-01-19T10:59:54Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta B | Relay 2,1964-01-21T21:14:59Z,United States Air Force,Thor Delta B,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2 Agena B | Echo 2,1964-01-25T13:59:04Z,United States Air Force,Thor SLV-2 Agena B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Saturn I | Saturn SA-5,1964-01-29T16:25:01Z,National Aeronautics and Space Administration,Saturn I,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok | Elektron-1 & 2,1964-01-30T09:45:09Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Agena B | Ranger 6,1964-01-30T15:49:09Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 3,1964-02-15T21:38:23Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Zond-1b,1964-02-19T05:47:40Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas Agena D | KH-7 5,1964-02-25T18:59:47Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-P1 4,1964-02-27T13:30:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | P-698BK Group 1-A,1964-02-28T03:20:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | KH-7 6,1964-03-11T20:14:24Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Nike Cajun | Trailblazer Pellet,1964-03-12T04:17:00Z,National Aeronautics and Space Administration,Nike Cajun,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Kosmos-2I 63S1 | DS-MG 1,1964-03-18T15:07:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Thor Delta B | Beacon Explorer A,1964-03-19T11:13:41Z,United States Air Force,Thor Delta B,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Molniya 8K78 | Luna-5a,1964-03-21T08:15:35Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor SLV-2A Agena D | KH-4A 4,1964-03-24T22:22:48Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure
+Molniya 8K78 | Zond 1c,1964-03-27T03:24:42Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Scout X-3 | Ariel 2,1964-03-27T17:25:23Z,Science and Engineering Research Council,Scout X-3,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Molniya 8K78 | Zond 1,1964-04-02T02:42:40Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92 | Zenit-2 16,1964-04-04T09:45:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan II GLV | Gemini I,1964-04-08T16:00:01Z,United States Air Force,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Sputnik 11A59 | Polyot-2,1964-04-12T09:30:00Z,Soviet Space Program,Sputnik 11A59,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas D | FIRE 1,1964-04-14T21:42:25Z,United States Air Force,Atlas D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Luna-5b,1964-04-20T08:08:28Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor DM-21 Ablestar | Transit-5BN 3,1964-04-21T18:50:00Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure
+Atlas Agena D | KH-7 7,1964-04-23T18:43:00Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 17,1964-04-25T10:21:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 5,1964-04-27T23:23:43Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Little Joe II | A-001,1964-05-13T12:59:59Z,National Aeronautics and Space Administration,Little Joe II,Launch Complex 36,White Sands Missile Range,Launch Successful
+Voskhod | Zenit-4 2,1964-05-18T09:42:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Agena D | KH-7 8,1964-05-19T19:21:14Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Saturn I | Saturn-SA 6,1964-05-28T17:07:00Z,National Aeronautics and Space Administration,Saturn I,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout X-4 | Transit VC,1964-06-04T03:50:55Z,United States Air Force,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Molniya-1 1a,1964-06-04T04:00:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor SLV-2A Agena D | KH-4A 6,1964-06-04T22:59:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-MT 2,1964-06-06T06:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Vostok 8A92 | Zenit-2 18,1964-06-10T11:00:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-5 11,1964-06-13T15:47:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2 Agena D | DSAP-1 F8 & F9,1964-06-18T04:56:08Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 7,1964-06-19T23:18:07Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 19,1964-06-23T10:00:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-4 | ESRS,1964-06-25T01:40:24Z,United States Air Force,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Atlas Centaur | AC-3 Instrumentation Ring,1964-06-30T14:04:22Z,United States Air Force,Atlas Centaur,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Voskhod | Zenit-4 3,1964-07-01T11:00:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | P-698BK Group 2-D 2,1964-07-02T23:59:56Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | KH-7 9,1964-07-06T18:51:18Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok | Elektron-3 &4,1964-07-10T21:51:02Z,Soviet Space Program,Vostok,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 8,1964-07-10T23:14:04Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 20,1964-07-15T11:27:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Agena D | Vela 2A & 2B,1964-07-17T08:22:00Z,United States Air Force,Atlas Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Agena B | Ranger 7,1964-07-28T16:50:07Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | DS-P1-Yu 1,1964-07-30T03:36:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | KH-4A 9,1964-08-05T23:15:35Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 21,1964-08-14T09:30:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 10,1964-08-14T22:00:13Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-4A | Reentry-4A,1964-08-18T06:05:00Z,National Aeronautics and Space Administration,Scout X-4A,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+"Kosmos 65S3 | Strela-1 1,2,3",1964-08-18T09:15:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta D | Syncom 3,1964-08-19T12:15:02Z,United States Air Force,Thor Delta D,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-5 12,1964-08-21T15:45:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Molniya-1 1b,1964-08-22T07:21:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+"Kosmos-2I 63S1 | Strela-1 4,5",1964-08-22T11:00:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Scout X-4 | Explorer 20,1964-08-25T13:43:00Z,National Aeronautics and Space Administration,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2 Agena B | Nimbus 1,1964-08-28T07:56:57Z,United States Air Force,Thor SLV-2 Agena B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92M | Meteor-1 1,1964-08-28T16:00:00Z,Soviet Space Program,Vostok 8A92M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIA | Transtage 1,1964-09-01T15:00:06Z,United States Air Force,Titan IIIA,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Failure
+Atlas Agena B | OGO 1,1964-09-05T01:23:00Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 4,1964-09-13T09:45:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 10,1964-09-14T22:53:43Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Saturn I | Saturn-SA 7,1964-09-18T16:22:43Z,National Aeronautics and Space Administration,Saturn I,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 11,1964-09-23T20:05:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 22,1964-09-24T12:04:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta C | Explorer 21,1964-10-04T03:45:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 11,1964-10-05T21:50:14Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Voskhod-3KV 1,1964-10-06T07:00:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor DM-21 Ablestar | Transit-O 1,1964-10-06T17:04:21Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 12,1964-10-07T19:30:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Failure
+Scout X-4 | Beacon Explorer B,1964-10-10T03:01:00Z,National Aeronautics and Space Administration,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Voskhod 1,1964-10-12T07:30:01Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92 | Zenit-2 23,1964-10-14T10:00:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 12,1964-10-17T22:02:23Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+"Kosmos 65S3 | Strela-1 6,7,8",1964-10-23T07:30:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas Agena D | KH-7 13,1964-10-23T18:27:00Z,United States Air Force,Atlas Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-MG 2,1964-10-24T05:17:00Z,Soviet Space Program,Kosmos-2I 63S1,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful
+Vostok 8A92 | Zenit-2 24,1964-10-28T10:40:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 13,1964-11-02T21:30:20Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | P-698BK Group 3-D 1,1964-11-04T02:12:11Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | Mariner 3,1964-11-05T19:22:05Z,United States Air Force,Atlas Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout X-4 | Explorer 23,1964-11-06T12:02:01Z,National Aeronautics and Space Administration,Scout X-4,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Nike Cajun | Trailblazer Pellet,1964-11-07T01:38:00Z,National Aeronautics and Space Administration,Nike Cajun,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 14,1964-11-18T20:35:54Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-4 | Explorer 24 & 25,1964-11-21T17:09:39Z,National Aeronautics and Space Administration,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | Mariner 4,1964-11-28T14:22:01Z,United States Air Force,Atlas Agena D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Zond-2,1964-11-30T13:25:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-2 2,1964-12-01T08:45:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Failure
+Atlas SLV-3 Agena D | KH-7 14,1964-12-04T19:00:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Little Joe II | A-002,1964-12-08T15:00:00Z,National Aeronautics and Space Administration,Little Joe II,Launch Complex 36,White Sands Missile Range,Launch Successful
+Kosmos-2I 63S1 | DS-MT 3,1964-12-09T23:00:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Titan IIIA | Transtage 2,1964-12-10T16:53:33Z,United States Air Force,Titan IIIA,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Centaur | Surveyor Mass Model,1964-12-11T14:25:02Z,United States Air Force,Atlas Centaur,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit-O 2 & 5E-5,1964-12-13T00:08:10Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-4 | San Marco 1,1964-12-15T20:20:04Z,National Research Council,Scout X-4,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 15,1964-12-19T21:10:16Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta C | Explorer 26,1964-12-21T09:00:03Z,United States Air Force,Thor Delta C,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | Quill 1,1964-12-21T19:08:56Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 25,1965-01-11T09:29:58Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 16,1965-01-15T21:00:44Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor MG-18 | DSAP-1 F10,1965-01-19T05:03:42Z,United States Air Force,Thor MG-18,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan II GLV | Gemini II,1965-01-19T14:04:00Z,United States Air Force,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas D | OV1-1,1965-01-21T21:34:54Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Failure
+Thor Delta C | Tiros 9,1965-01-22T07:52:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Atlas SLV-3 Agena D | KH-7 15,1965-01-23T20:06:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-2I 63S1 | DS-A1 5,1965-01-30T09:36:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Thor Delta C | OSO 2,1965-02-03T16:36:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan IIIA | LES 1,1965-02-11T15:19:05Z,United States Air Force,Titan IIIA,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | DS-P1-Yu 2,1965-02-12T12:00:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Failure
+Saturn I | Pegasus 1,1965-02-16T14:37:03Z,National Aeronautics and Space Administration,Saturn I,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Agena B | Ranger 8,1965-02-17T17:05:00Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | DS-A1 6,1965-02-20T06:30:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Failure
+"Kosmos 65S3 | Strela-1 9,10,11",1965-02-21T11:00:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Voskhod-3KD 1,1965-02-22T07:30:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 17,1965-02-25T21:44:55Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92M | Meteor-1 2,1965-02-26T05:01:32Z,Soviet Space Program,Vostok 8A92M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Centaur | Surveyor-SD 1,1965-03-02T13:25:00Z,United States Air Force,Atlas Centaur,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Voskhod | Zenit-4 5,1965-03-07T08:59:28Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+"Thor SLV-2 Agena D | Poppy 6A,B,C,D",1965-03-09T18:29:47Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor DM-21 Ablestar | Transit-O 3,1965-03-11T13:39:59Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Luna-5c,1965-03-12T09:25:31Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas SLV-3 Agena D | KH-7 16,1965-03-12T19:20:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+"Kosmos 65S3 | Strela-1 12,13,14",1965-03-15T11:00:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor MG-18 | DSAP-1 F11,1965-03-18T04:43:46Z,United States Air Force,Thor MG-18,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Voskhod 2,1965-03-18T07:00:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Agena B | Ranger 9,1965-03-21T21:37:02Z,United States Air Force,Atlas Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini III,1965-03-23T14:24:00Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 26,1965-03-25T10:00:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 18,1965-03-25T21:11:17Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Blue Scout Jr | OAR 22-4,1965-03-30T16:09:31Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | SNAPSHOT-1,1965-04-03T21:25:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta D | Early Bird,1965-04-06T23:47:50Z,United States Air Force,Thor Delta D,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Blue Scout Jr | OAR 22-9,1965-04-09T18:10:37Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Luna-5d,1965-04-10T08:39:01Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Voskhod | Zenit-4 6,1965-04-17T09:50:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya 8K78 | Molniya-1 1,1965-04-23T01:55:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 17,1965-04-28T21:15:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-4 | Beacon Explorer C,1965-04-29T14:17:00Z,National Aeronautics and Space Administration,Scout X-4,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 19,1965-04-29T21:44:56Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Nike Cajun | Trailblazer Pellet,1965-05-04T05:50:00Z,National Aeronautics and Space Administration,Nike Cajun,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Titan IIIA | LES 2,1965-05-06T15:00:03Z,United States Air Force,Titan IIIA,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 27,1965-05-07T09:29:59Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya 8K78 | Luna-5,1965-05-09T07:49:37Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Blue Scout Jr | OAR 22-8,1965-05-12T16:02:35Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 20,1965-05-18T18:02:18Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Little Joe II | A-003,1965-05-19T13:01:04Z,National Aeronautics and Space Administration,Little Joe II,Launch Complex 36,White Sands Missile Range,Launch Failure
+Thor Burner 1 | OPS 8386,1965-05-20T16:30:53Z,United States Air Force,Thor Burner 1,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas D | FIRE 2,1965-05-22T21:55:00Z,United States Air Force,Atlas D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Saturn I | Pegasus 2,1965-05-25T07:35:01Z,National Aeronautics and Space Administration,Saturn I,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 7,1965-05-25T10:50:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 18,1965-05-27T20:48:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas D | OV1-3,1965-05-28T02:54:56Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Failure
+Thor Delta C | Explorer 28,1965-05-29T12:00:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini IV,1965-06-03T15:16:00Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Luna-6,1965-06-08T07:40:23Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Blue Scout Jr | OAR 22-5,1965-06-09T16:26:15Z,United States Air Force,Blue Scout Jr,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 21,1965-06-09T21:58:16Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 28,1965-06-15T09:43:02Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIC | Transtage 5,1965-06-18T14:00:04Z,United States Air Force,Titan IIIC,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit-O 4,1965-06-24T22:35:29Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 8,1965-06-25T09:45:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 19,1965-06-25T19:30:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 138,1965-06-29T18:21:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Thor Delta C | Tiros 10,1965-07-02T04:07:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | DS-A1 7,1965-07-02T06:29:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | KH-7 20,1965-07-12T19:00:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8A92 | Zenit-2 29,1965-07-13T11:00:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Kosmos 65S3 | Strela-1 15 to 19,1965-07-16T03:31:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+UR-500 | Proton 1,1965-07-16T11:16:00Z,Soviet Space Program,UR-500,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | P-770 Group 3-A 1,1965-07-17T05:55:01Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Zond-3,1965-07-18T14:32:05Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 22,1965-07-19T22:01:12Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Agena D | Vela 3A & 3B,1965-07-20T08:27:00Z,United States Air Force,Atlas Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos-2I 63S1 | DS-P1-Yu 3,1965-07-23T04:34:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Saturn I | Pegasus 3,1965-07-30T13:00:00Z,National Aeronautics and Space Administration,Saturn I,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 9,1965-08-03T11:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 21,1965-08-03T19:06:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout B | SEV,1965-08-10T17:54:00Z,National Aeronautics and Space Administration,Scout B,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+X-15 | Flight 143,1965-08-10T19:24:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Atlas Centaur D | Surveyor-SD 2,1965-08-11T14:31:04Z,United States Air Force,Atlas Centaur D,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor DM-21 Ablestar | Transit-O 5,1965-08-13T22:11:24Z,United States Air Force,Thor DM-21 Ablestar,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 30,1965-08-14T10:56:46Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 23,1965-08-17T20:59:57Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan II GLV | Gemini V,1965-08-21T14:00:00Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 10,1965-08-25T10:10:02Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta C | OSO C,1965-08-25T15:17:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure
+Thor SLV-2 Agena D | MRPV,1965-09-02T20:00:16Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure
+Kosmos 65S3 | Strela-1 20 to 24,1965-09-03T14:00:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 11,1965-09-09T09:30:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Burner 1 | DSAP-2 F1,1965-09-10T04:41:38Z,United States Air Force,Thor Burner 1,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 65S3 | Strela-1 25 to 29,1965-09-18T07:59:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 24,1965-09-22T21:31:14Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 12,1965-09-23T09:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+X-15 | Flight 150,1965-09-28T18:08:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Atlas SLV-3 Agena D | KH-7 22,1965-09-30T19:23:38Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Luna-7,1965-10-04T07:36:48Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas D | OV1-2,1965-10-05T09:07:08Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 25,1965-10-05T17:45:57Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Molniya-1 2,1965-10-14T06:00:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | OGO 2,1965-10-14T13:11:55Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 153,1965-10-14T20:47:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Titan IIIC | OV2-1,1965-10-15T17:23:59Z,United States Air Force,Titan IIIC,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 13,1965-10-16T08:14:59Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-U2-V 1,1965-10-19T05:44:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | GATV 6,1965-10-25T15:00:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure
+Voskhod | Zenit-4 14,1965-10-28T08:15:01Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 26,1965-10-28T21:17:12Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+UR-500 | Proton 2,1965-11-02T12:28:00Z,Soviet Space Program,UR-500,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-U2-V 2,1965-11-04T05:31:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Thor Delta E | GEOS A,1965-11-06T18:38:43Z,United States Air Force,Thor Delta E,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 23,1965-11-08T19:30:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Venera-2,1965-11-12T04:46:48Z,Soviet Space Program,Molniya 8K78,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya 8K78 | Venera-3,1965-11-16T04:13:35Z,Soviet Space Program,Molniya 8K78,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout X-4 | Solrad 8,1965-11-19T04:48:27Z,National Aeronautics and Space Administration,Scout X-4,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Molniya 8K78 | Venera-4a,1965-11-23T03:14:10Z,Soviet Space Program,Molniya 8K78,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Kosmos 11K63 | DS-U2-M 1,1965-11-26T12:14:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Diamant A | Asterix,1965-11-26T14:47:21Z,National Center of Space Research,Diamant A,Brigitte,"Interarmy Special Vehicles Test Centre, French Algeria",Launch Successful
+Vostok 8A92 | Zenit-2 31,1965-11-27T08:20:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2 Agena B | Alouette 2,1965-11-29T04:48:47Z,United States Air Force,Thor SLV-2 Agena B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Luna-8,1965-12-03T10:46:14Z,Soviet Space Program,Molniya 8K78,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan II GLV | Gemini VII,1965-12-04T19:30:03Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout X-4 | FR-1,1965-12-06T21:05:47Z,National Center of Space Research,Scout X-4,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 27,1965-12-09T21:10:19Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 32,1965-12-10T08:10:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan II GLV | Gemini VI-A,1965-12-15T13:37:26Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Delta E | Pioneer 6,1965-12-16T07:31:21Z,United States Air Force,Thor Delta E,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+R-36O 8K69 | OGCh 1,1965-12-16T14:09:22Z,Soviet Space Program,R-36O 8K69,67/21,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92M | Meteor-1 3,1965-12-17T02:20:00Z,Soviet Space Program,Vostok 8A92M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-P1-Yu 4,1965-12-21T06:14:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Titan IIIC | OV2-3,1965-12-21T14:00:01Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout A | Transit-O 6,1965-12-22T04:33:04Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 28,1965-12-24T21:06:15Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Soyuz 11A510 | US-AO 1,1965-12-27T22:24:56Z,Soviet Space Program,Soyuz 11A510,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-K-40 1,1965-12-28T08:10:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Failure
+Kosmos 65S3 | Strela-2 1,1965-12-28T12:30:00Z,Soviet Space Program,Kosmos 65S3,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Burner 1 | DSAP-2 F2,1966-01-07T04:48:23Z,United States Air Force,Thor Burner 1,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8A92 | Zenit-2 33,1966-01-07T08:20:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 24,1966-01-19T20:03:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Little Joe II | A-004,1966-01-20T15:17:01Z,National Aeronautics and Space Administration,Little Joe II,Launch Complex 36,White Sands Missile Range,Launch Successful
+Vostok 8A92 | Zenit-2 34,1966-01-22T08:30:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-I 1,1966-01-25T12:28:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Scout A | Transit-O 7,1966-01-28T17:06:00Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Luna-9,1966-01-31T11:41:37Z,Soviet Space Program,Molniya-M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 29,1966-02-02T21:32:13Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta C | ESSA 1,1966-02-03T07:41:23Z,United States Air Force,Thor Delta C,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+R-36O 8K69 | OGCh 2,1966-02-05T12:19:49Z,Soviet Space Program,R-36O 8K69,67/21,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | P-770 Group 3-D 2,1966-02-09T19:45:01Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout X-4A | Reentry 4B,1966-02-10T00:55:00Z,National Aeronautics and Space Administration,Scout X-4A,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Vostok 8A92 | Zenit-2 35,1966-02-10T08:40:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-U1-G 1,1966-02-11T18:00:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | KH-7 25,1966-02-15T20:30:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Diamant A | Diapason D-1A,1966-02-17T08:33:36Z,National Center of Space Research,Diamant A,Brigitte,"Interarmy Special Vehicles Test Centre, French Algeria",Launch Successful
+Voskhod | Zenit-4 15,1966-02-19T08:49:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-K-40 2,1966-02-21T13:30:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Failure
+Voskhod | Voskhod-3KV 3,1966-02-22T20:09:36Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Saturn IB | Apollo AS-201,1966-02-26T16:12:01Z,National Aeronautics and Space Administration,Saturn IB,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Delta E | ESSA 2,1966-02-28T13:58:00Z,United States Air Force,Thor Delta E,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya-M | Luna-10a,1966-03-01T11:03:49Z,Soviet Space Program,Molniya-M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor SLV-2A Agena D | KH-4A 30,1966-03-09T22:02:03Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | GATV 8,1966-03-16T15:00:03Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini VIII,1966-03-16T16:41:02Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 36,1966-03-17T10:28:42Z,Soviet Space Program,Vostok 8A92,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Trailblazer 2 | Trailblazer Pellet,1966-03-18T01:15:00Z,National Aeronautics and Space Administration,Trailblazer 2,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 26,1966-03-18T20:00:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 16,1966-03-21T09:40:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+UR-500 | Proton 3a,1966-03-24T14:39:00Z,Soviet Space Program,UR-500,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Scout A | Transit-O 8,1966-03-26T03:31:00Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Molniya-1 3a,1966-03-27T07:20:00Z,Soviet Space Program,Molniya 8K78,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas D | OV1-4 & 5,1966-03-30T09:20:12Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Burner 1 | DSAP-2 F3,1966-03-31T05:41:04Z,United States Air Force,Thor Burner 1,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Luna-10,1966-03-31T10:46:59Z,Soviet Space Program,Molniya-M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 17,1966-04-06T11:40:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | KH-4A 31,1966-04-07T22:02:55Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Centaur D | Surveyor M-2,1966-04-08T01:00:02Z,United States Air Force,Atlas Centaur D,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | OAO 1,1966-04-08T19:35:00Z,United States Air Force,Atlas SLV-3 Agena D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 27,1966-04-19T19:15:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 37,1966-04-20T10:40:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout B | OV3-1,1966-04-22T09:45:00Z,United States Air Force,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Molniya-1 3,1966-04-25T07:10:00Z,Soviet Space Program,Molniya 8K78,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 5,1966-04-26T10:04:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | KH-4A 32,1966-05-03T19:25:25Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8A92 | Zenit-2 38,1966-05-06T10:58:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92M | Meteor-1 4,1966-05-11T14:10:00Z,Soviet Space Program,Vostok 8A92M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 28,1966-05-14T19:02:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena B | Nimbus 2,1966-05-15T07:55:34Z,United States Air Force,Thor SLV-2A Agena B,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 18,1966-05-17T11:00:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Failure
+Atlas SLV-3 Agena D | GATV 9,1966-05-17T15:15:03Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure
+Scout A | Transit-O 9,1966-05-19T02:27:00Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+R-36O 8K69 | OGCh 4,1966-05-19T19:30:00Z,Soviet Space Program,R-36O 8K69,67/22,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor SLV-2A Agena D | KH-4A 33,1966-05-24T02:00:33Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-U2-I 1,1966-05-24T05:31:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Thor Delta C1 | Explorer 32,1966-05-25T14:00:00Z,United States Air Force,Thor Delta C1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas Centaur D | Surveyor 1,1966-05-30T14:41:01Z,United States Air Force,Atlas Centaur D,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 | ATDA,1966-06-01T15:00:02Z,United States Air Force,Atlas SLV-3,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini IX-A,1966-06-03T13:39:33Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 29,1966-06-03T19:25:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena B | OGO 3,1966-06-07T02:48:00Z,United States Air Force,Atlas SLV-3 Agena B,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-2 39,1966-06-08T11:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | RTS-1 1,1966-06-09T20:15:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Scout B | OV3-4,1966-06-10T04:15:00Z,United States Air Force,Scout B,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Titan IIIC | IDCSP 1 to 7,1966-06-16T14:00:01Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 19,1966-06-17T11:00:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | KH-4A 34,1966-06-21T21:31:30Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | Pageos,1966-06-24T00:12:02Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92M | Meteor-1 5,1966-06-25T10:30:00Z,Soviet Space Program,Vostok 8A92M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta E1 | Explorer 33,1966-07-01T16:02:25Z,United States Air Force,Thor Delta E1,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Saturn IB | Apollo AS-203,1966-07-05T14:53:17Z,National Aeronautics and Space Administration,Saturn IB,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful
+UR-500 | Proton 3,1966-07-06T12:57:00Z,Soviet Space Program,UR-500,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-P1-Yu 6,1966-07-08T05:31:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | KH-7 30,1966-07-12T17:55:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas D | OV1-7,1966-07-14T02:10:02Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 40,1966-07-14T10:25:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | GATV 10,1966-07-18T20:39:46Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini X,1966-07-18T22:20:26Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Soyuz 11A510 | US-AO 2,1966-07-20T08:58:00Z,Soviet Space Program,Soyuz 11A510,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 20,1966-07-28T10:50:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIB | KH-8 1,1966-07-29T18:30:20Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout B | OV3-3,1966-08-04T10:45:01Z,United States Air Force,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 21,1966-08-08T11:29:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 35,1966-08-09T20:46:03Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | Lunar Orbiter I,1966-08-10T19:26:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 31,1966-08-16T18:30:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E1 | Pioneer 7,1966-08-17T15:20:17Z,United States Air Force,Thor Delta E1,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout A | Transit-O 10,1966-08-18T02:25:02Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | RTS-1 2,1966-08-19T19:25:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Luna-11,1966-08-24T08:03:21Z,Soviet Space Program,Molniya-M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Saturn IB | Apollo AS-202,1966-08-25T17:15:32Z,National Aeronautics and Space Administration,Saturn IB,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan IIIC | IDCSP 8 to 14,1966-08-26T13:59:56Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Failure
+Voskhod | Zenit-4 22,1966-08-27T09:50:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | GATV 11,1966-09-12T13:05:02Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini XI,1966-09-12T14:42:26Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Burner 2 | DSAP-4A F1,1966-09-16T04:36:09Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 41,1966-09-16T09:30:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas SLV-3 Agena D | KH-7 32,1966-09-16T17:59:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Nike Cajun | Trailblazer Pellet,1966-09-17T01:57:00Z,National Aeronautics and Space Administration,Nike Cajun,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+R-36O 8K69 | OGCh 5,1966-09-17T22:35:00Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Centaur D | Surveyor 2,1966-09-20T12:32:00Z,United States Air Force,Atlas Centaur D,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 36,1966-09-20T21:14:05Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Lambda 4S | Ohsumi 1,1966-09-26T02:58:00Z,Institute of Space and Astronautical Science,Lambda 4S,KS Center,"Uchinoura Space Center, Japan",Launch Failure
+Titan IIIB | KH-8 2,1966-09-28T19:07:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E | ESSA 3,1966-10-02T10:39:03Z,United States Air Force,Thor Delta E,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | RTS-1 3,1966-10-05T22:00:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | KH-7 33,1966-10-12T19:15:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 42,1966-10-14T12:13:08Z,Soviet Space Program,Vostok 8A92,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Molniya 8K78 | Molniya-1 4,1966-10-20T07:50:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 23,1966-10-20T08:46:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya-M | Luna-12,1966-10-22T08:42:26Z,Soviet Space Program,Molniya-M,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Centaur D | Surveyor Model 3,1966-10-26T11:12:02Z,United States Air Force,Atlas Centaur D,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Delta E1 | INTELSAT II F-1,1966-10-26T23:05:00Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout B | OV3-2,1966-10-28T11:56:02Z,United States Air Force,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 174,1966-11-01T21:24:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+R-36O 8K69 | OGCh 6,1966-11-02T00:45:03Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Atlas SLV-3 Agena D | KH-7 34,1966-11-02T20:24:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIC | Gemini B,1966-11-03T13:50:42Z,United States Air Force,Titan IIIC,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | Lunar Orbiter 2,1966-11-06T23:21:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 37,1966-11-08T19:53:02Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | GATV 12,1966-11-11T19:07:59Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan II GLV | Gemini XII,1966-11-11T20:46:33Z,National Aeronautics and Space Administration,Titan II,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 24,1966-11-12T09:50:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K65 | Strela-2 2,1966-11-16T13:00:00Z,Soviet Space Program,Kosmos 11K65,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Vostok 8A92 | Zenit-2 43,1966-11-19T08:00:00Z,Soviet Space Program,Vostok 8A92,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Soyuz | Kosmos 133,1966-11-28T11:00:00Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 25,1966-12-03T08:15:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 35,1966-12-05T21:09:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | ATS 1,1966-12-07T02:12:01Z,United States Air Force,Atlas SLV-3 Agena D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas D | OV1-9 & 10,1966-12-11T21:09:57Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-U2-MP 1,1966-12-12T20:38:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Soyuz | Soyuz 7K-OK No.1,1966-12-14T11:00:00Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Titan IIIB | KH-8 3,1966-12-14T18:14:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta G | Biosat 1,1966-12-14T19:20:03Z,United States Air Force,Thor Delta G,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 44,1966-12-19T12:00:01Z,Soviet Space Program,Vostok 8A92,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Lambda 4S | Ohsumi 2,1966-12-20T02:20:00Z,Institute of Space and Astronautical Science,Lambda 4S,KS Center,"Uchinoura Space Center, Japan",Launch Failure
+Molniya-M | Luna-13,1966-12-21T10:17:08Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-2I 63S1 | DS-U2-D 1,1966-12-21T13:12:00Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas SLV-3 | PRIME 1,1966-12-21T22:15:02Z,United States Air Force,Atlas SLV-3,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor SLV-2A Agena D | Multigroup 1 & Setter 1A,1966-12-29T12:00:06Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E1 | INTELSAT II F-2,1967-01-11T10:55:00Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor SLV-2A Agena D | KH-4A 38,1967-01-14T21:28:21Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIC | IDCSP 8 to 15,1967-01-18T14:19:08Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+Vostok 8A92 | Zenit-2 45,1967-01-19T12:39:59Z,Soviet Space Program,Vostok 8A92,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+R-36O 8K69 | OGCh 7,1967-01-25T13:55:01Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta E | ESSA 4,1967-01-26T17:31:00Z,United States Air Force,Thor Delta E,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Saturn IB | Apollo 1 (Failure before launch),1967-01-27T23:31:19Z,National Aeronautics and Space Administration,Saturn IB,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Failure
+Scout B | OV3-5,1967-01-31T12:45:01Z,United States Air Force,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+Atlas SLV-3 Agena D | KH-7 36,1967-02-02T20:00:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas SLV-3 Agena D | Lunar Orbiter 3,1967-02-05T01:17:01Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Soyuz | Kosmos 140,1967-02-07T03:20:00Z,Soviet Space Program,Soyuz,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Burner 2 | DSAP-4A F2,1967-02-08T08:00:52Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Diamant A | Diademe D-1C,1967-02-08T09:39:39Z,National Center of Space Research,Diamant A,Brigitte,"Interarmy Special Vehicles Test Centre, French Algeria",Launch Successful
+Voskhod | Zenit-4 26,1967-02-08T10:19:59Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Trailblazer 2 | Trailblazer Pellet,1967-02-14T05:52:00Z,National Aeronautics and Space Administration,Trailblazer 2,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Kosmos 11K63 | DS-U2-I 2,1967-02-14T10:04:56Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Diamant A | Diademe D-1D,1967-02-15T10:06:57Z,National Center of Space Research,Diamant A,Brigitte,"Interarmy Special Vehicles Test Centre, French Algeria",Launch Successful
+Thor SLV-2A Agena D | KH-4A 39,1967-02-22T22:02:15Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIB | KH-8 4,1967-02-24T19:59:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 46,1967-02-27T08:45:01Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92M | Meteor-1 6,1967-02-28T14:34:59Z,Soviet Space Program,Vostok 8A92M,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-U2-M 2,1967-03-03T06:44:58Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Atlas SLV-3 | PRIME 2,1967-03-05T23:05:00Z,United States Air Force,Atlas SLV-3,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta C | OSO 3,1967-03-08T16:12:00Z,United States Air Force,Thor Delta C,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Proton / UR-500 K/D | Kosmos 146,1967-03-10T11:30:33Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92 | Zenit-2 47,1967-03-13T12:10:23Z,Soviet Space Program,Vostok 8A92,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-P1-I 2,1967-03-16T17:30:00Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-MO 1,1967-03-21T10:07:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Voskhod | Zenit-4 27,1967-03-22T12:44:59Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+R-36O 8K69 | OGCh 8,1967-03-22T14:05:02Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Delta E1 | INTELSAT II F-3,1967-03-23T01:30:12Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos 11K65 | Strela-2 3,1967-03-24T11:50:00Z,Soviet Space Program,Kosmos 11K65,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 7,1967-03-25T06:59:30Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | KH-4A 40,1967-03-30T18:54:23Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 48,1967-04-04T14:00:02Z,Soviet Space Program,Vostok 8A92,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | ATS 2,1967-04-06T03:23:01Z,United States Air Force,Atlas SLV-3 Agena D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Proton / UR-500 K/D | Kosmos 154,1967-04-08T09:00:33Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Voskhod | Zenit-4 28,1967-04-12T10:51:02Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Lambda 4S | Ohsumi 3,1967-04-13T02:40:00Z,Institute of Space and Astronautical Science,Lambda 4S,KS Center,"Uchinoura Space Center, Japan",Launch Failure
+Scout A | Transit-O 12,1967-04-14T03:25:00Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Centaur D | Surveyor 3,1967-04-17T07:05:01Z,United States Air Force,Atlas Centaur D,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 | PRIME 3,1967-04-20T01:35:01Z,United States Air Force,Atlas SLV-3,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E | ESSA 5,1967-04-20T11:21:10Z,United States Air Force,Thor Delta E,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Soyuz | Soyuz 1,1967-04-23T00:35:00Z,Soviet Space Program,Soyuz,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout B | San Marco 2,1967-04-26T10:06:24Z,National Research Council,Scout B,San Marco platform,"Broglio Space Center, Kenya",Launch Successful
+Titan IIIB | KH-8 5,1967-04-26T18:00:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Failure
+Vostok 8A92M | Meteor-1 7,1967-04-27T12:50:02Z,Soviet Space Program,Vostok 8A92M,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Titan IIIC | Vela 4A & 4B,1967-04-28T10:01:01Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3 Agena D | Lunar Orbiter 4,1967-05-04T22:25:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout A | Ariel 3,1967-05-05T16:00:01Z,Science and Engineering Research Council,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 41,1967-05-09T21:50:42Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92 | Zenit-2 49,1967-05-12T10:30:01Z,Soviet Space Program,Vostok 8A92,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-3M | Zaliv-GVM 1,1967-05-15T11:00:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Molniya-M | Ye-6LS 111,1967-05-16T21:43:57Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+R-36O 8K69 | OGCh 9,1967-05-17T16:05:02Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout A | Transit-O 13,1967-05-18T09:05:01Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 29,1967-05-22T14:00:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | KH-7 37,1967-05-22T18:30:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E1 | IMP F,1967-05-24T14:05:54Z,United States Air Force,Thor Delta E1,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya 8K78 | Molniya-1 5,1967-05-24T22:50:00Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout B | ESRO 2A,1967-05-30T02:06:00Z,European Space Research Organisation,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure
+"Thor SLV-2 Agena D | Poppy 7A,B,C,D",1967-05-31T09:30:48Z,United States Air Force,Thor SLV-2 Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 30,1967-06-01T10:40:02Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | KH-7 38,1967-06-04T18:07:01Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-U2-MP 2,1967-06-05T05:03:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Voskhod | Zenit-2 50,1967-06-08T13:00:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Molniya-M | Venera-4,1967-06-12T02:39:45Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 8,1967-06-12T18:06:00Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | Mariner 5,1967-06-14T06:01:00Z,United States Air Force,Atlas SLV-3 Agena D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos 11K63 | DS-U3-S 1,1967-06-16T04:44:00Z,Soviet Space Program,Kosmos 11K63,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 42,1967-06-16T21:35:22Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Venera-5a,1967-06-17T02:36:38Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Voskhod | Zenit-4 31,1967-06-20T11:00:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Failure
+Titan IIIB | KH-8 6,1967-06-20T16:15:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-3M | Tselina-O-GVM,1967-06-26T04:30:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Failure
+Thor Burner 2 | Aurora 1 & SECOR 9,1967-06-29T21:01:44Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIC | IDCSP 16 to 19,1967-07-01T13:15:01Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-2 51,1967-07-04T05:59:59Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas Centaur D | Surveyor 4,1967-07-14T11:53:29Z,United States Air Force,Atlas Centaur D,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+R-36O 8K69 | OGCh 10,1967-07-17T16:45:04Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta E1 | Explorer 35,1967-07-19T14:19:02Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 32,1967-07-21T06:00:04Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor SLV-2A Agena D | Multigroup 2 & Setter 1B,1967-07-25T03:48:10Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+"Atlas D | OV1-11,12,86",1967-07-27T19:00:03Z,United States Air Force,Atlas D,576B3,"Vandenberg SFB, CA, USA",Launch Failure
+Thor SLV-2A Agena D | OGO 4,1967-07-28T14:21:07Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+R-36O 8K69 | OGCh 11,1967-07-31T16:45:00Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3 Agena D | Lunar Orbiter 5,1967-08-01T22:33:00Z,United States Air Force,Atlas SLV-3 Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 43,1967-08-07T21:44:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+R-36O 8K69 | OGCh 12,1967-08-08T16:05:02Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 33,1967-08-09T05:45:18Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIB | KH-8 7,1967-08-16T17:07:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Burner 2 | DSAP-4A F3,1967-08-23T04:41:04Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 9,1967-08-24T04:59:49Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Molniya 8K78 | Molniya-1Yu 11L,1967-08-31T08:00:03Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-2 52,1967-09-01T10:30:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Failure
+Thor Delta G | Biosat 2,1967-09-07T22:04:26Z,United States Air Force,Thor Delta G,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3C Centaur | Surveyor 5,1967-09-08T07:57:01Z,United States Air Force,Atlas SLV-3C Centaur,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-4 34,1967-09-11T10:30:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 10,1967-09-12T17:00:00Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thorad SLV-2G Agena D | KH-4B 1,1967-09-15T19:41:15Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 53,1967-09-16T06:06:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+R-36O 8K69 | OGCh 13,1967-09-19T14:45:03Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIB | KH-8 8,1967-09-19T18:37:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+R-36O 8K69 | OGCh 14,1967-09-22T14:05:05Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Scout A | Transit-O 14,1967-09-25T08:25:00Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 54,1967-09-26T10:20:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos-3M | Zaliv-GVM 2,1967-09-27T11:00:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Failure
+Proton / UR-500 K/D | Soyuz 7K-L1 No.4L,1967-09-27T22:11:54Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Delta E1 | INTELSAT II F-4,1967-09-28T00:45:00Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Molniya 8K78 | Molniya-1 6,1967-10-03T05:00:01Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Burner 2 | DSAP-4A F4,1967-10-11T07:57:56Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 55,1967-10-11T11:30:04Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-4 35,1967-10-16T08:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+X-15 | Flight 190,1967-10-17T17:40:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+R-36O 8K69 | OGCh 15,1967-10-18T13:30:01Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta C1 | OSO 4,1967-10-18T15:58:00Z,United States Air Force,Thor Delta C1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Scout B | RAM C-1,1967-10-19T17:33:00Z,National Aeronautics and Space Administration,Scout B,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Molniya 8K78 | Molniya-1 7,1967-10-22T08:40:01Z,Soviet Space Program,Molniya 8K78,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Vostok 8A92M | Meteor-1 8,1967-10-24T22:49:09Z,Soviet Space Program,Vostok 8A92M,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Titan IIIB | KH-8 9,1967-10-25T19:15:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Tsiklon-2A | I2-BM (Kosmos-185),1967-10-27T02:21:19Z,Soviet Space Program,Tsiklon-2A,90/19,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Soyuz | Kosmos 186,1967-10-27T09:29:59Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+R-36O 8K69 | OGCh 16,1967-10-28T13:15:01Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Soyuz | Kosmos 188,1967-10-30T08:12:41Z,Soviet Space Program,Soyuz,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-3M | Tselina-O 1,1967-10-30T17:59:59Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 44,1967-11-02T21:31:19Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 36,1967-11-03T11:20:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Atlas SLV-3 Agena D | ATS 3,1967-11-05T23:37:00Z,United States Air Force,Atlas SLV-3 Agena D,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3C Centaur | Surveyor 6,1967-11-07T07:39:01Z,United States Air Force,Atlas SLV-3C Centaur,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Saturn V | Apollo 4,1967-11-09T12:00:01Z,National Aeronautics and Space Administration,Saturn V,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful
+Thor Delta E1 | ESSA 6,1967-11-10T17:53:08Z,United States Air Force,Thor Delta E1,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+X-15 | Flight 191,1967-11-15T18:30:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Failure
+Kosmos 11K63 | DS-P1-Yu 11,1967-11-21T14:29:48Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Proton / UR-500 K/D | Soyuz 7K-L1 No.5L,1967-11-22T19:07:59Z,Soviet Space Program,Proton,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Kosmos-3M | Zaliv 1,1967-11-23T15:00:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2 56,1967-11-25T11:30:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+SPARTA | WRESAT,1967-11-29T04:49:00Z,Weapons Research Establishment,SPARTA,Launch Area 8,RAAF Woomera Range Complex,Launch Successful
+Voskhod | Zenit-4 37,1967-12-03T12:00:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Scout B | OV3-6,1967-12-05T01:03:46Z,United States Air Force,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIB | KH-8 10,1967-12-05T18:45:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thorad SLV-2G Agena D | KH-4B 2,1967-12-09T22:25:41Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E1 | Pioneer 8,1967-12-13T14:08:00Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-2 57,1967-12-16T12:00:37Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos-2I 63S1 | DS-U1-G 2,1967-12-19T06:30:07Z,Soviet Space Program,Kosmos-2I 63S1,86/1,"Kapustin Yar, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-U2-V 3,1967-12-26T09:01:59Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Tsiklon-2A | US-AO 3,1967-12-27T11:28:51Z,Soviet Space Program,Tsiklon-2A,90/19,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3C Centaur | Surveyor 7,1968-01-07T06:30:00Z,United States Air Force,Atlas SLV-3C Centaur,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Delta E1 | GEOS B,1968-01-11T16:16:00Z,United States Air Force,Thor Delta E1,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 58,1968-01-16T12:00:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thor SLV-2A Agena D | Multigroup 3 & Setter 1B-2,1968-01-17T10:12:00Z,United States Air Force,Thor SLV-2A Agena D,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIB | KH-8 11,1968-01-18T19:04:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-3M | Tselina-O 2,1968-01-19T22:00:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Saturn IB | Apollo 5,1968-01-22T22:48:09Z,National Aeronautics and Space Administration,Saturn IB,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 45,1968-01-24T22:26:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 38,1968-02-06T08:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya-M | Ye-6LS 112,1968-02-07T10:43:54Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Kosmos 11K63 | DS-U2-V 4,1968-02-20T10:03:11Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Kosmos-3M | Sfera 1,1968-02-20T16:00:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Scout A | Transit-O 18,1968-03-02T03:55:01Z,United States Air Force,Scout A,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Proton / UR-500 K/D | Zond 4,1968-03-02T18:29:23Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3A Agena D | OGO 5,1968-03-04T13:06:01Z,United States Air Force,Atlas SLV-3A Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos 11K63 | DS-P1-I 3,1968-03-05T11:20:00Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2 59,1968-03-05T12:30:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Scout B | Explorer 37,1968-03-05T18:28:00Z,National Aeronautics and Space Administration,Scout B,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Kosmos 11K63 | DS-U1-Ya 1,1968-03-06T11:02:57Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Failure
+Titan IIIB | KH-8 12,1968-03-13T19:51:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Vostok 8A92M | Meteor-1 9,1968-03-14T09:34:01Z,Soviet Space Program,Vostok 8A92M,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 46,1968-03-14T22:00:14Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 39,1968-03-16T12:30:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2M 1,1968-03-21T09:50:00Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Tsiklon-2A | US-AO 4,1968-03-22T09:30:34Z,Soviet Space Program,Tsiklon-2A,90/19,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-2 60,1968-04-03T11:00:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Saturn V | Apollo 6,1968-04-04T12:00:01Z,National Aeronautics and Space Administration,Saturn V,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch was a Partial Failure
+Atlas F | OV1-13 & 14,1968-04-06T09:59:42Z,United States Air Force,Atlas F,576A2,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Luna-14,1968-04-07T10:09:32Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 12,1968-04-09T11:26:25Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Soyuz | Kosmos 212,1968-04-14T10:00:00Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Soyuz | Kosmos 213,1968-04-15T09:34:18Z,Soviet Space Program,Soyuz,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIB | KH-8 13,1968-04-17T17:00:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 40,1968-04-18T10:30:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-U1-A,1968-04-18T22:29:53Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Voskhod | Zenit-2 61,1968-04-20T10:30:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya-M | Molniya-1 8,1968-04-21T04:20:01Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Proton / UR-500 K/D | Soyuz 7K-L1 No.7L,1968-04-22T23:01:27Z,Soviet Space Program,Proton,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Tsiklon-2A | I2M 1,1968-04-24T16:00:00Z,Soviet Space Program,Tsiklon-2A,90/20,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+R-36O 8K69 | OGCh 17,1968-04-25T00:45:10Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-U2-D 2,1968-04-26T04:42:56Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Thorad SLV-2G Agena D | KH-4B 3,1968-05-01T21:31:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos-3M | Zaliv 2,1968-05-07T13:58:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Scout B | ESRO 2B,1968-05-17T02:06:00Z,European Space Research Organisation,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Thorad SLV-2G Agena D | Nimbus B,1968-05-18T08:23:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure
+R-36O 8K69 | OGCh 18,1968-05-20T22:05:02Z,Soviet Space Program,R-36O 8K69,162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Burner 2 | DSAP-4B F1,1968-05-23T04:38:12Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 13,1968-05-24T07:04:50Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+R-36O 8K69 | OGCh 19,1968-05-27T23:15:01Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 14,1968-05-30T20:29:49Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2 62,1968-06-01T10:50:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-4 41,1968-06-04T06:45:02Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-3M | Sfera 2,1968-06-04T18:45:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Failure
+Titan IIIB | KH-8 14,1968-06-05T17:33:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-U1-Ya 2,1968-06-11T21:29:54Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Vostok 8A92M | Meteor-1 10,1968-06-12T13:14:59Z,Soviet Space Program,Vostok 8A92M,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Titan IIIC | IDCSP 20 to 27,1968-06-13T14:03:50Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos 11K65 | Strela-2 4,1968-06-15T12:25:00Z,Soviet Space Program,Kosmos 11K65,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Voskhod | Zenit-4 42,1968-06-18T06:15:06Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 47,1968-06-20T21:46:05Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2M 2,1968-06-21T12:00:03Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 43,1968-06-26T11:00:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thor Delta J | RAE 1,1968-07-04T17:26:50Z,United States Air Force,Thor Delta J,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-U3-S 2,1968-07-05T06:59:50Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Molniya-M | Molniya-1 9,1968-07-05T15:25:59Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-2 63,1968-07-10T19:49:58Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas F | OV1-15,1968-07-11T19:30:00Z,United States Air Force,Atlas F,576A2,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 44,1968-07-16T13:10:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 15,1968-07-18T19:59:50Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Proton / UR-500 K/D | Soyuz 7K-L1 No.8L,1968-07-21T00:00:00Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Voskhod | Zenit-4 45,1968-07-30T07:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3A Agena D | Canyon 1,1968-08-06T11:08:00Z,United States Air Force,Atlas SLV-3A Agena D,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan IIIB | KH-8 15,1968-08-06T16:30:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thorad SLV-2G Agena D | KH-4B 4,1968-08-07T21:36:55Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Scout B | Explorer 39,1968-08-08T20:12:00Z,National Aeronautics and Space Administration,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 64,1968-08-09T07:00:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Atlas SLV-3C Centaur | ATS 4,1968-08-10T22:33:02Z,United States Air Force,Atlas SLV-3C Centaur,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Thor Delta N | ESSA 7,1968-08-16T11:24:33Z,United States Air Force,Thor Delta N,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Atlas Burner 2 | UVR,1968-08-16T20:57:44Z,United States Air Force,Atlas Burner 2,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Failure
+X-15 | Flight 197,1968-08-21T17:05:00Z,United States Air Force,North American X-15,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful
+Scout B | RAM C-2,1968-08-22T15:16:00Z,National Aeronautics and Space Administration,Scout B,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful
+Kosmos 11K65 | Strela-2 5,1968-08-27T11:29:00Z,Soviet Space Program,Kosmos 11K65,41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 46,1968-08-27T12:29:59Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Soyuz | Kosmos 238,1968-08-28T10:00:00Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 47,1968-09-05T07:00:01Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIB | KH-8 16,1968-09-10T18:30:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-2 65,1968-09-14T06:50:00Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Proton / UR-500 K/D | Zond 5,1968-09-14T21:42:11Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 48,1968-09-16T12:30:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 48,1968-09-18T21:32:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta M | INTELSAT III F-1,1968-09-19T00:09:00Z,United States Air Force,Thor Delta M,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure
+Kosmos 11K63 | DS-P1-I 4,1968-09-20T14:39:59Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2M 3,1968-09-23T07:39:59Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Titan IIIC | OV2-5,1968-09-26T07:37:01Z,United States Air Force,Titan IIIC,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful
+R-36O 8K69 | OGCh 20,1968-10-02T13:35:01Z,Soviet Space Program,R-36O 8K69,161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 16,1968-10-03T12:58:59Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Scout B | ESRO 1A (Aurorae),1968-10-03T20:49:39Z,European Space Research Organisation,Scout B,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Molniya-1 10,1968-10-05T00:32:00Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thorad SLV-2G Agena D | Strawman 1,1968-10-05T11:16:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful
+Voskhod | Zenit-4 49,1968-10-07T12:05:46Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2 66,1968-10-11T12:05:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Saturn IB | Apollo 7,1968-10-11T15:02:45Z,National Aeronautics and Space Administration,Saturn IB,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful
+Tsiklon-2A | I2M 2,1968-10-19T04:20:00Z,Soviet Space Program,Tsiklon-2A,90/19,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Tsiklon-2A | I2P 1,1968-10-20T04:02:00Z,Soviet Space Program,Tsiklon-2A,90/20,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Burner 2 | DSAP-4B F2,1968-10-23T04:34:03Z,United States Air Force,Thor Burner 2,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful
+Soyuz | Soyuz 2,1968-10-25T09:00:00Z,Soviet Space Program,Soyuz,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Soyuz | Soyuz 3,1968-10-26T08:34:18Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Kosmos-3M | Tselina-O 3,1968-10-30T22:00:00Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-4M 1,1968-10-31T09:14:55Z,Soviet Space Program,Voskhod,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Tsiklon-2A | I2P 2,1968-11-01T00:27:15Z,Soviet Space Program,Tsiklon-2A,90/20,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thorad SLV-2G Agena D | KH-4B 5,1968-11-03T21:30:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Titan IIIB | KH-8 17,1968-11-06T19:10:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E1 | Pioneer 9,1968-11-08T09:46:29Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Proton / UR-500 K/D | Zond 6,1968-11-10T19:11:31Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-2 67,1968-11-13T12:00:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Proton | Proton-4,1968-11-16T11:40:00Z,Soviet Space Program,Proton,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-4 50,1968-11-21T12:10:01Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Voskhod | Zenit-2 68,1968-11-29T12:40:34Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Europa I | STV 1,1968-11-29T23:12:02Z,European Launcher Development Organisation,Europa I,Launch Area 6A,RAAF Woomera Range Complex,Launch Failure
+Kosmos-3M | Sfera 3,1968-11-30T12:00:01Z,Soviet Space Program,Kosmos-3M,132/2,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Kosmos 11K63 | DS-P1-Yu 17,1968-12-03T14:52:21Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Titan IIIB | KH-8 18,1968-12-04T19:23:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
+Thor Delta E1 | HEOS 1,1968-12-05T18:55:00Z,United States Air Force,Thor Delta E1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Atlas SLV-3C Centaur | OAO 2,1968-12-07T08:40:09Z,United States Air Force,Atlas SLV-3C Centaur,Launch Complex 36B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Voskhod | Zenit-2 69,1968-12-10T08:25:01Z,Soviet Space Program,Voskhod,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thorad SLV-2G Agena D | KH-4A 49,1968-12-12T22:22:00Z,United States Air Force,Thorad SLV-2G Agena D,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful
+Kosmos 11K63 | DS-U2-I 3,1968-12-14T05:09:54Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Thor Delta N | ESSA 8,1968-12-15T17:21:04Z,United States Air Force,Thor Delta N,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful
+Molniya-M | Molniya-1Yu 15L,1968-12-16T09:15:03Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Thor Delta M | INTELSAT III F-2,1968-12-19T00:32:00Z,United States Air Force,Thor Delta M,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful
+Kosmos 11K63 | DS-U2-GK 1,1968-12-19T23:55:00Z,Soviet Space Program,Kosmos 11K63,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Saturn V | Apollo 8,1968-12-21T12:51:00Z,National Aeronautics and Space Administration,Saturn V,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful
+Kosmos 11K63 | DS-U2-GF,1968-12-26T09:45:02Z,Soviet Space Program,Kosmos 11K63,86/4,"Kapustin Yar, Russian Federation",Launch Successful
+Molniya-M | Venera-5,1969-01-05T06:28:08Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Molniya-M | Venera-6,1969-01-10T05:51:52Z,Soviet Space Program,Molniya-M,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Voskhod | Zenit-2 70,1969-01-12T12:10:00Z,Soviet Space Program,Voskhod,41/1,"Plesetsk Cosmodrome, Russian Federation",Launch Successful
+Soyuz | Soyuz 4,1969-01-14T07:30:00Z,Soviet Space Program,Soyuz,31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Soyuz | Soyuz 5,1969-01-15T07:04:57Z,Soviet Space Program,Soyuz,1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful
+Proton / UR-500 K/D | Soyuz 7K-L1 No.13L,1969-01-20T04:14:36Z,Soviet Space Program,Proton,81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure
+Thor Delta C1 | OSO 5,1969-01-22T16:48:00Z,United States Air Force,Thor Delta C1,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful
+Titan IIIB | KH-8 19,1969-01-22T19:10:00Z,United States Air Force,Titan IIIB,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful
