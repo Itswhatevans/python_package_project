@@ -1,0 +1,13 @@
+[project]
+name = "rocket-failures"
+version = "0.1.0"
+description = "Analyze rocket launch failures"
+authors = [{name = "Jordan Evans and Trent Peterson"}]
+dependencies = [
+    "pandas",
+    "scikit-learn"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
