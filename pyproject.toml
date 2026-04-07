@@ -1,5 +1,5 @@
 [project]
-name = "Rocket_Launches"
+name = "rocket-failures"
 version = "0.1.0"
 description = "Analyze rocket launch data over time"
 authors = [{name = "Jordan Evans and Trent Peterson"}]
@@ -11,3 +11,6 @@ dependencies = [
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
