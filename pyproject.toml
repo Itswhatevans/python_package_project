@@ -1,5 +1,5 @@
 [project]
-name = "rocket-failures"
+name = "Rocket_Launches"
 version = "0.1.0"
 description = "Analyze rocket launch data over time"
 authors = [{name = "Jordan Evans and Trent Peterson"}]
