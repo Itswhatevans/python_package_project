@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: Docs
+  output-dir: docs
 
 website:
   title: "Rocket Launches Package"
