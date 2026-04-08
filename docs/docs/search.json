@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rocket Launches Package",
+    "section": "",
+    "text": "Home | Tutorial | Function Reference"
+  },
+  {
+    "objectID": "index.html#what-this-package-does",
+    "href": "index.html#what-this-package-does",
+    "title": "Rocket Launches Package",
+    "section": "1.1 🔧 What This Package Does",
+    "text": "1.1 🔧 What This Package Does\n\nPulls historical and modern rocket launch data\nCleans and formats datasets\nAdds launch era and country information\nOutputs a final dataset ready for analysis"
+  },
+  {
+    "objectID": "index.html#quick-example",
+    "href": "index.html#quick-example",
+    "title": "Rocket Launches Package",
+    "section": "1.2 ⚡ Quick Example",
+    "text": "1.2 ⚡ Quick Example\n```python from Rocket_Launches import main\ndf = main() df.head()"
+  }
+]
