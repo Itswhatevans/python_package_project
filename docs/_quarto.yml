@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Rocket Failures Package"
+  title: "Rocket Launches Package"
   navbar:
     left:
       - href: index.qmd
@@ -16,3 +17,4 @@ format:
   html:
     theme: cosmo
     toc: true
+    number-sections: true
