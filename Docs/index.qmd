@@ -1,0 +1,23 @@
+---
+title: "Rocket Launches Package"
+---
+[Home](index.qmd) | [Tutorial](tutorial.qmd) | [Function Reference](reference.qmd)
+
+# 🚀 Rocket Launches Package
+
+Analyze rocket launch data over time using Python. This package helps you collect, clean, and explore rocket launch datasets from The Space Devs API.
+
+## 🔧 What This Package Does
+
+- Pulls historical and modern rocket launch data
+- Cleans and formats datasets
+- Adds launch era and country information
+- Outputs a final dataset ready for analysis
+
+## ⚡ Quick Example
+
+```python
+from Rocket_Launches import main
+
+df = main()
+df.head()
