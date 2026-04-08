@@ -5,7 +5,11 @@ description = "Analyze rocket launch data over time"
 authors = [{name = "Jordan Evans and Trent Peterson"}]
 dependencies = [
     "pandas",
-    "scikit-learn"
+    "scikit-learn",
+    "numpy",
+    "requests",
+    "beautifulsoup4",
+    "selenium"
 ]
 
 [build-system]
