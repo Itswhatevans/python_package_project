@@ -1,0 +1,173 @@
+---
+title: "Function Reference"
+---
+
+[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html)
+
+# 📚 Function Reference
+
+This page documents the main functions available in the `Rocket_Launches` package. These functions are designed to help you explore rocket launch trends, analyze outcomes, and build predictive models.
+
+---
+
+# 🌍 Data Preparation
+
+## `add_country(df)`
+
+Extracts the country from the `location` column.
+
+**Parameters:**
+- `df` (pandas DataFrame): Dataset containing a `location` column
+
+**Returns:**
+- DataFrame with a new `country` column
+
+---
+
+# 📊 Descriptive Analysis
+
+## `launches_per_year(df)`
+
+Calculates the total number of launches per year.
+
+**Parameters:**
+- `df` (pandas DataFrame)
+
+**Returns:**
+- DataFrame with:
+  - `year`
+  - `launch_count`
+
+---
+
+## `status_by_year(df)`
+
+Counts launch outcomes (status) for each year.
+
+**Parameters:**
+- `df` (pandas DataFrame)
+
+**Returns:**
+- DataFrame with:
+  - `year`
+  - `status`
+  - `count`
+
+---
+
+## `rocket_usage(df, top_n=10)`
+
+Analyzes usage trends for the most common rocket families.
+
+**Parameters:**
+- `df` (pandas DataFrame)
+- `top_n` (int): Number of top rocket families to include
+
+**Returns:**
+- DataFrame with:
+  - `year`
+  - `rocket_family`
+  - `count`
+
+---
+
+## `status_by_location(df)`
+
+Counts launch outcomes by location.
+
+**Parameters:**
+- `df` (pandas DataFrame)
+
+**Returns:**
+- DataFrame with:
+  - `location`
+  - `status`
+  - `count`
+
+---
+
+## `launches_by_country(df)`
+
+Aggregates launch counts by country and year.
+
+**Parameters:**
+- `df` (pandas DataFrame)
+
+**Returns:**
+- DataFrame with:
+  - `country`
+  - `year`
+  - `launch_count`
+
+---
+
+# 🤖 Modeling Functions
+
+## `run_failure_model(df)`
+
+Builds a logistic regression model to predict launch failure based on available features.
+
+**Details:**
+- Uses `status` as the outcome variable
+- Encodes:
+  - `"Launch Successful"` → 0  
+  - `"Launch Failure"` → 1  
+  - `"Launch was a Partial Failure"` → 1  
+
+- Uses the following features:
+  - `year`
+  - `location`
+  - `rocket_family`
+
+**Parameters:**
+- `df` (pandas DataFrame)
+
+**Returns:**
+- `model`: trained logistic regression model  
+- `X_test`: test feature set  
+- `y_test`: test labels  
+
+---
+
+## `evaluate_model(model, X_test, y_test)`
+
+Evaluates the performance of the trained model.
+
+**Parameters:**
+- `model`: trained model from `run_failure_model`
+- `X_test`: test feature set
+- `y_test`: true labels
+
+**Returns:**
+- Dictionary with:
+  - `accuracy`: classification accuracy of the model
+
+---
+
+# 📝 Notes
+
+- The dataset must include the following columns:
+  - `year`
+  - `location`
+  - `rocket_family`
+  - `status`
+
+- Only the following launch statuses are used in modeling:
+  - Launch Successful  
+  - Launch Failure  
+  - Launch was a Partial Failure  
+
+- Rows with missing values in required fields are automatically removed during modeling.
+
+---
+
+# 🚀 Summary
+
+The `Rocket_Launches` package provides tools for:
+
+- Exploring launch trends over time  
+- Comparing rocket family usage  
+- Analyzing geographic differences  
+- Modeling and predicting launch outcomes  
+
+For a step-by-step walkthrough, see the **Tutorial** page.

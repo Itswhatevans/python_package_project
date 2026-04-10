@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>reference – Rocket Launches Package</title>
+<title>Function Reference – Rocket Launches Package</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -112,17 +112,178 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#function-reference" id="toc-function-reference" class="nav-link active" data-scroll-target="#function-reference"><span class="header-section-number">1</span> 📚 Function Reference</a></li>
+  <li><a href="#data-preparation" id="toc-data-preparation" class="nav-link" data-scroll-target="#data-preparation"><span class="header-section-number">2</span> 🌍 Data Preparation</a>
+  <ul class="collapse">
+  <li><a href="#add_countrydf" id="toc-add_countrydf" class="nav-link" data-scroll-target="#add_countrydf"><span class="header-section-number">2.1</span> <code>add_country(df)</code></a></li>
+  </ul></li>
+  <li><a href="#descriptive-analysis" id="toc-descriptive-analysis" class="nav-link" data-scroll-target="#descriptive-analysis"><span class="header-section-number">3</span> 📊 Descriptive Analysis</a>
+  <ul class="collapse">
+  <li><a href="#launches_per_yeardf" id="toc-launches_per_yeardf" class="nav-link" data-scroll-target="#launches_per_yeardf"><span class="header-section-number">3.1</span> <code>launches_per_year(df)</code></a></li>
+  <li><a href="#status_by_yeardf" id="toc-status_by_yeardf" class="nav-link" data-scroll-target="#status_by_yeardf"><span class="header-section-number">3.2</span> <code>status_by_year(df)</code></a></li>
+  <li><a href="#rocket_usagedf-top_n10" id="toc-rocket_usagedf-top_n10" class="nav-link" data-scroll-target="#rocket_usagedf-top_n10"><span class="header-section-number">3.3</span> <code>rocket_usage(df, top_n=10)</code></a></li>
+  <li><a href="#status_by_locationdf" id="toc-status_by_locationdf" class="nav-link" data-scroll-target="#status_by_locationdf"><span class="header-section-number">3.4</span> <code>status_by_location(df)</code></a></li>
+  <li><a href="#launches_by_countrydf" id="toc-launches_by_countrydf" class="nav-link" data-scroll-target="#launches_by_countrydf"><span class="header-section-number">3.5</span> <code>launches_by_country(df)</code></a></li>
+  </ul></li>
+  <li><a href="#modeling-functions" id="toc-modeling-functions" class="nav-link" data-scroll-target="#modeling-functions"><span class="header-section-number">4</span> 🤖 Modeling Functions</a>
+  <ul class="collapse">
+  <li><a href="#run_failure_modeldf" id="toc-run_failure_modeldf" class="nav-link" data-scroll-target="#run_failure_modeldf"><span class="header-section-number">4.1</span> <code>run_failure_model(df)</code></a></li>
+  <li><a href="#evaluate_modelmodel-x_test-y_test" id="toc-evaluate_modelmodel-x_test-y_test" class="nav-link" data-scroll-target="#evaluate_modelmodel-x_test-y_test"><span class="header-section-number">4.2</span> <code>evaluate_model(model, X_test, y_test)</code></a></li>
+  </ul></li>
+  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes"><span class="header-section-number">5</span> 📝 Notes</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">6</span> 🚀 Summary</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Function Reference</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
+
+<p><a href="index.html">Home</a> | <a href="tutorial.html">Tutorial</a> | <a href="reference.html">Function Reference</a></p>
+<section id="function-reference" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> 📚 Function Reference</h1>
+<p>This page documents the main functions available in the <code>Rocket_Launches</code> package. These functions are designed to help you explore rocket launch trends, analyze outcomes, and build predictive models.</p>
+<hr>
+</section>
+<section id="data-preparation" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> 🌍 Data Preparation</h1>
+<section id="add_countrydf" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="add_countrydf"><span class="header-section-number">2.1</span> <code>add_country(df)</code></h2>
+<p>Extracts the country from the <code>location</code> column.</p>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame): Dataset containing a <code>location</code> column</p>
+<p><strong>Returns:</strong> - DataFrame with a new <code>country</code> column</p>
+<hr>
+</section>
+</section>
+<section id="descriptive-analysis" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> 📊 Descriptive Analysis</h1>
+<section id="launches_per_yeardf" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="launches_per_yeardf"><span class="header-section-number">3.1</span> <code>launches_per_year(df)</code></h2>
+<p>Calculates the total number of launches per year.</p>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
+<p><strong>Returns:</strong> - DataFrame with: - <code>year</code> - <code>launch_count</code></p>
+<hr>
+</section>
+<section id="status_by_yeardf" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="status_by_yeardf"><span class="header-section-number">3.2</span> <code>status_by_year(df)</code></h2>
+<p>Counts launch outcomes (status) for each year.</p>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
+<p><strong>Returns:</strong> - DataFrame with: - <code>year</code> - <code>status</code> - <code>count</code></p>
+<hr>
+</section>
+<section id="rocket_usagedf-top_n10" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="rocket_usagedf-top_n10"><span class="header-section-number">3.3</span> <code>rocket_usage(df, top_n=10)</code></h2>
+<p>Analyzes usage trends for the most common rocket families.</p>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame) - <code>top_n</code> (int): Number of top rocket families to include</p>
+<p><strong>Returns:</strong> - DataFrame with: - <code>year</code> - <code>rocket_family</code> - <code>count</code></p>
+<hr>
+</section>
+<section id="status_by_locationdf" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="status_by_locationdf"><span class="header-section-number">3.4</span> <code>status_by_location(df)</code></h2>
+<p>Counts launch outcomes by location.</p>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
+<p><strong>Returns:</strong> - DataFrame with: - <code>location</code> - <code>status</code> - <code>count</code></p>
+<hr>
+</section>
+<section id="launches_by_countrydf" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="launches_by_countrydf"><span class="header-section-number">3.5</span> <code>launches_by_country(df)</code></h2>
+<p>Aggregates launch counts by country and year.</p>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
+<p><strong>Returns:</strong> - DataFrame with: - <code>country</code> - <code>year</code> - <code>launch_count</code></p>
+<hr>
+</section>
+</section>
+<section id="modeling-functions" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> 🤖 Modeling Functions</h1>
+<section id="run_failure_modeldf" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="run_failure_modeldf"><span class="header-section-number">4.1</span> <code>run_failure_model(df)</code></h2>
+<p>Builds a logistic regression model to predict launch failure based on available features.</p>
+<p><strong>Details:</strong> - Uses <code>status</code> as the outcome variable - Encodes: - <code>"Launch Successful"</code> → 0<br>
+- <code>"Launch Failure"</code> → 1<br>
+- <code>"Launch was a Partial Failure"</code> → 1</p>
+<ul>
+<li>Uses the following features:
+<ul>
+<li><code>year</code></li>
+<li><code>location</code></li>
+<li><code>rocket_family</code></li>
+</ul></li>
+</ul>
+<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
+<p><strong>Returns:</strong> - <code>model</code>: trained logistic regression model<br>
+- <code>X_test</code>: test feature set<br>
+- <code>y_test</code>: test labels</p>
+<hr>
+</section>
+<section id="evaluate_modelmodel-x_test-y_test" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="evaluate_modelmodel-x_test-y_test"><span class="header-section-number">4.2</span> <code>evaluate_model(model, X_test, y_test)</code></h2>
+<p>Evaluates the performance of the trained model.</p>
+<p><strong>Parameters:</strong> - <code>model</code>: trained model from <code>run_failure_model</code> - <code>X_test</code>: test feature set - <code>y_test</code>: true labels</p>
+<p><strong>Returns:</strong> - Dictionary with: - <code>accuracy</code>: classification accuracy of the model</p>
+<hr>
+</section>
+</section>
+<section id="notes" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> 📝 Notes</h1>
+<ul>
+<li>The dataset must include the following columns:
+<ul>
+<li><code>year</code></li>
+<li><code>location</code></li>
+<li><code>rocket_family</code></li>
+<li><code>status</code></li>
+</ul></li>
+<li>Only the following launch statuses are used in modeling:
+<ul>
+<li>Launch Successful<br>
+</li>
+<li>Launch Failure<br>
+</li>
+<li>Launch was a Partial Failure</li>
+</ul></li>
+<li>Rows with missing values in required fields are automatically removed during modeling.</li>
+</ul>
+<hr>
+</section>
+<section id="summary" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> 🚀 Summary</h1>
+<p>The <code>Rocket_Launches</code> package provides tools for:</p>
+<ul>
+<li>Exploring launch trends over time<br>
+</li>
+<li>Comparing rocket family usage<br>
+</li>
+<li>Analyzing geographic differences<br>
+</li>
+<li>Modeling and predicting launch outcomes</li>
+</ul>
+<p>For a step-by-step walkthrough, see the <strong>Tutorial</strong> page.</p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

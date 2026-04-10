@@ -1,1 +1,153 @@
+---
+title: "Tutorial"
+---
 
+[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html)
+
+# 📘 Rocket Launches Package Tutorial
+
+This tutorial walks through how to use the `Rocket_Launches` package to explore rocket launch data, analyze trends, and build simple predictive models.
+
+---
+
+# 🚀 1. Load the Data
+
+Start by importing the package and loading your dataset.
+
+```python
+import pandas as pd
+from Rocket_Launches import *
+
+df = pd.read_csv("rocket_launches_dataset.csv")
+
+df.head()
+```
+
+At this stage, your dataset should include cleaned launch records with columns such as:
+- year  
+- location  
+- rocket_family  
+- status  
+
+---
+
+# 🌍 2. Explore Launch Activity Over Time
+
+One of the first things we can look at is how launch activity changes over time.
+
+```python
+from Rocket_Launches import launches_per_year
+
+launches_per_year(df).head()
+```
+
+This shows the total number of launches per year, helping you identify growth periods and dips in space activity.
+
+---
+
+# 🚀 3. Rocket Family Usage
+
+Next, we can examine which rocket families are used most frequently.
+
+```python
+from Rocket_Launches import rocket_usage
+
+rocket_usage(df, top_n=10).head()
+```
+
+This helps identify:
+- Most commonly used rockets  
+- How rocket popularity changes over time  
+
+---
+
+# 🧭 4. Launch Outcomes Over Time
+
+We can analyze launch outcomes over time.
+
+```python
+from Rocket_Launches import status_by_year
+
+status_by_year(df).head()
+```
+
+This allows us to compare:
+- Successful launches  
+- Failed launches  
+- Partial failures  
+
+across different years.
+
+---
+
+# 🌎 5. Geographic Patterns
+
+## Launches by Location
+
+```python
+from Rocket_Launches import status_by_location
+
+status_by_location(df).head()
+```
+
+## Launches by Country
+
+```python
+from Rocket_Launches import launches_by_country
+
+launches_by_country(df).head()
+```
+
+These functions help identify whether certain countries or locations have higher launch activity or different success rates.
+
+---
+
+# 🤖 6. Predicting Launch Failure
+
+We can also build a simple machine learning model to predict launch failure.
+
+```python
+from Rocket_Launches import run_failure_model, evaluate_model
+
+model, X_test, y_test = run_failure_model(df)
+
+results = evaluate_model(model, X_test, y_test)
+
+results
+```
+
+This model uses:
+- Year  
+- Location  
+- Rocket family  
+
+to predict whether a launch will succeed or fail.
+
+---
+
+# 📈 7. Interpreting Results
+
+The model output gives an accuracy score, which tells us how well launch outcomes can be predicted using basic features.
+
+Higher accuracy suggests:
+- Strong patterns in rocket reliability  
+- Location or rocket type matters  
+- Time trends influence outcomes  
+
+---
+
+# 🎯 Summary
+
+In this tutorial, you learned how to:
+
+- Load and inspect launch data  
+- Analyze launch trends over time  
+- Compare rocket usage  
+- Study geographic differences  
+- Build a predictive failure model  
+
+---
+
+# 🚀 Next Step
+
+Check out the **Function Reference** page for detailed documentation of each function in the package.

@@ -18,7 +18,8 @@ Analyze rocket launch data over time using Python. This package helps you collec
 ## ⚡ Quick Example
 
 ```python
-from Rocket_Launches import main
+from Rocket_Launches import rocket_usage
 
-df = main()
+df = rocket_usage()
+
 df.head()

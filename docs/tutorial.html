@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>tutorial – Rocket Launches Package</title>
+<title>Tutorial – Rocket Launches Package</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -112,17 +147,165 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#rocket-launches-package-tutorial" id="toc-rocket-launches-package-tutorial" class="nav-link active" data-scroll-target="#rocket-launches-package-tutorial"><span class="header-section-number">1</span> 📘 Rocket Launches Package Tutorial</a></li>
+  <li><a href="#load-the-data" id="toc-load-the-data" class="nav-link" data-scroll-target="#load-the-data"><span class="header-section-number">2</span> 🚀 1. Load the Data</a></li>
+  <li><a href="#explore-launch-activity-over-time" id="toc-explore-launch-activity-over-time" class="nav-link" data-scroll-target="#explore-launch-activity-over-time"><span class="header-section-number">3</span> 🌍 2. Explore Launch Activity Over Time</a></li>
+  <li><a href="#rocket-family-usage" id="toc-rocket-family-usage" class="nav-link" data-scroll-target="#rocket-family-usage"><span class="header-section-number">4</span> 🚀 3. Rocket Family Usage</a></li>
+  <li><a href="#launch-outcomes-over-time" id="toc-launch-outcomes-over-time" class="nav-link" data-scroll-target="#launch-outcomes-over-time"><span class="header-section-number">5</span> 🧭 4. Launch Outcomes Over Time</a></li>
+  <li><a href="#geographic-patterns" id="toc-geographic-patterns" class="nav-link" data-scroll-target="#geographic-patterns"><span class="header-section-number">6</span> 🌎 5. Geographic Patterns</a>
+  <ul class="collapse">
+  <li><a href="#launches-by-location" id="toc-launches-by-location" class="nav-link" data-scroll-target="#launches-by-location"><span class="header-section-number">6.1</span> Launches by Location</a></li>
+  <li><a href="#launches-by-country" id="toc-launches-by-country" class="nav-link" data-scroll-target="#launches-by-country"><span class="header-section-number">6.2</span> Launches by Country</a></li>
+  </ul></li>
+  <li><a href="#predicting-launch-failure" id="toc-predicting-launch-failure" class="nav-link" data-scroll-target="#predicting-launch-failure"><span class="header-section-number">7</span> 🤖 6. Predicting Launch Failure</a></li>
+  <li><a href="#interpreting-results" id="toc-interpreting-results" class="nav-link" data-scroll-target="#interpreting-results"><span class="header-section-number">8</span> 📈 7. Interpreting Results</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">9</span> 🎯 Summary</a></li>
+  <li><a href="#next-step" id="toc-next-step" class="nav-link" data-scroll-target="#next-step"><span class="header-section-number">10</span> 🚀 Next Step</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Tutorial</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
+
+<p><a href="index.html">Home</a> | <a href="tutorial.html">Tutorial</a> | <a href="reference.html">Function Reference</a></p>
+<section id="rocket-launches-package-tutorial" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> 📘 Rocket Launches Package Tutorial</h1>
+<p>This tutorial walks through how to use the <code>Rocket_Launches</code> package to explore rocket launch data, analyze trends, and build simple predictive models.</p>
+<hr>
+</section>
+<section id="load-the-data" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> 🚀 1. Load the Data</h1>
+<p>Start by importing the package and loading your dataset.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> <span class="op">*</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">"rocket_launches_dataset.csv"</span>)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>df.head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>At this stage, your dataset should include cleaned launch records with columns such as: - year<br>
+- location<br>
+- rocket_family<br>
+- status</p>
+<hr>
+</section>
+<section id="explore-launch-activity-over-time" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> 🌍 2. Explore Launch Activity Over Time</h1>
+<p>One of the first things we can look at is how launch activity changes over time.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> launches_per_year</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>launches_per_year(df).head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This shows the total number of launches per year, helping you identify growth periods and dips in space activity.</p>
+<hr>
+</section>
+<section id="rocket-family-usage" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> 🚀 3. Rocket Family Usage</h1>
+<p>Next, we can examine which rocket families are used most frequently.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> rocket_usage</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>rocket_usage(df, top_n<span class="op">=</span><span class="dv">10</span>).head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This helps identify: - Most commonly used rockets<br>
+- How rocket popularity changes over time</p>
+<hr>
+</section>
+<section id="launch-outcomes-over-time" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> 🧭 4. Launch Outcomes Over Time</h1>
+<p>We can analyze launch outcomes over time.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> status_by_year</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>status_by_year(df).head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This allows us to compare: - Successful launches<br>
+- Failed launches<br>
+- Partial failures</p>
+<p>across different years.</p>
+<hr>
+</section>
+<section id="geographic-patterns" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> 🌎 5. Geographic Patterns</h1>
+<section id="launches-by-location" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="launches-by-location"><span class="header-section-number">6.1</span> Launches by Location</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> status_by_location</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>status_by_location(df).head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="launches-by-country" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="launches-by-country"><span class="header-section-number">6.2</span> Launches by Country</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> launches_by_country</span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>launches_by_country(df).head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>These functions help identify whether certain countries or locations have higher launch activity or different success rates.</p>
+<hr>
+</section>
+</section>
+<section id="predicting-launch-failure" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> 🤖 6. Predicting Launch Failure</h1>
+<p>We can also build a simple machine learning model to predict launch failure.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> Rocket_Launches <span class="im">import</span> run_failure_model, evaluate_model</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>model, X_test, y_test <span class="op">=</span> run_failure_model(df)</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>results <span class="op">=</span> evaluate_model(model, X_test, y_test)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>results</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This model uses: - Year<br>
+- Location<br>
+- Rocket family</p>
+<p>to predict whether a launch will succeed or fail.</p>
+<hr>
+</section>
+<section id="interpreting-results" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> 📈 7. Interpreting Results</h1>
+<p>The model output gives an accuracy score, which tells us how well launch outcomes can be predicted using basic features.</p>
+<p>Higher accuracy suggests: - Strong patterns in rocket reliability<br>
+- Location or rocket type matters<br>
+- Time trends influence outcomes</p>
+<hr>
+</section>
+<section id="summary" class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> 🎯 Summary</h1>
+<p>In this tutorial, you learned how to:</p>
+<ul>
+<li>Load and inspect launch data<br>
+</li>
+<li>Analyze launch trends over time<br>
+</li>
+<li>Compare rocket usage<br>
+</li>
+<li>Study geographic differences<br>
+</li>
+<li>Build a predictive failure model</li>
+</ul>
+<hr>
+</section>
+<section id="next-step" class="level1" data-number="10">
+<h1 data-number="10"><span class="header-section-number">10</span> 🚀 Next Step</h1>
+<p>Check out the <strong>Function Reference</strong> page for detailed documentation of each function in the package.</p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

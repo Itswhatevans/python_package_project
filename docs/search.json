@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "tutorial.html",
+    "href": "tutorial.html",
+    "title": "Tutorial",
+    "section": "",
+    "text": "Home | Tutorial | Function Reference"
+  },
+  {
+    "objectID": "tutorial.html#launches-by-location",
+    "href": "tutorial.html#launches-by-location",
+    "title": "Tutorial",
+    "section": "6.1 Launches by Location",
+    "text": "6.1 Launches by Location\nfrom Rocket_Launches import status_by_location\n\nstatus_by_location(df).head()"
+  },
+  {
+    "objectID": "tutorial.html#launches-by-country",
+    "href": "tutorial.html#launches-by-country",
+    "title": "Tutorial",
+    "section": "6.2 Launches by Country",
+    "text": "6.2 Launches by Country\nfrom Rocket_Launches import launches_by_country\n\nlaunches_by_country(df).head()\nThese functions help identify whether certain countries or locations have higher launch activity or different success rates."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rocket Launches Package",
@@ -18,6 +39,69 @@
     "href": "index.html#quick-example",
     "title": "Rocket Launches Package",
     "section": "1.2 ⚡ Quick Example",
-    "text": "1.2 ⚡ Quick Example\n```python from Rocket_Launches import main\ndf = main() df.head()"
+    "text": "1.2 ⚡ Quick Example\n```python from Rocket_Launches import rocket_usage\ndf = rocket_usage()\ndf.head()"
+  },
+  {
+    "objectID": "reference.html",
+    "href": "reference.html",
+    "title": "Function Reference",
+    "section": "",
+    "text": "Home | Tutorial | Function Reference"
+  },
+  {
+    "objectID": "reference.html#add_countrydf",
+    "href": "reference.html#add_countrydf",
+    "title": "Function Reference",
+    "section": "2.1 add_country(df)",
+    "text": "2.1 add_country(df)\nExtracts the country from the location column.\nParameters: - df (pandas DataFrame): Dataset containing a location column\nReturns: - DataFrame with a new country column"
+  },
+  {
+    "objectID": "reference.html#launches_per_yeardf",
+    "href": "reference.html#launches_per_yeardf",
+    "title": "Function Reference",
+    "section": "3.1 launches_per_year(df)",
+    "text": "3.1 launches_per_year(df)\nCalculates the total number of launches per year.\nParameters: - df (pandas DataFrame)\nReturns: - DataFrame with: - year - launch_count"
+  },
+  {
+    "objectID": "reference.html#status_by_yeardf",
+    "href": "reference.html#status_by_yeardf",
+    "title": "Function Reference",
+    "section": "3.2 status_by_year(df)",
+    "text": "3.2 status_by_year(df)\nCounts launch outcomes (status) for each year.\nParameters: - df (pandas DataFrame)\nReturns: - DataFrame with: - year - status - count"
+  },
+  {
+    "objectID": "reference.html#rocket_usagedf-top_n10",
+    "href": "reference.html#rocket_usagedf-top_n10",
+    "title": "Function Reference",
+    "section": "3.3 rocket_usage(df, top_n=10)",
+    "text": "3.3 rocket_usage(df, top_n=10)\nAnalyzes usage trends for the most common rocket families.\nParameters: - df (pandas DataFrame) - top_n (int): Number of top rocket families to include\nReturns: - DataFrame with: - year - rocket_family - count"
+  },
+  {
+    "objectID": "reference.html#status_by_locationdf",
+    "href": "reference.html#status_by_locationdf",
+    "title": "Function Reference",
+    "section": "3.4 status_by_location(df)",
+    "text": "3.4 status_by_location(df)\nCounts launch outcomes by location.\nParameters: - df (pandas DataFrame)\nReturns: - DataFrame with: - location - status - count"
+  },
+  {
+    "objectID": "reference.html#launches_by_countrydf",
+    "href": "reference.html#launches_by_countrydf",
+    "title": "Function Reference",
+    "section": "3.5 launches_by_country(df)",
+    "text": "3.5 launches_by_country(df)\nAggregates launch counts by country and year.\nParameters: - df (pandas DataFrame)\nReturns: - DataFrame with: - country - year - launch_count"
+  },
+  {
+    "objectID": "reference.html#run_failure_modeldf",
+    "href": "reference.html#run_failure_modeldf",
+    "title": "Function Reference",
+    "section": "4.1 run_failure_model(df)",
+    "text": "4.1 run_failure_model(df)\nBuilds a logistic regression model to predict launch failure based on available features.\nDetails: - Uses status as the outcome variable - Encodes: - \"Launch Successful\" → 0\n- \"Launch Failure\" → 1\n- \"Launch was a Partial Failure\" → 1\n\nUses the following features:\n\nyear\nlocation\nrocket_family\n\n\nParameters: - df (pandas DataFrame)\nReturns: - model: trained logistic regression model\n- X_test: test feature set\n- y_test: test labels"
+  },
+  {
+    "objectID": "reference.html#evaluate_modelmodel-x_test-y_test",
+    "href": "reference.html#evaluate_modelmodel-x_test-y_test",
+    "title": "Function Reference",
+    "section": "4.2 evaluate_model(model, X_test, y_test)",
+    "text": "4.2 evaluate_model(model, X_test, y_test)\nEvaluates the performance of the trained model.\nParameters: - model: trained model from run_failure_model - X_test: test feature set - y_test: true labels\nReturns: - Dictionary with: - accuracy: classification accuracy of the model"
   }
 ]
