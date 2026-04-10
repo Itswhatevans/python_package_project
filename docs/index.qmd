@@ -1,7 +1,8 @@
 ---
 title: "Rocket Launches Package"
 ---
-[Home](index.qmd) | [Tutorial](tutorial.qmd) | [Function Reference](reference.qmd)
+
+[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html)
 
 # 🚀 Rocket Launches Package
 
