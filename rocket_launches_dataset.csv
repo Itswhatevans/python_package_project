@@ -1,0 +1,1001 @@
+rocket_family,mission,rocket,provider,year,launch_site,location,status,era,country
+Sputnik 8K74PS,Sputnik 1,Sputnik 8K74PS,Soviet Space Program,1957,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Sputnik 8K74PS,Sputnik 2,Sputnik 8K74PS,Soviet Space Program,1957,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Vanguard,Vanguard,Vanguard,US Navy,1957,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Juno-I,Explorer 1,Juno-I,Army Ballistic Missile Agency,1958,Launch Complex 26A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vanguard,Vanguard,Vanguard,US Navy,1958,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Juno-I,Explorer 2,Juno-I,Army Ballistic Missile Agency,1958,Launch Complex 26A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vanguard,Vanguard,Vanguard,US Navy,1958,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Juno-I,Explorer 3,Juno-I,Army Ballistic Missile Agency,1958,Launch Complex 26A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Sputnik 8A91,D-1 1,Sputnik 8A91,Soviet Space Program,1958,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Vanguard,Vanguard,Vanguard,US Navy,1958,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Sputnik 8A91,D1- 2,Sputnik 8A91,Soviet Space Program,1958,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Vanguard,Vanguard,Vanguard,US Navy,1958,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vanguard,Vanguard,Vanguard,US Navy,1958,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Project Pilot,NOTS 1,Project Pilot,US Navy,1958,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure,Space Race,Air launch to Suborbital flight
+Juno-I,Explorer 4,Juno-I,Army Ballistic Missile Agency,1958,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Project Pilot,NOTS 2,Project Pilot,US Navy,1958,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure,Space Race,Air launch to Suborbital flight
+Thor Able I,Able I (Pioneer),Thor Able I,Army Ballistic Missile Agency,1958,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Project Pilot,NOTS 3,Project Pilot,US Navy,1958,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure,Space Race,Air launch to Suborbital flight
+Juno-I,Explorer 5,Juno-I,Army Ballistic Missile Agency,1958,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Project Pilot,NOTS 4,Project Pilot,US Navy,1958,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure,Space Race,Air launch to Suborbital flight
+Project Pilot,NOTS 5,Project Pilot,US Navy,1958,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure,Space Race,Air launch to Suborbital flight
+Project Pilot,NOTS 6,Project Pilot,US Navy,1958,Naval Air Weapons Station China Lake,Air launch to Suborbital flight,Launch Failure,Space Race,Air launch to Suborbital flight
+Vostok-L 8K72,Luna-1a,Vostok-L 8K72,Soviet Space Program,1958,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Vanguard,Vanguard,Vanguard,US Navy,1958,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Able I,Pioneer 1,Thor Able I,Army Ballistic Missile Agency,1958,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok-L 8K72,Luna-1b,Vostok-L 8K72,Soviet Space Program,1958,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Juno-I,Beacon,Juno-I,Army Ballistic Missile Agency,1958,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Able I,Pioneer 2,Thor Able I,Army Ballistic Missile Agency,1958,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vostok-L 8K72,Luna-1c,Vostok-L 8K72,Soviet Space Program,1958,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Juno II,Pioneer 3,Juno II,National Aeronautics and Space Administration,1958,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas B,SCORE,Atlas B,US Army,1958,Launch Complex 11,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok-L 8K72,Luna-1,Vostok-L 8K72,Soviet Space Program,1959,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Vanguard,Vanguard II,Vanguard,US Navy,1959,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 1,Thor Agena A,United States Air Force,1959,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Juno II,Pioneer 4,Juno II,National Aeronautics and Space Administration,1959,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 2,Thor Agena A,United States Air Force,1959,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vanguard,Vanguard,Vanguard,US Navy,1959,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Agena A,Discoverer 3,Thor Agena A,United States Air Force,1959,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Vostok-L 8K72,Luna-2a,Vostok-L 8K72,Soviet Space Program,1959,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Vanguard,Vanguard,Vanguard,US Navy,1959,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Agena A,Discoverer 4,Thor Agena A,United States Air Force,1959,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Juno II,NASA S-1,Juno II,National Aeronautics and Space Administration,1959,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Able III,Explorer 6,Thor Able III,United States Air Force,1959,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 5,Thor Agena A,United States Air Force,1959,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Juno II,Beacon,Juno II,National Aeronautics and Space Administration,1959,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Agena A,Discoverer 6,Thor Agena A,United States Air Force,1959,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Little Joe,LJ-1,Little Joe,National Aeronautics and Space Administration,1959,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Failure,Space Race,USA
+Atlas LV-3B,Big Joe 1,Atlas LV-3B,National Aeronautics and Space Administration,1959,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch was a Partial Failure,Space Race,USA
+Vostok-L 8K72,Luna-2,Vostok-L 8K72,Soviet Space Program,1959,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Able II,Transit 1A,Thor Able II,United States Air Force,1959,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vanguard,Vanguard III,Vanguard,US Navy,1959,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok-L 8K72,Luna-3,Vostok-L 8K72,Soviet Space Program,1959,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Little Joe,LJ-6,Little Joe,National Aeronautics and Space Administration,1959,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch was a Partial Failure,Space Race,USA
+Juno II,Explorer 7,Juno II,National Aeronautics and Space Administration,1959,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Little Joe,LJ-1A,Little Joe,National Aeronautics and Space Administration,1959,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch was a Partial Failure,Space Race,USA
+Thor Agena A,Discoverer 7,Thor Agena A,United States Air Force,1959,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 8,Thor Agena A,United States Air Force,1959,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas-Able,P-3,Atlas-Able,United States Air Force,1959,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Little Joe,LJ-2,Little Joe,National Aeronautics and Space Administration,1959,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Little Joe,LJ-1B,Little Joe,National Aeronautics and Space Administration,1960,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 9,Thor Agena A,United States Air Force,1960,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor Agena A,Discoverer 10,Thor Agena A,United States Air Force,1960,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Atlas Agena A,Midas 1,Atlas Agena A,United States Air Force,1960,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Able IV,Pioneer V,Thor Able IV,United States Air Force,1960,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Juno II,NASA S-46,Juno II,National Aeronautics and Space Administration,1960,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Able II,Tiros 1,Thor Able II,United States Air Force,1960,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit 1B,Thor DM-21 Ablestar,United States Air Force,1960,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok-L 8K72,Luna-4a,Vostok-L 8K72,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor Agena A,Discoverer 11,Thor Agena A,United States Air Force,1960,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok-L 8K72,Luna-4b,Vostok-L 8K72,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor Delta,Echo,Thor Delta,United States Air Force,1960,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vostok 8K72,Korabl'-Sputnik-1,Vostok 8K72,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Agena A,Midas 2,Atlas Agena A,United States Air Force,1960,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit 2A,Thor DM-21 Ablestar,United States Air Force,1960,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 12,Thor Agena A,United States Air Force,1960,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Vostok 8K72,Korabl-Sputnik (2),Vostok 8K72,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Atlas LV-3B,Mercury-Atlas 1,Atlas LV-3B,National Aeronautics and Space Administration,1960,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Agena A,Discoverer 13,Thor Agena A,United States Air Force,1960,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta,Echo 1,Thor Delta,United States Air Force,1960,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena A,Discoverer 14,Thor Agena A,United States Air Force,1960,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Courier 1A,Thor DM-21 Ablestar,United States Air Force,1960,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vostok 8K72,Korabl'-Sputnik-2,Vostok 8K72,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Agena A,Discoverer 15,Thor Agena A,United States Air Force,1960,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Blue Scout Jr,Blue Scout D-1,Blue Scout Jr,United States Air Force,1960,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas-Able,P-30 (Able VA),Atlas-Able,United States Air Force,1960,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Scout X-1,ST-2,Scout X-1,National Aeronautics and Space Administration,1960,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Courier 1B,Thor DM-21 Ablestar,United States Air Force,1960,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Mars-1a,Molniya 8K78,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Atlas Agena A,Samos 1,Atlas Agena A,United States Air Force,1960,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Molniya 8K78,Mars-1b,Molniya 8K78,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,Discoverer 16,Thor DM-21 Agena-B,United States Air Force,1960,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Juno II,Explorer 8,Juno II,National Aeronautics and Space Administration,1960,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Little Joe,LJ-5,Little Joe,National Aeronautics and Space Administration,1960,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 17,Thor DM-21 Agena-B,United States Air Force,1960,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Redstone MRLV,Mercury-Redstone 1,Redstone,National Aeronautics and Space Administration,1960,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor Delta,Tiros 2,Thor Delta,United States Air Force,1960,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit 3A,Thor DM-21 Ablestar,United States Air Force,1960,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vostok 8K72,Korabl'-Sputnik-3,Vostok 8K72,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Scout X-1,NASA S-56,Scout X-1,National Aeronautics and Space Administration,1960,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 18,Thor DM-21 Agena-B,United States Air Force,1960,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas-Able,P-31,Atlas-Able,United States Air Force,1960,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Redstone MRLV,Mercury-Redstone 1A,Redstone,National Aeronautics and Space Administration,1960,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 19,Thor DM-21 Agena-B,United States Air Force,1960,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok,Korabl-Sputnik (4),Vostok,Soviet Space Program,1960,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Redstone MRLV,Mercury-Redstone 2,Redstone,National Aeronautics and Space Administration,1961,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas LV-3A,Samos 2,Atlas Agena B,United States Air Force,1961,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Venera-1VA 1,Molniya 8K78,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Molniya 8K78,Venera-1VA 2,Molniya 8K78,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Scout X-1,Explorer 9,Scout X-1,National Aeronautics and Space Administration,1961,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-5 1,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 21 (MIDAS RM-2),Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 2,Atlas LV-3B,National Aeronautics and Space Administration,1961,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit 3B & LOFTI-1,Thor DM-21 Ablestar,United States Air Force,1961,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch was a Partial Failure,Space Race,USA
+Juno II,S-45,Juno II,Army Ballistic Missile Agency,1961,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Vostok-K,Sputnik 9,Vostok,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Little Joe,LJ-5A,Little Joe,National Aeronautics and Space Administration,1961,Launch Area 1,"Wallops Flight Facility, Virginia, USA",Launch was a Partial Failure,Space Race,USA
+Redstone MRLV,Mercury-Redstone BD,Redstone,National Aeronautics and Space Administration,1961,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok-K,Sputnik 10,Vostok,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Delta DM-19,Explorer 10,Delta DM-19,United States Air Force,1961,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 22,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,KH-5 2,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok-K,Vostok 1,Vostok,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Trailblazer 1,Trailblazer 1g,Trailblazer 1,National Aeronautics and Space Administration,1961,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 3,Atlas LV-3B,National Aeronautics and Space Administration,1961,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Juno II,Explorer 11,Juno II,Army Ballistic Missile Agency,1961,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Little Joe,LJ-5B,Little Joe,National Aeronautics and Space Administration,1961,Launch Area 4,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Redstone MRLV,Mercury-Redstone 3,Redstone,National Aeronautics and Space Administration,1961,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Juno II,S-45A,Juno II,Army Ballistic Missile Agency,1961,Launch Complex 26B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,KH-5 3,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 25,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit 4A & Injun-1 & Solrad 3,Thor DM-21 Ablestar,United States Air Force,1961,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Scout X-1,S-55,Scout X-1,National Aeronautics and Space Administration,1961,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 26,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Delta DM-19,Tiros-3,Delta DM-19,United States Air Force,1961,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas LV-3A,MIDAS 3,Atlas Agena B,United States Air Force,1961,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Redstone MRLV,Mercury-Redstone 4,Redstone,National Aeronautics and Space Administration,1961,Launch Complex 5,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-5 4,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 28,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Vostok-K,Vostok 2,Vostok,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Delta DM-19,Explorer 12,Delta DM-19,United States Air Force,1961,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Blue Scout Jr,O-1,Blue Scout Jr,United States Air Force,1961,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas LV-3A,Ranger 1,Atlas Agena B,United States Air Force,1961,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch was a Partial Failure,Space Race,USA
+Scout X-1,Explorer 13,Scout X-1,National Aeronautics and Space Administration,1961,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 29,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas LV-3A,Samos 3,Atlas Agena B,United States Air Force,1961,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 30,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 4,Atlas LV-3B,National Aeronautics and Space Administration,1961,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 31,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 32,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-1,P-21,Scout X-1,National Aeronautics and Space Administration,1961,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Atlas LV-3A,MIDAS 4 & Westford-1,Atlas Agena B,United States Air Force,1961,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 33,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Saturn I,Saturn SA-1,Saturn I,National Aeronautics and Space Administration,1961,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,Kosmos-2I | DS-1-1,Kosmos-2I 63S1,Strategic Rocket Forces,1961,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Blue Scout II,Mercury-Scout 1,Blue Scout II,National Aeronautics and Space Administration,1961,Launch Complex 18B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 34,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch was a Partial Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 35,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit 4B & TRAAC,Thor DM-21 Ablestar,United States Air Force,1961,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas LV-3A,Ranger 2,Atlas Agena B,United States Air Force,1961,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Atlas LV-3A,Samos 4,Atlas Agena B,United States Air Force,1961,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 5,Atlas LV-3B,National Aeronautics and Space Administration,1961,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Blue Scout Jr,Blue Scout Jr. O-2,Blue Scout Jr,United States Air Force,1961,Launch Complex A,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok-K,Zenit-2 1,Vostok,Soviet Space Program,1961,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,Discoverer 36 & OSCAR 1,Thor DM-21 Agena-B,United States Air Force,1961,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-1 2,Kosmos-2I 63S1,Strategic Rocket Forces,1961,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Atlas LV-3A,Samos 5,Atlas Agena B,United States Air Force,1961,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch was a Partial Failure,Space Race,USA
+Thor DM-21 Agena-B,Discoverer 37,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor DM-21 Ablestar,5 Payloads Rideshare,Thor DM-21 Ablestar,United States Air Force,1962,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Atlas Agena B,Ranger 3,Atlas Agena B,United States Air Force,1962,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Delta,Tiros 4,Thor Delta,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 6,Atlas LV-3B,National Aeronautics and Space Administration,1962,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,P-102 Group 0-D,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-4 1,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta,OSO 1,Thor Delta,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Samos 6,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-2 1,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Scout X-2,P-21A,Scout X-2,National Aeronautics and Space Administration,1962,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,1MS 1,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Atlas Agena B,Midas 5,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-4 2,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Ranger 4,Atlas Agena B,United States Air Force,1962,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,Sputnik 13,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Saturn I,Saturn SA-2,Saturn I,National Aeronautics and Space Administration,1962,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok,Zenit-2 2,Vostok,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Scout X-2,SOLRAD 4B,Scout X-2,US Navy,1962,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor Delta,Ariel 1,Thor Delta,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Samos-E6 1,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-4 3,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Trailblazer 2,Trailblazer IIb,Trailblazer 2,National Aeronautics and Space Administration,1962,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,ANNA 1A,Thor DM-21 Ablestar,United States Air Force,1962,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,KH-5 5,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-2M,DSAP-1 F1,Scout X-2M,United States Air Force,1962,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 7,Atlas LV-3B,National Aeronautics and Space Administration,1962,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,Sputnik 15,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Thor DM-21 Agena-B,KH-4 4,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 3,Vostok 8A92,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,KH-4 5,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Samos-E6 2,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,P-102 Group 2-D 1,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta,Tiros 5,Thor Delta,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-4 6,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 7,Thor Agena D,United States Air Force,1962,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-P1 1,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Thor Delta,Telstar 1,Thor Delta,United States Air Force,1962,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+X-15,Flight 62,North American X-15,United States Air Force,1962,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful,Space Race,Air launch to Suborbital flight
+Atlas Agena B,Samos-E6 3,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-4 8,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Mariner 1,Atlas Agena B,United States Air Force,1962,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Thor DM-21 Agena-B,KH-4 9,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 4,Vostok 8A92,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Agena D,KH-4 10,Thor Agena D,United States Air Force,1962,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Samos-E6 4,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok-K,Vostok 3,Vostok,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Vostok-K,Vostok 4,Vostok,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Kosmos-2I 63S1,Sputnik 18,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Scout X-2M,DSAP-1 F2,Scout X-2M,United States Air Force,1962,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Venera 2a,Molniya 8K78,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Atlas Agena B,Mariner 2,Atlas Agena B,United States Air Force,1962,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 11 & RM 3,Thor Agena D,United States Air Force,1962,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-3A,Reentry-2,Scout X-3A,National Aeronautics and Space Administration,1962,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Venera 2b,Molniya 8K78,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,KH-5 6,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Venera 2c,Molniya 8K78,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,KH-4 12,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta,Tiros 6,Thor Delta,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 5,Vostok 8A92,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,Alouette 1,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 13 & RM 4,Thor Agena D,United States Air Force,1962,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta A,Explorer 14,Thor Delta A,United States Air Force,1962,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 8,Atlas LV-3B,National Aeronautics and Space Administration,1962,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-5 7,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 6,Vostok 8A92,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Agena B,Ranger 5,Atlas Agena B,United States Air Force,1962,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-A1 1,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Molniya 8K78,Mars 1c,Molniya 8K78,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Kosmos-2I 63S1,1MS 2,Kosmos-2I 63S1,Soviet Space Program,1962,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Thor Agena D,Star-Rad,Thor Agena D,United States Air Force,1962,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta A,Explorer 15,Thor Delta A,United States Air Force,1962,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,ANNA 1B,Thor DM-21 Ablestar,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Mars 1,Molniya 8K78,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Molniya 8K78,Mars 2a,Molniya 8K78,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Agena-B,KH-4 14,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Samos-E6 5,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Saturn I,Saturn SA-3,Saturn I,National Aeronautics and Space Administration,1962,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,KH-4 15,Thor DM-21 Agena-B,United States Air Force,1962,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 16,Thor Agena D,United States Air Force,1962,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Agena D,Poppy 3A & 3B,Thor Agena D,United States Air Force,1962,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta B,Relay 1,Thor Delta B,United States Air Force,1962,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 17,Thor Agena D,United States Air Force,1962,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-3,Explorer 16,Scout X-3,National Aeronautics and Space Administration,1962,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Midas 6,Atlas Agena B,United States Air Force,1962,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Scout X-3,Transit-5A 1,Scout X-3,United States Air Force,1962,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 7,Vostok 8A92,Soviet Space Program,1962,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Molniya 8K78,Luna-4c,Molniya 8K78,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor Agena D,KH-4 18,Thor Agena D,United States Air Force,1963,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Agena-B,P-698BK Group 1-D 1,Thor DM-21 Agena-B,United States Air Force,1963,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+X-15,Flight 77,North American X-15,United States Air Force,1963,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful,Space Race,Air launch to Suborbital flight
+Molniya 8K78,Luna-4d,Molniya 8K78,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor Delta B,Syncom 1,Thor Delta B,United States Air Force,1963,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Scout X-3M,DSAP-1 F3,Scout X-3M,United States Air Force,1963,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4 19,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor SLV-2A Agena D,KH-6 1,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Vostok 8A92,Zenit-2 8,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Saturn I,Saturn SA-4,Saturn I,National Aeronautics and Space Administration,1963,Launch Complex 34,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 20,Thor Agena D,United States Air Force,1963,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Luna-4,Molniya 8K78,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Delta B,Explorer 17,Thor Delta B,United States Air Force,1963,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Scout X-3,Transit-5A 2,Scout X-3,United States Air Force,1963,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Kosmos-2I 63S1,DS-P1 2,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Kosmos-2I 63S1,Omega 1,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Vostok 8A92,Zenit-2 9,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Scout X-2M,DSAP-1 F4,Scout X-2M,United States Air Force,1963,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor Agena D,KH-5 8,Thor Agena D,United States Air Force,1963,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Vostok 8A92,Zenit-2 10,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Delta B,Telstar 2,Thor Delta B,United States Air Force,1963,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Midas 7,Atlas Agena B,United States Air Force,1963,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas LV-3B,Mercury-Atlas 9,Atlas LV-3B,National Aeronautics and Space Administration,1963,Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-6 2,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-A1 2,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Vostok 8A92,Zenit-2 11,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Kosmos-2I 63S1,DS-MT 1,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Atlas Agena B,Midas 8,Atlas Agena B,United States Air Force,1963,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor SLV-2A Agena D,KH-4 21,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok-K,Vostok 5,Vostok,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Agena D,Poppy 4A & 4B,Thor Agena D,United States Air Force,1963,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Scout X-3,Transit-5A 3,Scout X-3,United States Air Force,1963,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok-K,Vostok 6,Vostok,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Delta B,Tiros 7,Thor Delta B,United States Air Force,1963,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4 22,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+X-15,Flight 87,North American X-15,United States Air Force,1963,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful,Space Race,Air launch to Suborbital flight
+Scout X-4,GRS,Scout X-4,United States Air Force,1963,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena B,P-698BK Group 1-D 2,Thor SLV-2A Agena B,United States Air Force,1963,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,KH-7 1,Atlas Agena D,United States Air Force,1963,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Agena D,KH-4 23,Thor Agena D,United States Air Force,1963,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Midas 9,Atlas Agena B,United States Air Force,1963,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+X-15,Flight 90,North American X-15,United States Air Force,1963,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful,Space Race,Air launch to Suborbital flight
+Thor Delta B,Syncom 2,Thor Delta B,United States Air Force,1963,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Blue Scout Jr,OAR 22-1,Blue Scout Jr,United States Air Force,1963,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-6 3,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-P1 3,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Kosmos-2I 63S1,DS-A1 3,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+X-15,Flight 91,North American X-15,United States Air Force,1963,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful,Space Race,Air launch to Suborbital flight
+Thor SLV-2A Agena D,KH-4A 1,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Little Joe II,QTV,Little Joe II,National Aeronautics and Space Administration,1963,Launch Complex 36,White Sands Missile Range,Launch Successful,Space Race,White Sands Missile Range
+Thor SLV-2 Agena D,KH-5 9,Thor SLV-2 Agena D,United States Air Force,1963,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,KH-7 2,Atlas Agena D,United States Air Force,1963,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 2,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-2B,DSAP-1 F5,Scout X-2B,United States Air Force,1963,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor DM-21 Ablestar,Transit 5BN-1,Thor DM-21 Ablestar,United States Air Force,1963,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,Vela 1A & 1B,Atlas Agena D,United States Air Force,1963,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 13,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Kosmos-2I 63S1,DS-A1 4,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Atlas Agena D,KH-7 3,Atlas Agena D,United States Air Force,1963,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-5 10,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Sputnik 11A59,Polyot,Sputnik 11A59,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2 Agena D,KH-4 24 & RM 5,Thor SLV-2 Agena D,United States Air Force,1963,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Molniya 8K78,Zond-1a,Molniya 8K78,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Voskhod,Zenit-4 1,Voskhod,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Delta C,Explorer 18,Thor Delta C,United States Air Force,1963,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Centaur,AC-2 Instrumentation Ring,Atlas Centaur,United States Air Force,1963,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2 Agena D,KH-4 25,Thor SLV-2 Agena D,United States Air Force,1963,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 14,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Ablestar,Transit-5BN 2,Thor DM-21 Ablestar,United States Air Force,1963,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,Omega 2,Kosmos-2I 63S1,Soviet Space Program,1963,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Atlas Agena D,KH-7 4,Atlas Agena D,United States Air Force,1963,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 15,Vostok 8A92,Soviet Space Program,1963,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Scout X-4,Explorer 19,Scout X-4,National Aeronautics and Space Administration,1963,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta B,Tiros 8,Thor Delta B,United States Air Force,1963,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4 26,Thor SLV-2A Agena D,United States Air Force,1963,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,"Poppy 5A, 5B & 5C",Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2 Agena D,DSAP-1 F6 & F7,Thor SLV-2 Agena D,United States Air Force,1964,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta B,Relay 2,Thor Delta B,United States Air Force,1964,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2 Agena B,Echo 2,Thor SLV-2 Agena B,United States Air Force,1964,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Saturn I,Saturn SA-5,Saturn I,National Aeronautics and Space Administration,1964,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok,Elektron-1 & 2,Vostok,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Agena B,Ranger 6,Atlas Agena B,United States Air Force,1964,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 3,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Zond-1b,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Atlas Agena D,KH-7 5,Atlas Agena D,United States Air Force,1964,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-P1 4,Kosmos-2I 63S1,Soviet Space Program,1964,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Thor SLV-2A Agena D,P-698BK Group 1-A,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,KH-7 6,Atlas Agena D,United States Air Force,1964,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Nike Cajun,Trailblazer Pellet,Nike Cajun,National Aeronautics and Space Administration,1964,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-MG 1,Kosmos-2I 63S1,Soviet Space Program,1964,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Thor Delta B,Beacon Explorer A,Thor Delta B,United States Air Force,1964,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Molniya 8K78,Luna-5a,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 4,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Molniya 8K78,Zond 1c,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Scout X-3,Ariel 2,Scout X-3,Science and Engineering Research Council,1964,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Zond 1,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Vostok 8A92,Zenit-2 16,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Titan II GLV,Gemini I,Titan II,United States Air Force,1964,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Sputnik 11A59,Polyot-2,Sputnik 11A59,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas D,FIRE 1,Atlas D,United States Air Force,1964,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Luna-5b,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor DM-21 Ablestar,Transit-5BN 3,Thor DM-21 Ablestar,United States Air Force,1964,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Atlas Agena D,KH-7 7,Atlas Agena D,United States Air Force,1964,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 17,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 5,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Little Joe II,A-001,Little Joe II,National Aeronautics and Space Administration,1964,Launch Complex 36,White Sands Missile Range,Launch Successful,Space Race,White Sands Missile Range
+Voskhod,Zenit-4 2,Voskhod,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Agena D,KH-7 8,Atlas Agena D,United States Air Force,1964,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Saturn I,Saturn-SA 6,Saturn I,National Aeronautics and Space Administration,1964,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Scout X-4,Transit VC,Scout X-4,United States Air Force,1964,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Molniya-1 1a,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 6,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-MT 2,Kosmos-2I 63S1,Soviet Space Program,1964,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Vostok 8A92,Zenit-2 18,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-5 11,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2 Agena D,DSAP-1 F8 & F9,Thor SLV-2 Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 7,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 19,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Scout X-4,ESRS,Scout X-4,United States Air Force,1964,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Atlas Centaur,AC-3 Instrumentation Ring,Atlas Centaur,United States Air Force,1964,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Voskhod,Zenit-4 3,Voskhod,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,P-698BK Group 2-D 2,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,KH-7 9,Atlas Agena D,United States Air Force,1964,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok,Elektron-3 &4,Vostok,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 8,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 20,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Agena D,Vela 2A & 2B,Atlas Agena D,United States Air Force,1964,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Ranger 7,Atlas Agena B,United States Air Force,1964,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-P1-Yu 1,Kosmos-2I 63S1,Soviet Space Program,1964,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Thor SLV-2A Agena D,KH-4A 9,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 21,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas SLV-3 Agena D,KH-7 10,Atlas SLV-3 Agena D,United States Air Force,1964,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-4A,Reentry-4A,Scout X-4A,National Aeronautics and Space Administration,1964,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Kosmos 65S3,"Strela-1 1,2,3",Kosmos 65S3,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Delta D,Syncom 3,Thor Delta D,United States Air Force,1964,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-5 12,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Molniya-1 1b,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Kosmos-2I 63S1,"Strela-1 4,5",Kosmos-2I 63S1,Soviet Space Program,1964,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Scout X-4,Explorer 20,Scout X-4,National Aeronautics and Space Administration,1964,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2 Agena B,Nimbus 1,Thor SLV-2 Agena B,United States Air Force,1964,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92M,Meteor-1 1,Vostok 8A92M,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Titan IIIA,Transtage 1,Titan IIIA,United States Air Force,1964,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Atlas Agena B,OGO 1,Atlas Agena B,United States Air Force,1964,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Voskhod,Zenit-4 4,Voskhod,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 10,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Saturn I,Saturn-SA 7,Saturn I,National Aeronautics and Space Administration,1964,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas SLV-3 Agena D,KH-7 11,Atlas SLV-3 Agena D,United States Air Force,1964,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 22,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor Delta C,Explorer 21,Thor Delta C,United States Air Force,1964,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 11,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Voskhod,Voskhod-3KV 1,Voskhod,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor DM-21 Ablestar,Transit-O 1,Thor DM-21 Ablestar,United States Air Force,1964,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas SLV-3 Agena D,KH-7 12,Atlas SLV-3 Agena D,United States Air Force,1964,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Scout X-4,Beacon Explorer B,Scout X-4,National Aeronautics and Space Administration,1964,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Voskhod,Voskhod 1,Voskhod,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Vostok 8A92,Zenit-2 23,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 12,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos 65S3,"Strela-1 6,7,8",Kosmos 65S3,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Atlas Agena D,KH-7 13,Atlas Agena D,United States Air Force,1964,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-MG 2,Kosmos-2I 63S1,Soviet Space Program,1964,Mayak-2,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Vostok 8A92,Zenit-2 24,Vostok 8A92,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 13,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,P-698BK Group 3-D 1,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,Mariner 3,Atlas Agena D,United States Air Force,1964,Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Scout X-4,Explorer 23,Scout X-4,National Aeronautics and Space Administration,1964,Launch Area 3,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Nike Cajun,Trailblazer Pellet,Nike Cajun,National Aeronautics and Space Administration,1964,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 14,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-4,Explorer 24 & 25,Scout X-4,National Aeronautics and Space Administration,1964,Space Launch Complex 5,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas Agena D,Mariner 4,Atlas Agena D,United States Air Force,1964,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Zond-2,Molniya 8K78,Soviet Space Program,1964,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Kosmos-2I 63S1,DS-2 2,Kosmos-2I 63S1,Soviet Space Program,1964,,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Atlas SLV-3 Agena D,KH-7 14,Atlas SLV-3 Agena D,United States Air Force,1964,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Little Joe II,A-002,Little Joe II,National Aeronautics and Space Administration,1964,Launch Complex 36,White Sands Missile Range,Launch Successful,Space Race,White Sands Missile Range
+Kosmos-2I 63S1,DS-MT 3,Kosmos-2I 63S1,Soviet Space Program,1964,,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Titan IIIA,Transtage 2,Titan IIIA,United States Air Force,1964,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Centaur,Surveyor Mass Model,Atlas Centaur,United States Air Force,1964,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit-O 2 & 5E-5,Thor DM-21 Ablestar,United States Air Force,1964,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-4,San Marco 1,Scout X-4,National Research Council,1964,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 15,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta C,Explorer 26,Thor Delta C,United States Air Force,1964,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,Quill 1,Thor SLV-2A Agena D,United States Air Force,1964,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 25,Vostok 8A92,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 16,Thor SLV-2A Agena D,United States Air Force,1965,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor MG-18,DSAP-1 F10,Thor MG-18,United States Air Force,1965,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Titan II GLV,Gemini II,Titan II,United States Air Force,1965,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas D,OV1-1,Atlas D,United States Air Force,1965,576B3,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor Delta C,Tiros 9,Thor Delta C,United States Air Force,1965,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Atlas SLV-3 Agena D,KH-7 15,Atlas SLV-3 Agena D,United States Air Force,1965,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-A1 5,Kosmos-2I 63S1,Soviet Space Program,1965,,"Kapustin Yar, Russian Federation",Launch Successful,Space Race,Russian Federation
+Thor Delta C,OSO 2,Thor Delta C,United States Air Force,1965,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Titan IIIA,LES 1,Titan IIIA,United States Air Force,1965,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-P1-Yu 2,Kosmos-2I 63S1,Soviet Space Program,1965,,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Saturn I,Pegasus 1,Saturn I,National Aeronautics and Space Administration,1965,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas Agena B,Ranger 8,Atlas Agena B,United States Air Force,1965,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Kosmos-2I 63S1,DS-A1 6,Kosmos-2I 63S1,Soviet Space Program,1965,,"Kapustin Yar, Russian Federation",Launch Failure,Space Race,Russian Federation
+Kosmos 65S3,"Strela-1 9,10,11",Kosmos 65S3,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Voskhod,Voskhod-3KD 1,Voskhod,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 17,Thor SLV-2A Agena D,United States Air Force,1965,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92M,Meteor-1 2,Vostok 8A92M,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Centaur,Surveyor-SD 1,Atlas Centaur,United States Air Force,1965,Launch Complex 36A,"Cape Canaveral SFS, FL, USA",Launch Failure,Space Race,USA
+Voskhod,Zenit-4 5,Voskhod,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2 Agena D,"Poppy 6A,B,C,D",Thor SLV-2 Agena D,United States Air Force,1965,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit-O 3,Thor DM-21 Ablestar,United States Air Force,1965,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Luna-5c,Molniya 8K78,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Atlas SLV-3 Agena D,KH-7 16,Atlas SLV-3 Agena D,United States Air Force,1965,Space Launch Complex 4W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Kosmos 65S3,"Strela-1 12,13,14",Kosmos 65S3,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor MG-18,DSAP-1 F11,Thor MG-18,United States Air Force,1965,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Voskhod,Voskhod 2,Voskhod,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas Agena B,Ranger 9,Atlas Agena B,United States Air Force,1965,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Titan II GLV,Gemini III,Titan II,National Aeronautics and Space Administration,1965,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 26,Vostok 8A92,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Thor SLV-2A Agena D,KH-4A 18,Thor SLV-2A Agena D,United States Air Force,1965,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Blue Scout Jr,OAR 22-4,Blue Scout Jr,United States Air Force,1965,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Atlas SLV-3 Agena D,SNAPSHOT-1,Atlas SLV-3 Agena D,United States Air Force,1965,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Thor Delta D,Early Bird,Thor Delta D,United States Air Force,1965,Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Blue Scout Jr,OAR 22-9,Blue Scout Jr,United States Air Force,1965,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Luna-5d,Molniya 8K78,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Space Race,Republic of Kazakhstan
+Voskhod,Zenit-4 6,Voskhod,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Molniya 8K78,Molniya-1 1,Molniya 8K78,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas SLV-3 Agena D,KH-7 17,Atlas SLV-3 Agena D,United States Air Force,1965,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Scout X-4,Beacon Explorer C,Scout X-4,National Aeronautics and Space Administration,1965,Launch Area 3A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 19,Thor SLV-2A Agena D,United States Air Force,1965,Space Launch Complex 3W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Nike Cajun,Trailblazer Pellet,Nike Cajun,National Aeronautics and Space Administration,1965,Unknown Pad,"Wallops Flight Facility, Virginia, USA",Launch Successful,Space Race,USA
+Titan IIIA,LES 2,Titan IIIA,United States Air Force,1965,Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 27,Vostok 8A92,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Molniya 8K78,Luna-5,Molniya 8K78,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Blue Scout Jr,OAR 22-8,Blue Scout Jr,United States Air Force,1965,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 20,Thor SLV-2A Agena D,United States Air Force,1965,Space Launch Complex 1W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Little Joe II,A-003,Little Joe II,National Aeronautics and Space Administration,1965,Launch Complex 36,White Sands Missile Range,Launch Failure,Space Race,White Sands Missile Range
+Thor Burner 1,OPS 8386,Thor Burner 1,United States Air Force,1965,Space Launch Complex 10W,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas D,FIRE 2,Atlas D,United States Air Force,1965,Launch Complex 12,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Saturn I,Pegasus 2,Saturn I,National Aeronautics and Space Administration,1965,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Voskhod,Zenit-4 7,Voskhod,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas SLV-3 Agena D,KH-7 18,Atlas SLV-3 Agena D,United States Air Force,1965,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Atlas D,OV1-3,Atlas D,United States Air Force,1965,576B3,"Vandenberg SFB, CA, USA",Launch Failure,Space Race,USA
+Thor Delta C,Explorer 28,Thor Delta C,United States Air Force,1965,Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Titan II GLV,Gemini IV,Titan II,National Aeronautics and Space Administration,1965,Launch Complex 19,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Molniya 8K78,Luna-6,Molniya 8K78,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Blue Scout Jr,OAR 22-5,Blue Scout Jr,United States Air Force,1965,Launch Complex 18A,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor SLV-2A Agena D,KH-4A 21,Thor SLV-2A Agena D,United States Air Force,1965,Space Launch Complex 1E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Vostok 8A92,Zenit-2 28,Vostok 8A92,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Titan IIIC,Transtage 5,Titan IIIC,United States Air Force,1965,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Space Race,USA
+Thor DM-21 Ablestar,Transit-O 4,Thor DM-21 Ablestar,United States Air Force,1965,Space Launch Complex 2E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+Voskhod,Zenit-4 8,Voskhod,Soviet Space Program,1965,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Space Race,Republic of Kazakhstan
+Atlas SLV-3 Agena D,KH-7 19,Atlas SLV-3 Agena D,United States Air Force,1965,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Space Race,USA
+X-15,Flight 138,North American X-15,United States Air Force,1965,Edwards Air Force Base,Air launch to Suborbital flight,Launch Successful,Space Race,Air launch to Suborbital flight
+Falcon 9 v1.1,SpX CRS-5,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Atlas V 551,MUOS-3,Atlas V 551,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Delta II 7320-10C,"SMAP, FIREBIRD II A, FIREBIRD II B, GRIFEX, ExoCube",Delta II,United Launch Alliance,2015,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+H-IIA 202,IGS Radar Spare,H-IIA,Mitsubishi Heavy Industries,2015,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Proton-M Briz-M,Inmarsat-5 F2,Proton-M Briz-M,International Launch Services,2015,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Safir,Fajr,Safir,Iranian Space Agency,2015,Safir Launch Pad,"Semnan Space Center, Islamic Republic of Iran",Launch Successful,Modern,Islamic Republic of Iran
+Vega,IXV,Vega,Arianespace,2015,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9,DSCOVR,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz-U,Progress M-26M,Soyuz U,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz 2.1a,Bars-M (Kosmos 2503),Soyuz 2.1a,Russian Aerospace Defence Forces,2015,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Falcon 9 v1.1,Eutelsat 115 West B & ABS-3A,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Atlas V 421,MMS,Atlas V 421,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Proton-M Briz-M,Ekspress AM7,Proton-M Briz-M,Khrunichev State Research and Production Space Center,2015,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+"Delta IV M+(4,2)",GPS IIF-9 (USA-260),"Delta IV M+(4,2)",United Launch Alliance,2015,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Dnepr 1,KOMPSat-3A,Dnepr,ISC Kosmotras,2015,,"Dombarovskiy, Russian Federation",Launch Successful,Modern,Russian Federation
+H-IIA 202,IGS Optical 5,H-IIA,Mitsubishi Heavy Industries,2015,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Soyuz FG,Soyuz TMA-16M,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz STB/Fregat,Galileo L4 (FOC FM03-FM04),Soyuz STB,Arianespace,2015,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+PSLV XL,IRNSS-1D,PSLV-XL,Indian Space Research Organization,2015,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Long March 3C/YZ-1,BDS I1-S,Long March 3C/YZ-1,China Aerospace Science and Technology Corporation,2015,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Rokot / Briz-KM,"Gonets M-21, Gonets M-22, Gonets M-23, Kosmos 2504",Rokot/Briz-KM,Russian Aerospace Defence Forces,2015,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Falcon 9 v1.1,SpX CRS-6,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Thor-7 & SICRAL-2,Ariane 5 ECA,Arianespace,2015,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 v1.1,TürkmenÄlem 52E/MonacoSAT,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz 2.1a,Progress M-27M,Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Modern,Republic of Kazakhstan
+New Shepard,NS-1,New Shepard,Blue Origin,2015,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Proton-M Briz-M,Mexsat-1,Proton-M Briz-M,International Launch Services,2015,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Modern,Republic of Kazakhstan
+Atlas V 501,OTV-4 (X-37B) (USA 261) (AFSPC-5) & ULTRASat cubesat deployer,Atlas V 501,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,DirecTV 15 & Sky Mexico 1,Ariane 5 ECA,Arianespace,2015,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz 2.1a,Kobalt-M (Kosmos 2505),Soyuz 2.1a,Russian Aerospace Defence Forces,2015,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Vega,Sentinel-2A,Vega,Arianespace,2015,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz,Persona (Kosmos 2506),Soyuz 2.1b,Russian Aerospace Defence Forces,2015,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 4B,Gaofen 8,Long March 4B,China Aerospace Science and Technology Corporation,2015,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 v1.1,SpX CRS-7,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Failure,Modern,USA
+Soyuz U,Progress M-28M (60P),Soyuz U,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+PSLV XL,"DMC-3A, DMC-3B, DMC-3C, CBNT-1 & DeOrbitSAIL",PSLV-XL,Antrix Corporation Limited,2015,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Atlas V 401,GPS IIF-10 (USA-262),Atlas V 401,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Star One C4 & MSG 4,Ariane 5 ECA,Arianespace,2015,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz-FG,Soyuz TMA-17M,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+"Delta IV M+(5,4)",WGS-7 (USA-263),"Delta IV M+(5,4)",United Launch Alliance,2015,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3B / YZ-1,BDS M1-S & BDS M2-S,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2015,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+H-IIB 304,Kounotori 5 (HTV-5),H-IIB,Mitsubishi Heavy Industries,2015,Yoshinobu Launch Complex LP-2,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Ariane 5 ECA,Eutelsat 8 West B & Intelsat 34,Ariane 5 ECA,Arianespace,2015,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 4C,Yaogan-27,Long March 4C,China Aerospace Science and Technology Corporation,2015,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+GSLV Mk II,GSAT-6,GSLV Mk II,Indian Space Research Organization,2015,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Proton-M Briz-M,Inmarsat-5 F3,Proton-M Briz-M,International Launch Services,2015,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz FG,Soyuz TMA-18M,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Atlas V 551,MUOS-4,Atlas V 551,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz STB/Fregat,Galileo L5 (FOC FM05-FM06),Soyuz STB,Arianespace,2015,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 3B/E,TJS-1 (TJSW-1),Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 2D,Gaofen 9,Long March 2D,China Aerospace Science and Technology Corporation,2015,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Proton-M/Blok DM-03,Ekspress AM8,Proton-M,Khrunichev State Research and Production Space Center,2015,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 6,20 Amateur satellites,Long March 6,China Aerospace Science and Technology Corporation,2015,Launch Complex 16,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Rokot / Briz-KM,"3 x Strela-3M (Kosmos 2507, Kosmos 2508, Kosmos 2509)",Rokot/Briz-KM,Russian Space Forces,2015,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 11,"SECM-1 ( Pujiang-1, Tianwang 1A, Tianwang 1B, Tianwang 1C )",Long March 11,China Aerospace Science and Technology Corporation,2015,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+PSLV XL,Astrosat,PSLV-XL,Indian Space Research Organization,2015,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Long March 3B/E,BDS I2-S,Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Ariane 5 ECA,Sky Muster I (NBN-Co 1A) & ARSAT-2,Ariane 5 ECA,Arianespace,2015,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz-U,Progress M-29M (61P),Soyuz U,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Atlas V 421,Mexsat-2 (Morelos III),Atlas V 421,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 2D,Jilin-1,Long March 2D,China Aerospace Science and Technology Corporation,2015,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 401,NROL-55 (Multipayload mission),Atlas V 401,United Launch Alliance,2015,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 3B/E,APStar-9,Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Proton-M/Briz-M,Türksat 4B,Proton-M Briz-M,International Launch Services,2015,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 2D,Tianhui-1C,Long March 2D,China Aerospace Science and Technology Corporation,2015,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 401,GPS IIF-11 (USA-265),Atlas V 401,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3B/E,Zhongxing-2C (Chinasat-2C),Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SPARK,ORS-4,SPARK,Sandia National Laboratories,2015,LP-41,"Pacific Missile Range Facility, Barking Sands, HI, USA",Launch Failure,Modern,USA
+Long March 4B,Yaogan-28,Long March 4B,China Aerospace Science and Technology Corporation,2015,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Ariane 5 ECA,Arabsat 6B & GSAT-15,Ariane 5 ECA,Arianespace,2015,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz-2.1b/Fregat,EKS (Tundra) (Kosmos 2510),Soyuz 2.1b/Fregat,Russian Space Forces,2015,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 3B/E,LaoSat-1,Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+New Shepard,NS-2,New Shepard,Blue Origin,2015,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+H-IIA 204,Telstar 12 VANTAGE,H-IIA,Mitsubishi Heavy Industries,2015,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Long March 4C,Yaogan-29,Long March 4C,China Aerospace Science and Technology Corporation,2015,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Vega,LISA Pathfinder,Vega,Arianespace,2015,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz 2.1v/Volga,Kanopus-ST (Kosmos 2511) & KYuA-1 (Kosmos 2512),Soyuz 2.1v,Russian Space Forces,2015,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Failure,Modern,Russian Federation
+Atlas V 401,Cygnus CRS Orb-4 (S.S. Deke Slayton II),Atlas V 401,United Launch Alliance,2015,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3B/E,ChinaSat-1C,Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Zenit-3F,Elektro-L No.2,Zenit 3F,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Proton-M Briz-M,Garpun No. 12L (Kosmos-2513),Proton-M Briz-M,Khrunichev State Research and Production Space Center,2015,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz FG,Soyuz TMA-19M,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+PSLV-CA,TeLEOS-1,PSLV,Antrix Corporation Limited,2015,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Long March 2D,DAMPE ( Wukong/Monkey King ),Long March 2D,China Aerospace Science and Technology Corporation,2015,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz STB/Fregat,Galileo L6 (FOC FM08-FM09),Soyuz STB,Arianespace,2015,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz 2.1a,Progress MS (62P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2015,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Full Thrust,Orbcomm OG2 Mission 2,Falcon 9,SpaceX,2015,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Proton-M Briz-M,Ekspress AMU1 / (EUTELSAT 36C),Proton-M Briz-M,Khrunichev State Research and Production Space Center,2015,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 3B/E,Gaofen 4,Long March 3B/E,China Aerospace Science and Technology Corporation,2015,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/E,BELINTERSAT-1,Long March 3B/E,China Aerospace Science and Technology Corporation,2016,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 v1.1,Jason-3,Falcon 9,SpaceX,2016,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+PSLV XL,IRNSS-1E,PSLV-XL,Indian Space Research Organization,2016,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+New Shepard,NS-3,New Shepard,Blue Origin,2016,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Intelsat 29e,Ariane 5 ECA,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Proton-M Briz-M,Eutelsat 9B,Proton-M Briz-M,International Launch Services,2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 3C/YZ-1,Beidou M3-S,Long March 3C/YZ-1,China Aerospace Science and Technology Corporation,2016,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 401,GPS IIF-12 (USA-266),Atlas V 401,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz-2.1b/Fregat,Glonass-M (Kosmos 2514),Soyuz 2.1b/Fregat,Russian Space Forces,2016,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Unha,Kwangmyongsong-4,Unha,National Aerospace Development Administration,2016,Unha Launch Pad,"Sohae Satellite Launching Station,  Cholsan County, North Pyongan Province, Democratic People's Republic of Korea",Launch Successful,Modern,Democratic People's Republic of Korea
+"Delta IV M+(5,2)",NROL-45 (Topaz-4) (USA-267),"Delta IV M+(5,2)",United Launch Alliance,2016,Space Launch Complex 6,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Rokot / Briz-KM,Sentinel-3A,Rokot/Briz-KM,Eurockot Launch Services,2016,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+H-IIA 202,Astro-H (Hitomi),H-IIA,Mitsubishi Heavy Industries,2016,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Falcon 9 Full Thrust,SES-9,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Eutelsat 65 West A,Ariane 5 ECA,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+PSLV XL,IRNSS-1F,PSLV-XL,Indian Space Research Organization,2016,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Soyuz 2.1b,Resurs-P No.3,Soyuz 2.1b,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Proton-M Briz-M,ExoMars Trace Gas Orbiter & EDM Schiaparelli lander,Proton-M Briz-M,Khrunichev State Research and Production Space Center,2016,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz FG,Soyuz TMA-20M,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Atlas V 401,Cygnus CRS OA-6 (S.S. Rick Husband),Atlas V 401,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz 2.1a,Bars-M No. 2 (Kosmos 2515),Soyuz 2.1a,Russian Space Forces,2016,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 3A,Beidou No. 22,Long March 3A,China Aerospace Science and Technology Corporation,2016,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1a,Progress MS-02 (63P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+New Shepard,NS-4,New Shepard,Blue Origin,2016,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Long March 2D,Shijian 10,Long March 2D,China Aerospace Science and Technology Corporation,2016,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Full Thrust,SpX CRS-8,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz STA/Fregat,Sentinel-1B,Soyuz STA,Arianespace,2016,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz-2.1a/Volga,"Mikhailo Lomonosov, Aist-2D & SamSat 218",Soyuz 2.1a/Volga,Russian Federal Space Agency (ROSCOSMOS),2016,Cosmodrome Site 1S,"Vostochny Cosmodrome, Siberia, Russian Federation",Launch Successful,Modern,Russian Federation
+PSLV XL,IRNSS-1G,PSLV-XL,Indian Space Research Organization,2016,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Falcon 9 Full Thrust,JCSAT-14,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 2D,Yaogan-30,Long March 2D,China Aerospace Science and Technology Corporation,2016,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz STB/Fregat,Galileo L7 (FOC FM10-FM11),Soyuz STB,Arianespace,2016,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Full Thrust,Thaicom 8,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz-2.1b/Fregat,Glonass-M No. 53 (Kosmos 2516),Soyuz 2.1b/Fregat,Russian Space Forces,2016,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 4B,Ziyuan 3-02 & Ã‘uSat-1 & -2 (Fresco and Batata),Long March 4B,China Aerospace Science and Technology Corporation,2016,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Rokot/Briz-KM,Geo-IK-2 No.12L (Kosmos 2517),Rokot/Briz-KM,Russian Space Forces,2016,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Proton-M Briz-M,Intelsat 31/DLA-2,Proton-M Briz-M,International Launch Services,2016,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Delta IV Heavy,NROL-37,Delta IV Heavy,United Launch Alliance,2016,Space Launch Complex 37A,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3C,Beidou-2 G7,Long March 3C,China Aerospace Science and Technology Corporation,2016,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Full Thrust,Eutelsat 117 West B & ABS-2A,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Echostar 18 & BRIsat,Ariane 5 ECA,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+New Shepard,NS-5,New Shepard,Blue Origin,2016,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+PSLV XL,Cartosat-2C & 19 small satellites,PSLV-XL,Indian Space Research Organization,2016,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Atlas V 551,MUOS-5,Atlas V 551,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 7 / YZ-1A,Development Flight 1,Long March 7/YZ-1A,China Aerospace Science and Technology Corporation,2016,201,"Wenchang Space Launch Site, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 4B,Shijian 16-02,Long March 4B,China Aerospace Science and Technology Corporation,2016,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz-FG,Soyuz MS (MS-01),Soyuz,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz-U,Progress MS-03 (64P),Soyuz U,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Full Thrust,SpX CRS-9,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Atlas V 421,NROL-61,Atlas V 421,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3B/E,Tiantong 1-01,Long March 3B/E,China Aerospace Science and Technology Corporation,2016,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 4C,Gaofen 3,Long March 4C,China Aerospace Science and Technology Corporation,2016,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Full Thrust,JCSAT-16,Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 2D,QUESS (Micius),Long March 2D,China Aerospace Science and Technology Corporation,2016,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+"Delta IV M+(4,2)",AFSPC-6,"Delta IV M+(4,2)",United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Intelsat 33e & Intelsat 36,Ariane 5 ECA,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 4C,Gaofen 10,Long March 4C,China Aerospace Science and Technology Corporation,2016,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Failure,Modern,People's Republic of China
+Falcon 9 Full Thrust,Amos 6 (Failure before launch),Falcon 9,SpaceX,2016,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Failure,Modern,USA
+GSLV Mk II,INSAT-3DR,GSLV Mk II,Indian Space Research Organization,2016,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+SpaceShipTwo,VSS Unity CC01,SpaceShipTwo,Virgin Galactic,2016,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Atlas V 411,OSIRIS-REx,Atlas V 411,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Shavit-2,Ofeq-11,Shavit-2,Israel Aerospace Industries,2016,Shavit Launch Pad,"Palmachim Airbase, State of Israel",Launch Successful,Modern,State of Israel
+Long March 2F/G,Tiangong-2,Long March 2F/G,China Aerospace Science and Technology Corporation,2016,Launch Area 91 (SLS-1 / 921),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Vega,PerúSAT-1 / SkySat 4-7,Vega,Arianespace,2016,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+PSLV,SCATSat-1,PSLV,Indian Space Research Organization,2016,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+New Shepard,NS-6,New Shepard,Blue Origin,2016,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Sky Muster II (NBN-Co 1B) & GSAT-18,Ariane 5 ECA,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 2F/G,Shenzhou-11,Long March 2F/G,China Aerospace Science and Technology Corporation,2016,Launch Area 91 (SLS-1 / 921),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Antares 230,Cygnus CRS OA-5 (S.S. Alan Poindexter),Antares 230,Orbital ATK,2016,Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Modern,USA
+Soyuz-FG,Soyuz MS-02,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+SpaceShipTwo,VSS Unity CC02,SpaceShipTwo,Virgin Galactic,2016,Mojave Air and Space Port,Air launch to Suborbital flight,Launch was a Partial Failure,Modern,Air launch to Suborbital flight
+H-IIA 202,Himawari-9,H-IIA,Mitsubishi Heavy Industries,2016,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+SpaceShipTwo,VSS Unity CC03,SpaceShipTwo,Virgin Galactic,2016,Mojave Air and Space Port,Air launch to Suborbital flight,Launch was a Partial Failure,Modern,Air launch to Suborbital flight
+Long March 5 / YZ-2,Shijian 17,Long March 5/YZ-2,China Aerospace Science and Technology Corporation,2016,101,"Wenchang Space Launch Site, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 11,"Xiaoxiang-1, XPNAV-1 & 3 others.",Long March 11,China Aerospace Science and Technology Corporation,2016,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 401,WorldView-4,Atlas V 401,United Launch Alliance,2016,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 2D,YunHai 1-01,Long March 2D,China Aerospace Science and Technology Corporation,2016,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Ariane 5 ES,Galileo L8 (FOC FM07 & FM12-FM14),Ariane 5 ES,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz-FG,Soyuz MS-03,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Atlas V 541,GOES-R,Atlas V 541,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3C,Tianlian 1-04,Long March 3C,China Aerospace Science and Technology Corporation,2016,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SpaceShipTwo,VSS Unity CC04,SpaceShipTwo,Virgin Galactic,2016,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Soyuz-U,Progress MS-04 (65P),Soyuz U,Russian Federal Space Agency (ROSCOSMOS),2016,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Modern,Republic of Kazakhstan
+SpaceShipTwo,VSS Unity GF01,SpaceShipTwo,Virgin Galactic,2016,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Vega,Göktürk-1A,Vega,Arianespace,2016,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+PSLV XL,Resourcesat-2A,PSLV-XL,Indian Space Research Organization,2016,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+"Delta IV M+(5,4)",WGS-8 (USA-272),"Delta IV M+(5,4)",United Launch Alliance,2016,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+H-IIB 304,Kounotori 6 (HTV-6),H-IIB,Mitsubishi Heavy Industries,2016,Yoshinobu Launch Complex LP-2,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Long March 3B,Fengyun-4A,Long March 3B,China Aerospace Science and Technology Corporation,2016,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Pegasus XL,8 x CYGNSS,Pegasus XL,Orbital ATK,2016,Cape Canaveral,Air launch to orbit,Launch Successful,Modern,Air launch to orbit
+Atlas V 431,Echostar 19 (Jupiter-2),Atlas V 431,United Launch Alliance,2016,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Epsilon,ERG (ARASE),Epsilon,Japan Aerospace Exploration Agency,2016,Mu Center,"Uchinoura Space Center, Japan",Launch Successful,Modern,Japan
+Long March 2D,Tansat (CarbonSat),Long March 2D,China Aerospace Science and Technology Corporation,2016,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Ariane 5 ECA,Star One D1 & JCSAT-15,Ariane 5 ECA,Arianespace,2016,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+SpaceShipTwo,VSS Unity GF02,SpaceShipTwo,Virgin Galactic,2016,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Long March 2D,SuperView-1 (Gaojing 1-01 & Gaojing 1-02),Long March 2D,China Aerospace Science and Technology Corporation,2016,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch was a Partial Failure,Modern,People's Republic of China
+Long March 3B,TJS-2 (TJSW-2),Long March 3B,China Aerospace Science and Technology Corporation,2017,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Kuaizhou 1A,Multiple payloads,Kuaizhou 1A,ExPace,2017,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Full Thrust,Iridium-1,Falcon 9,SpaceX,2017,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+SS-520-4,TRICOM-1,SS-520,Japan Aerospace Exploration Agency,2017,KS Center,"Uchinoura Space Center, Japan",Launch Failure,Modern,Japan
+Atlas V 401,SBIRS GEO Flight 3 (SBIRS GEO-4),Atlas V 401,United Launch Alliance,2017,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+H-IIA 204,DSN 2 (Kirameki 2),H-IIA,Mitsubishi Heavy Industries,2017,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Soyuz STB/Fregat-MT,Hispasat 36W-1 (Hispasat AG1),Soyuz STB,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Ariane 5 ECA,SKY Brasil-1 (Intelsat-32e) & Telkom-3S,Ariane 5 ECA,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+PSLV XL,Cartosat-2D & 103 others,PSLV-XL,Indian Space Research Organization,2017,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Falcon 9 Full Thrust,SpX CRS-10,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Soyuz-U,Progress MS-05 (66P),Soyuz U,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+SpaceShipTwo,VSS Unity GF03,SpaceShipTwo,Virgin Galactic,2017,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Atlas V 401,NROL-79,Atlas V 401,United Launch Alliance,2017,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Kaituozhe-2,Tiankun-1,Kaituozhe,China Aerospace Science and Technology Corporation,2017,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Vega,Sentinel-2B,Vega,Arianespace,2017,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Full Thrust,Echostar 23,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+H-IIA 202,IGS Radar 5,H-IIA,Mitsubishi Heavy Industries,2017,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+"Delta IV M+(5,4)",WGS-9 (USA-275),"Delta IV M+(5,4)",United Launch Alliance,2017,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Falcon 9 Full Thrust,SES-10,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Long March 3B,Shijian-13/Chinasat-16,Long March 3B,China Aerospace Science and Technology Corporation,2017,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 401,Cygnus CRS OA-7 (S.S. John Glenn),Atlas V 401,United Launch Alliance,2017,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz-FG,Soyuz MS-04,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 7,Tianzhou-1,Long March 7,China Aerospace Science and Technology Corporation,2017,201,"Wenchang Space Launch Site, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Full Thrust,NROL-76,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+SpaceShipTwo,VSS Unity GF04,SpaceShipTwo,Virgin Galactic,2017,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Ariane 5 ECA,SGDC 1 & Koreasat 7,Ariane 5 ECA,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+GSLV Mk II,SouthAsiaSat (GSAT-9),GSLV Mk II,Indian Space Research Organization,2017,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Falcon 9 Full Thrust,Inmarsat-5 F4,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Soyuz STA/Fregat,SES-15,Soyuz STA,Arianespace,2017,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Electron,It's a Test,Electron,Rocket Lab,2017,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Failure,Modern,New Zealand
+Soyuz-2.1b/Fregat,EKS-2 (Tundra 2) (Kosmos 2518),Soyuz 2.1b/Fregat,Russian Space Forces,2017,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+H-IIA 202,Michibiki 2 (QZS-2),H-IIA,Mitsubishi Heavy Industries,2017,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+SpaceShipTwo,VSS Unity CF01,SpaceShipTwo,Virgin Galactic,2017,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Ariane 5 ECA,ViaSat-2 & EUTELSAT 172B,Ariane 5 ECA,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Full Thrust,SpX CRS-11,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+LVM-3,GSAT-19,LVM-3 (GSLV Mk III),Indian Space Research Organization,2017,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Proton-M Briz-M,Echostar 21,Proton-M Briz-M,International Launch Services,2017,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz 2.1a,Progress MS-06 (67P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 4B,Huiyan (HXMT (Hard X-ray Modulation Telescope)),Long March 4B,China Aerospace Science and Technology Corporation,2017,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/E,Zhongxing-9A (Chinasat-9A),Long March 3B/E,China Aerospace Science and Technology Corporation,2017,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch was a Partial Failure,Modern,People's Republic of China
+PSLV XL,Cartosat-2E,PSLV-XL,Indian Space Research Organization,2017,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Soyuz 2.1v/Volga,Kosmos-2519,Soyuz 2.1v,Russian Space Forces,2017,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Falcon 9 Full Thrust,BulgariaSat-1,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Falcon 9 Full Thrust,Iridium-2,Falcon 9,SpaceX,2017,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Hellas Sat 3 (Inmarsat S EAN) & GSAT-17,Ariane 5 ECA,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 5 / YZ-2,Shijian 18,Long March 5/YZ-2,China Aerospace Science and Technology Corporation,2017,101,"Wenchang Space Launch Site, People's Republic of China",Launch Failure,Modern,People's Republic of China
+Falcon 9 Full Thrust,Intelsat 35e,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Soyuz-2.1a/Fregat,Kanopus-V-IK,Soyuz 2.1a/Fregat-M,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch was a Partial Failure,Modern,Republic of Kazakhstan
+Simorgh,Unknown,Simorgh,Iranian Space Agency,2017,Imam Khomeini Spaceport,"Semnan Space Center, Islamic Republic of Iran",Launch Failure,Modern,Islamic Republic of Iran
+Soyuz-FG,Soyuz MS-05,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+MOMO,1st Test Flight,MOMO v0,Interstellar Technologies,2017,Launch Complex 0,"Hokkaido Spaceport, Japan",Launch Failure,Modern,Japan
+Vega,OptSat 3000 & VENÂµS (VENUS),Vega,Arianespace,2017,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+SpaceShipTwo,VSS Unity GF06,SpaceShipTwo,Virgin Galactic,2017,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Falcon 9 Block 4,SpX CRS-12,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Proton-M/Briz-M,Blagovest No.11L (Kosmos 2520),Proton-M Briz-M,Khrunichev State Research and Production Space Center,2017,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Atlas V 401,TDRS-M,Atlas V 401,United Launch Alliance,2017,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+H-IIA 204,Michibiki 3 (QZS-3),H-IIA,Mitsubishi Heavy Industries,2017,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Falcon 9 Full Thrust,Formosat 5,Falcon 9,SpaceX,2017,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Minotaur IV,ORS-5,Minotaur IV,Orbital ATK,2017,Space Launch Complex 46,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+PSLV XL,IRNSS-1H,PSLV-XL,Indian Space Research Organization,2017,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Failure,Modern,India
+Falcon 9 Block 4,OTV-5 (X-37B),Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Proton-M Briz-M,Amazonas 5,Proton-M Briz-M,International Launch Services,2017,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz-FG,Soyuz MS-06,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz-2.1b/Fregat-M,Glonass-M (Kosmos 2522),Soyuz 2.1b/Fregat-M,Russian Space Forces,2017,43/3 (43L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Atlas V 541,NROL-42,Atlas V 541,United Launch Alliance,2017,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Proton-M Briz-M,AsiaSat 9,Proton-M Briz-M,International Launch Services,2017,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 2C,3 x Yaogan-30-01,Long March 2C,China Aerospace Science and Technology Corporation,2017,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Ariane 5 ECA,Intelsat 37e & BSAT-4a,Ariane 5 ECA,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 2D,VRSS-2 (Antonio JosÃ© de Sucre),Long March 2D,China Aerospace Science and Technology Corporation,2017,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 4,Iridium-3,Falcon 9,SpaceX,2017,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+H-IIA 202,Michibiki 4 (QZS-4),H-IIA,Mitsubishi Heavy Industries,2017,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Falcon 9 Full Thrust,Echostar 105/SES-11,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Rokot / Briz-KM,Sentinel-5P,Rokot/Briz-KM,Eurockot Launch Services,2017,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Soyuz 2.1a,Progress MS-07 (68P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Atlas V 421,NROL-52,Atlas V 421,United Launch Alliance,2017,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Falcon 9 Block 4,Koreasat 5A,Falcon 9,SpaceX,2017,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Minotaur-C (Taurus XL),6 x SkySat & 4 x Dove,Minotaur,Orbital ATK,2017,Space Launch Complex 576E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 3B / YZ-1,Beidou-3 M1 & M2,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2017,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Vega,Mohammed VI-A,Vega,Arianespace,2017,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Antares 230,Cygnus CRS OA-8 (S.S. Gene Cernan),Antares 230,Orbital ATK,2017,Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Modern,USA
+Long March 4C,Fengyun-3D,Long March 4C,China Aerospace Science and Technology Corporation,2017,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Delta II 7920-10,JPSS 1 (Joint Polar Satellite System spacecraft No. 1),Delta II,United Launch Alliance,2017,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 6,"Jilin-1-04, Jilin-1-05 & Jilin-1-06",Long March 6,China Aerospace Science and Technology Corporation,2017,Launch Complex 16,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 2C,3 x Yaogan-30,Long March 2C,China Aerospace Science and Technology Corporation,2017,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1b/Fregat,Meteor-M No.2-1 & rideshare payloads,Soyuz 2.1b/Fregat,Russian Federal Space Agency (ROSCOSMOS),2017,Cosmodrome Site 1S,"Vostochny Cosmodrome, Siberia, Russian Federation",Launch Failure,Modern,Russian Federation
+Soyuz-2.1b,Lotos-S1 (Kosmos-2524),Soyuz 2.1b,Russian Space Forces,2017,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 2D,LKW-1 (Land Survey Satellite-1),Long March 2D,China Aerospace Science and Technology Corporation,2017,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/E,Alcomsat-1,Long March 3B/E,China Aerospace Science and Technology Corporation,2017,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+New Shepard,NS-7,New Shepard,Blue Origin,2017,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Ariane 5 ES,Galileo L9 (FOC FM15-FM18),Ariane 5 ES,Arianespace,2017,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Full Thrust,SpX CRS-13,Falcon 9,SpaceX,2017,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz-FG,Soyuz MS-07,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+H-IIA 202,GCOM-C1 & SLATS,H-IIA,Mitsubishi Heavy Industries,2017,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Falcon 9 Full Thrust,Iridium-4,Falcon 9,SpaceX,2017,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 2D,LKW-2 (Land Survey Satellite-2),Long March 2D,China Aerospace Science and Technology Corporation,2017,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 2C,3 x Yaogan-30,Long March 2C,China Aerospace Science and Technology Corporation,2017,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Zenit-3F,AngoSat-1,Zenit 3F,Sea Launch,2017,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Block 4,Zuma,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 2D,SuperView-1 (Gaojing 1-03 & Gaojing 1-04),Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SpaceShipTwo,VSS Unity GF07,SpaceShipTwo,Virgin Galactic,2018,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Long March 3B / YZ-1,Beidou-3 M7 & M8,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+PSLV XL,Cartosat-2F (Cartosat-2S4),PSLV-XL,Indian Space Research Organization,2018,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+"Delta IV M+(5,2)",NROL-47,"Delta IV M+(5,2)",United Launch Alliance,2018,Space Launch Complex 6,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 2D,LKW-3 (Land Survey Satellite-3),Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Epsilon,ASNARO-2,Epsilon,Japan Aerospace Exploration Agency,2018,Mu Center,"Uchinoura Space Center, Japan",Launch Successful,Modern,Japan
+Long March 11,"Jilin-1-07 (Deqing-1), Jilin-1-08",Long March 11,China Aerospace Science and Technology Corporation,2018,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 411,SBIRS GEO Flight 4 (SBIRS GEO-3),Atlas V 411,United Launch Alliance,2018,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Electron,Still Testing,Electron,Rocket Lab,2018,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+Long March 2C,3 x Yaogan-30,Long March 2C,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Ariane 5 ECA,Al Yah 3 & SES-14,Ariane 5 ECA,Arianespace,2018,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch was a Partial Failure,Modern,French Guiana
+Falcon 9 Full Thrust,GovSat (SES-16),Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz 2.1a/Fregat-M,Kanopus-V No.3 & Kanopus-V No.4,Soyuz 2.1a/Fregat-M,Russian Federal Space Agency (ROSCOSMOS),2018,Cosmodrome Site 1S,"Vostochny Cosmodrome, Siberia, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 2D,Zhangheng-1 (CSES),Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SS-520-5,TRICOM-1R,SS-520,Japan Aerospace Exploration Agency,2018,KS Center,"Uchinoura Space Center, Japan",Launch Successful,Modern,Japan
+Falcon Heavy,Demo (Test Flight),Falcon Heavy,SpaceX,2018,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Long March 3B / YZ-1,Beidou-3 M3 & M4,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1a,Progress MS-08 (69P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Full Thrust,"PAZ & Microsat-2a, Microsat-2b",Falcon 9,SpaceX,2018,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+H-IIA 202,IGS Optical 6,H-IIA,Japan Aerospace Exploration Agency,2018,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Atlas V 541,GOES-S,Atlas V 541,United Launch Alliance,2018,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Falcon 9 Block 4,Hispasat 30W-6 (Hispasat 1F),Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz STB/Fregat,O3b FM13-16,Soyuz STB,Arianespace,2018,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 2D,LKW-4 (Land Survey Satellite-4),Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz-FG,Soyuz MS-08,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+GSLV Mk II,GSAT-6A,GSLV Mk II,Indian Space Research Organization,2018,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Soyuz 2.1v,VNIIEM EMKA (Kosmos 2525),Soyuz,Russian Space Forces,2018,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 3B / YZ-1,Beidou-3 M9 & M10,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 4,Iridium-5,Falcon 9,SpaceX,2018,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 4C,"Gaofen 1-02, 1-03 & 1-04",Long March 4C,China Aerospace Science and Technology Corporation,2018,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 4,SpX CRS-14,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+SpaceShipTwo,VSS Unity PF01,SpaceShipTwo,Virgin Galactic,2018,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Ariane 5 ECA,DSN 1 & HYLAS 4,Ariane 5 ECA,Arianespace,2018,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 4C,3 x Yaogan-31-01,Long March 4C,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+PSLV XL,IRNSS-1I,PSLV-XL,Indian Space Research Organization,2018,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Atlas V 551,AFSPC-11,Atlas V 551,United Launch Alliance,2018,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Proton-M/Briz-M,Blagovest No.12L (Kosmos 2526),Proton-M Briz-M,Khrunichev State Research and Production Space Center,2018,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Block 4,TESS (Transiting Exoplanet Survey Satellite),Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Rokot / Briz-KM,Sentinel-3B,Rokot/Briz-KM,Eurockot Launch Services,2018,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 11,Zhuhai-1-02,Long March 11,China Aerospace Science and Technology Corporation,2018,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+New Shepard,NS-8,New Shepard,Blue Origin,2018,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Long March 3B/E,APStar-6C,Long March 3B/E,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 401,"InSight, Mars Cube One 1 & Mars Cube One 2",Atlas V 401,United Launch Alliance,2018,Space Launch Complex 3E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 4C,Gaofen 5,Long March 4C,China Aerospace Science and Technology Corporation,2018,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,Bangabandhu-1,Falcon 9,SpaceX,2018,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Long March 4C,Queqiao (Chang'e 4 relay satellite),Long March 4C,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Antares 230,Cygnus CRS OA-9 (S.S. J.R. Thompson),Antares 230,Orbital ATK,2018,Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Modern,USA
+Falcon 9 Block 4,Iridium-6 & GRACE-FO,Falcon 9,SpaceX,2018,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+SpaceShipTwo,VSS Unity PF02,SpaceShipTwo,Virgin Galactic,2018,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Long March 2D,Gaofen 6 & Luojia-1,Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 4,SES-12,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3A,Fengyun-2H,Long March 3A,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz-FG,Soyuz MS-09,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+H-IIA 202,IGS Radar 6,H-IIA,Mitsubishi Heavy Industries,2018,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Soyuz 2.1b/Fregat-M,Glonass-M No. 56 (Kosmos 2527),Soyuz 2.1b/Fregat-M,Russian Space Forces,2018,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 2C,XJS-A & XJS-B,Long March 2C,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 4,SpX CRS-15,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+MOMO,Launch 2,MOMO v0,Interstellar Technologies,2018,Launch Complex 0,"Hokkaido Spaceport, Japan",Launch Failure,Modern,Japan
+Long March 2C/SMA,PRSS-1 & PakTes-1A,Long March 2C/SMA,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3A,Beidou-2 I7,Long March 3A,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1A,Progress MS-09 (70P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+New Shepard,NS-9,New Shepard,Blue Origin,2018,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Falcon 9 Block 5,Telstar 19 VANTAGE,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ES,Galileo L10 (FOC FM19-FM22),Ariane 5 ES,Arianespace,2018,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Block 5,Iridium-7,Falcon 9,SpaceX,2018,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+SpaceShipTwo,VSS Unity PF03,SpaceShipTwo,Virgin Galactic,2018,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Long March 3B / YZ-1,Beidou-3 M5 & M6,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 4B,Gaofen-11,Long March 4B,China Aerospace Science and Technology Corporation,2018,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,Merah Putih (Telkom-4),Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Delta IV Heavy,Parker Solar Probe,Delta IV Heavy,United Launch Alliance,2018,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Vega,ADM-Aeolus,Vega,Arianespace,2018,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 3B / YZ-1,Beidou-3 M11 & M12,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SARGE,"Launch 1 - ""Pathfinder""",SARGE,EXOS Aerospace,2018,Vertical Launch Area,"Spaceport America, NM, USA",Launch was a Partial Failure,Modern,USA
+Long March 2C,Haiyang 1C,Long March 2C,China Aerospace Science and Technology Corporation,2018,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,Telstar 18 VANTAGE,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Delta II 7420-10,ICESat-2,Delta II,United Launch Alliance,2018,Space Launch Complex 2W,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+PSLV-CA,SSTL-S1 & NovaSAR-S,PSLV,Indian Space Research Organization,2018,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Long March 3B / YZ-1,Beidou-3 M13 & M14,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+H-IIB 304,Kounotori 7 (HTV-7),H-IIB,Mitsubishi Heavy Industries,2018,Yoshinobu Launch Complex LP-2,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Ariane 5 ECA,Azerspace-2/Intelsat-38 & Horizons 3e,Ariane 5 ECA,Arianespace,2018,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Kuaizhou 1A,Centispace-1-S1,Kuaizhou 1A,ExPace,2018,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,SAOCOM 1A,Falcon 9,SpaceX,2018,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 2C/YZ-1S,Yaogan-32-01,Long March 2C/YZ-1S,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz-FG,Soyuz MS-10,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Failure,Modern,Republic of Kazakhstan
+Long March 3B / YZ-1,Beidou-3 M15 & M16,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Atlas V 551,AEHF-4 (USA 288),Atlas V 551,United Launch Alliance,2018,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,BepiColombo,Ariane 5 ECA,Arianespace,2018,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 4B,Haiyang 2B,Long March 4B,China Aerospace Science and Technology Corporation,2018,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1B,Lotos-S1 (Kosmos 2528),Soyuz 2.1b,Russian Space Forces,2018,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Zhuque-1,Weilai-1 (Future-1),Zhuque-1,LandSpace,2018,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Failure,Modern,People's Republic of China
+Long March 2C,CFOSAT,Long March 2C,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+H-IIA 202,KhalifaSat & GOSAT-2,H-IIA,Mitsubishi Heavy Industries,2018,Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Long March 3B,Beidou-3 G1,Long March 3B,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1b/Fregat-M,Glonass-M No. 57 (Kosmos 2529),Soyuz 2.1b/Fregat-M,Russian Space Forces,2018,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Soyuz STB/Fregat-MT,MetOp-C,Soyuz STB,Arianespace,2018,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Electron,It's Business Time (Rideshare),Electron,Rocket Lab,2018,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+LVM-3,GSAT-29,LVM-3 (GSLV Mk III),Indian Space Research Organization,2018,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Falcon 9 Block 5,Es'hail 2,Falcon 9,SpaceX,2018,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Soyuz-FG,Progress MS-10 (71P),Soyuz,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Antares 230,Cygnus CRS NG-10 (S.S. John Young),Antares 230,Northrop Grumman Space Systems,2018,Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Modern,USA
+Long March 3B / YZ-1,Beidou-3 M17 & M18,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2018,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 2D,"Shiyan 6, Jiading-1 (OKW-1) & others",Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Vega,Mohammed VI-B,Vega,Arianespace,2018,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+KSLV-2-TLV,Test Flight,KSLV 2 TLV,Korea Aerospace Research Institute,2018,LC-2,"Naro Space Center, South Korea",Launch Successful,Modern,South Korea
+PSLV-CA,HysIS,PSLV,Indian Space Research Organization,2018,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Rokot / Briz-KM,"3 x Rodnik (Kosmos 2530, 2531, 2532)",Rokot/Briz-KM,Russian Space Forces,2018,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Soyuz-FG,Soyuz MS-11,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2018,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Block 5,Spaceflight SSO-A,Falcon 9,SpaceX,2018,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,GSAT-11 & GEO-KOMPSAT-2A,Ariane 5 ECA,Arianespace,2018,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Block 5,SpX CRS-16,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 2D,SaudiSat 5A & 5B,Long March 2D,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/E,Chang'e 4 (lander and rover),Long March 3B/E,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SpaceShipTwo,VSS Unity VP-03,SpaceShipTwo,Virgin Galactic,2018,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Electron,This One's For Pickering (VCLS ELaNa XIX),Electron,Rocket Lab,2018,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+GSLV Mk II,GSAT-7A,GSLV Mk II,Indian Space Research Organization,2018,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Soyuz STA/Fregat,CSO-1,Soyuz STA,Arianespace,2018,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Proton-M/Briz-M,Blagovest N13L (Kosmos 2533),Proton-M Briz-M,Khrunichev State Research and Production Space Center,2018,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 11,Hongyun-1,Long March 11,China Aerospace Science and Technology Corporation,2018,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,GPS III SV01,Falcon 9,SpaceX,2018,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Long March 3C,TJS-3 (TJSW-3),Long March 3C,China Aerospace Science and Technology Corporation,2018,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz 2.1a/Fregat-M,Kanopus-V No.5 & Kanopus-V No.6,Soyuz 2.1a/Fregat-M,Russian Federal Space Agency (ROSCOSMOS),2018,Cosmodrome Site 1S,"Vostochny Cosmodrome, Siberia, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 2D/YZ-3,Hongyan-1 & Yunhai-2 Group 01,Long March 2D/YZ-3,China Aerospace Science and Technology Corporation,2018,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B,Zhongxing 2D (Chinasat 2D),Long March 3B,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,Iridium-8,Falcon 9,SpaceX,2019,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Simorgh,Payam,Simorgh,Iranian Space Agency,2019,Imam Khomeini Spaceport,"Semnan Space Center, Islamic Republic of Iran",Launch Failure,Modern,Islamic Republic of Iran
+Epsilon,RAPIS-1 & others,Epsilon,Japan Aerospace Exploration Agency,2019,Mu Center,"Uchinoura Space Center, Japan",Launch Successful,Modern,Japan
+Delta IV Heavy,NROL-71,Delta IV Heavy,United Launch Alliance,2019,Space Launch Complex 6,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Long March 11,"Jilin-1 Hyperspectral 01, 02, Xiaoxiang-1-03, Lingque-1A",Long March 11,China Aerospace Science and Technology Corporation,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+New Shepard,NS-10,New Shepard,Blue Origin,2019,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+PSLV-DL,Microsat-R,PSLV-DL,Indian Space Research Organization,2019,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Safir 1B,Doosti,Safir 1B,Iranian Space Agency,2019,Safir Launch Pad,"Semnan Space Center, Islamic Republic of Iran",Launch Failure,Modern,Islamic Republic of Iran
+Ariane 5 ECA,Saudi Geostationary Satellite 1/Hellas Sat 4 & GSAT-31,Ariane 5 ECA,Arianespace,2019,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Soyuz 2.1b/Fregat-M,EgyptSat-A,Soyuz 2.1b/Fregat-M,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Falcon 9 Block 5,"Nusantara Satu & GTO-1 (Beresheet, S5)",Falcon 9,SpaceX,2019,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+SpaceShipTwo,VSS Unity VF-01,SpaceShipTwo,Virgin Galactic,2019,Mojave Air and Space Port,Air launch to Suborbital flight,Launch Successful,Modern,Air launch to Suborbital flight
+Soyuz STB/Fregat,OneWeb 1 (F6),Soyuz STB,Arianespace,2019,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Block 5,SpX-DM1 (Demonstration Mission 1),Falcon 9,SpaceX,2019,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+SARGE,"Launch 2 - ""Mission 1""",SARGE,EXOS Aerospace,2019,Vertical Launch Area,"Spaceport America, NM, USA",Launch was a Partial Failure,Modern,USA
+Long March 3B/E,Zhongxing 6C (Chinasat 6C),Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz-FG,Soyuz MS-12,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+"Delta IV M+(5,4)",WGS-10,"Delta IV M+(5,4)",United Launch Alliance,2019,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Vega,PRISMA,Vega,Arianespace,2019,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+OS-M1,Lingque-1B,OS-M1,OneSpace,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Failure,Modern,People's Republic of China
+Electron,Two Thumbs Up (DARPA R3D2),Electron,Rocket Lab,2019,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+Long March 3B/E,Tianlian 2-01,Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+PSLV-QL,EMISAT & 28 others,PSLV-QL,Indian Space Research Organization,2019,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Soyuz 2.1a,Progress MS-11 (72P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz STB/Fregat,O3b FM17-20,Soyuz STB,Arianespace,2019,Soyuz Launch Complex,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon Heavy,Arabsat-6A,Falcon Heavy,SpaceX,2019,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Antares 230,Cygnus CRS NG-11 (S.S. Roger Chaffee),Antares 230,Northrop Grumman Space Systems,2019,Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Modern,USA
+Long March 3B/E,Beidou-3 IGSO-1,Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 4B,Tianhui-2-01,Long March 4B,China Aerospace Science and Technology Corporation,2019,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+New Shepard,NS-11,New Shepard,Blue Origin,2019,West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",Launch Successful,Modern,USA
+Falcon 9 Block 5,SpX CRS-17,Falcon 9,SpaceX,2019,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+MOMO,Flight 3,MOMO v0,Interstellar Technologies,2019,Launch Complex 0,"Hokkaido Spaceport, Japan",Launch Successful,Modern,Japan
+Electron,That's a Funny Looking Cactus (STP-27RD),Electron,Rocket Lab,2019,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+Long March 3C,Beidou-2 G8,Long March 3C,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+PSLV-CA,RISAT-2B,PSLV,Indian Space Research Organization,2019,Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Long March 4C,Yaogan-33,Long March 4C,China Aerospace Science and Technology Corporation,2019,Launch Complex 7,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Failure,Modern,People's Republic of China
+Falcon 9 Block 5,Starlink Demo (0.9),Falcon 9,SpaceX,2019,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz 2.1b/Fregat-M,Glonass-M No. 58 (Kosmos 2534),Soyuz 2.1b/Fregat-M,Russian Space Forces,2019,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Proton-M/Briz-M,Yamal-601,Proton-M Briz-M,Khrunichev State Research and Production Space Center,2019,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Long March 11,Jilin-1 & others,Long March 11,China Aerospace Science and Technology Corporation,2019,Yellow Sea (launch location 1),Haiyang Oriental Spaceport,Launch Successful,Modern,Haiyang Oriental Spaceport
+Falcon 9 Block 5,RADARSAT Constellation,Falcon 9,SpaceX,2019,Space Launch Complex 4E,"Vandenberg SFB, CA, USA",Launch Successful,Modern,USA
+Ariane 5 ECA,Eutelsat 7C & AT&T T-16,Ariane 5 ECA,Arianespace,2019,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Long March 3B/E,Beidou-3 IGSO-2,Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon Heavy,STP-2,Falcon Heavy,SpaceX,2019,Launch Complex 39A,"Kennedy Space Center, FL, USA",Launch Successful,Modern,USA
+Electron,Make It Rain (Rideshare),Electron,Rocket Lab,2019,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+SARGE,Launch 3,SARGE,EXOS Aerospace,2019,Vertical Launch Area,"Spaceport America, NM, USA",Launch was a Partial Failure,Modern,USA
+Orion Test Booster,Ascent Abort-2,Orion Abort Test Booster,National Aeronautics and Space Administration,2019,Space Launch Complex 46,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Soyuz 2.1b/Fregat,Meteor-M No.2-2 & rideshare payloads,Soyuz 2.1b/Fregat,Russian Federal Space Agency (ROSCOSMOS),2019,Cosmodrome Site 1S,"Vostochny Cosmodrome, Siberia, Russian Federation",Launch Successful,Modern,Russian Federation
+Soyuz 2.1v/Volga,"Kosmos 2535, Kosmos 2536, Kosmos 2537, Kosmos 2538",Soyuz 2.1v,Russian Space Forces,2019,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Vega,Falcon Eye 1,Vega,Arianespace,2019,Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",Launch Failure,Modern,French Guiana
+Proton-M/Blok DM-03,Spektr-RG,Proton-M,Khrunichev State Research and Production Space Center,2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz-FG,Soyuz MS-13,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+LVM-3,Chandrayaan-2,LVM-3 (GSLV Mk III),Indian Space Research Organization,2019,Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",Launch Successful,Modern,India
+Hyperbola-1,Maiden Flight,Hyperbola-1,i-Space,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,SpX CRS-18,Falcon 9,SpaceX,2019,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Starship Hopper,20m Hop,Starship Prototype,SpaceX,2019,Suborbital Pad A,"SpaceX Starbase, TX, USA",Launch Successful,Modern,USA
+Long March 2C,Yaogan-30-05,Long March 2C,China Aerospace Science and Technology Corporation,2019,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+MOMO,Flight 4,MOMO v0,Interstellar Technologies,2019,Launch Complex 0,"Hokkaido Spaceport, Japan",Launch Failure,Modern,Japan
+Soyuz 2.1a/Fregat-M,Meridian-M No.18,Soyuz 2.1a/Fregat-M,Russian Space Forces,2019,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Soyuz 2.1a,Progress MS-12 (73P),Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Proton-M/Briz-M,Blagovest No.14L (Kosmos 2539),Proton-M Briz-M,Khrunichev State Research and Production Space Center,2019,81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Ariane 5 ECA+,Intelsat 39 & EDRS-C/HYLAS 3,Ariane 5 ECA+,Arianespace,2019,Ariane Launch Area 3,"Guiana Space Centre, French Guiana",Launch Successful,Modern,French Guiana
+Falcon 9 Block 5,Amos-17,Falcon 9,SpaceX,2019,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Atlas V 551,AEHF-5 (USA 292),Atlas V 551,United Launch Alliance,2019,Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Smart Dragon 1,Maiden Flight,Smart Dragon 1,China Rocket Co. Ltd.,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/E,Zhongxing-18 (Chinasat-18),Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Electron,"Look Ma, No Hands (Rideshare)",Electron,Rocket Lab,2019,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+Soyuz 2.1a,Soyuz MS-14 Uncrewed,Soyuz 2.1a,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+"Delta IV M+(4,2)",GPS III SV02,"Delta IV M+(4,2)",United Launch Alliance,2019,Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Starship Hopper,150m Hop,Starship Prototype,SpaceX,2019,Suborbital Pad A,"SpaceX Starbase, TX, USA",Launch Successful,Modern,USA
+Rokot / Briz-KM,Geo-IK-2 N13L (Kosmos 2540),Rokot/Briz-KM,Russian Space Forces,2019,133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Kuaizhou 1A,KX-09 & TY-1-07 (Xiaoxiang-1-07),Kuaizhou 1A,ExPace,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 4B,"Ziyuan-2D, Tianyi MV-1, BNU-1",Long March 4B,China Aerospace Science and Technology Corporation,2019,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 11,Zhuhai-1-03,Long March 11,China Aerospace Science and Technology Corporation,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B / YZ-1,Beidou-3 M23 & M24,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+H-IIB 304,Kounotori 8 (HTV-8),H-IIB,Mitsubishi Heavy Industries,2019,Yoshinobu Launch Complex LP-2,"Tanegashima Space Center, Japan",Launch Successful,Modern,Japan
+Long March 2D,Yunhai-1-02,Long March 2D,China Aerospace Science and Technology Corporation,2019,Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Soyuz-FG,Soyuz MS-15,Soyuz,Russian Federal Space Agency (ROSCOSMOS),2019,,"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Soyuz 2.1b/Fregat,EKS 3 (Tundra 3) (Kosmos 2541),Soyuz 2.1b/Fregat,Russian Space Forces,2019,43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Launch Successful,Modern,Russian Federation
+Long March 4C,Gaofen-10R,Long March 4C,China Aerospace Science and Technology Corporation,2019,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Proton-M/Briz-M,Eutelsat 5 West B & MEV-1,Proton-M Briz-M,International Launch Services,2019,200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Launch Successful,Modern,Republic of Kazakhstan
+Pegasus XL,Ionospheric Connection Explorer (ICON),Pegasus XL,Northrop Grumman Space Systems,2019,Cape Canaveral,Air launch to orbit,Launch Successful,Modern,Air launch to orbit
+Electron,As The Crow Flies (Palisade),Electron,Rocket Lab,2019,Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",Launch Successful,Modern,New Zealand
+Long March 3B/E,TJS-4 (TJSW-4),Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+SARGE,Launch 4,SARGE,EXOS Aerospace,2019,Vertical Launch Area,"Spaceport America, NM, USA",Launch Failure,Modern,USA
+Antares 230+,Cygnus CRS-2 NG-12 (S.S. Alan Bean),Antares 230+,Northrop Grumman Space Systems,2019,Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",Launch Successful,Modern,USA
+Long March 4B,Gaofen-7 & others,Long March 4B,China Aerospace Science and Technology Corporation,2019,Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/E,Beidou-3 IGSO-3,Long March 3B/E,China Aerospace Science and Technology Corporation,2019,Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Falcon 9 Block 5,Starlink 1,Falcon 9,SpaceX,2019,Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",Launch Successful,Modern,USA
+Kuaizhou 1A,Jilin-1-02A,Kuaizhou 1A,ExPace,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 6,Ningxia 1 (x5),Long March 6,China Aerospace Science and Technology Corporation,2019,Launch Complex 16,"Taiyuan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Kuaizhou 1A,KL-Alpha,Kuaizhou 1A,ExPace,2019,Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
+Long March 3B/YZ-1,Beidou-3 M21 & M22,Long March 3B/YZ-1,China Aerospace Science and Technology Corporation,2019,Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",Launch Successful,Modern,People's Republic of China
