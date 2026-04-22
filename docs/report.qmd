@@ -67,10 +67,10 @@ Our Exploratory Data Analysis involved the investigation of secondary and tertia
 ### Narrative
 
 In the first graph (Global Launch Activity) we see a bar chart which lays out how total launch frequency has increased from year 1 of space race to year 5 of modern era:
-![Global Launch Activity](docs/bar.png)
+![Global Launch Activity](bar.png)
 
 The second graph is a density chart which more clearly displays how launch volume changed for each rocket era:
-![Launch Volume by Era](docs/density.png)
+![Launch Volume by Era](density.png)
 
 These observations motivated the development of a predictive model to better understand launch success and failure patterns.
 
