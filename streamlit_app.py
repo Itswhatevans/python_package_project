@@ -3,7 +3,6 @@ import pandas as pd
 import os
 # Import analysis functions
 from Rocket_Launches.analysis import (
-    launches_per_year, 
     run_failure_model, 
     evaluate_model,
     launches_by_country
