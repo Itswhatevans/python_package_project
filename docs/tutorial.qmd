@@ -2,8 +2,7 @@
 title: "Tutorial"
 ---
 
-[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html)
-
+[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html) | [StreamLit App](https://rocket-py-package.streamlit.app/) | [Final Report](report.qmd)
 # 📘 Rocket Launches Package Tutorial
 
 This tutorial walks through how to use the `Rocket_Launches` package to explore rocket launch data, analyze trends, and build simple predictive models.

@@ -2,8 +2,7 @@
 title: "Function Reference"
 ---
 
-[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html)
-
+[Home](index.html) | [Tutorial](tutorial.html) | [Function Reference](reference.html) | [StreamLit App](https://rocket-py-package.streamlit.app/) | [Final Report](report.qmd)
 # 📚 Function Reference
 
 This page documents the main functions available in the `Rocket_Launches` package. These functions are designed to help you explore rocket launch trends, analyze outcomes, and build predictive models.
