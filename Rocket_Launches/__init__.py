@@ -1,4 +1,4 @@
-from .analysis import (
+from Rocket_Launches.analysis import (
     add_country,
     launches_per_year,
     status_by_year,
@@ -9,5 +9,5 @@ from .analysis import (
     evaluate_model
 )
 
-from .cleaning import get_launches, clean_launch_data, main
+from Rocket_Launches.cleaning import get_launches, clean_launch_data, main
 

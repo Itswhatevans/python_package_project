@@ -74,9 +74,10 @@ def run_failure_model(df):
     })
 
     # Features
-    features = ["year", "location", "rocket_family"]
+    features = ["year", "location", "rocket_family", "era"]
     df = df[features + ["status"]].dropna()
     X = df[features]
+    y = y.loc[df.index]
 
     # One-hot encode categorical variables
     X = pd.get_dummies(X, drop_first=True)
