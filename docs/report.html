@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Function Reference – Rocket Launches Package</title>
+<title>Evolution of Rocket Launch Reliability: A Comparative Analysis – Rocket Launches Package</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -98,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Tutorial</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./reference.html" aria-current="page"> 
+    <a class="nav-link" href="./reference.html"> 
 <span class="menu-text">Reference</span></a>
   </li>  
 </ul>
@@ -117,25 +146,41 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#data-preparation" id="toc-data-preparation" class="nav-link active" data-scroll-target="#data-preparation"><span class="header-section-number">1</span> 🌍 Data Preparation</a>
+  <li><a href="#rocket-launches-space-race-vs-commercial-age" id="toc-rocket-launches-space-race-vs-commercial-age" class="nav-link active" data-scroll-target="#rocket-launches-space-race-vs-commercial-age"><span class="header-section-number">1</span> 🚀 Rocket Launches: Space Race vs Commercial Age</a>
   <ul class="collapse">
-  <li><a href="#add_countrydf" id="toc-add_countrydf" class="nav-link" data-scroll-target="#add_countrydf"><span class="header-section-number">1.1</span> <code>add_country(df)</code></a></li>
-  </ul></li>
-  <li><a href="#descriptive-analysis" id="toc-descriptive-analysis" class="nav-link" data-scroll-target="#descriptive-analysis"><span class="header-section-number">2</span> 📊 Descriptive Analysis</a>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract"><span class="header-section-number">1.1</span> Abstract</a></li>
+  <li><a href="#introduction-and-research-question" id="toc-introduction-and-research-question" class="nav-link" data-scroll-target="#introduction-and-research-question"><span class="header-section-number">1.2</span> Introduction and Research Question</a>
   <ul class="collapse">
-  <li><a href="#launches_per_yeardf" id="toc-launches_per_yeardf" class="nav-link" data-scroll-target="#launches_per_yeardf"><span class="header-section-number">2.1</span> <code>launches_per_year(df)</code></a></li>
-  <li><a href="#status_by_yeardf" id="toc-status_by_yeardf" class="nav-link" data-scroll-target="#status_by_yeardf"><span class="header-section-number">2.2</span> <code>status_by_year(df)</code></a></li>
-  <li><a href="#rocket_usagedf-top_n10" id="toc-rocket_usagedf-top_n10" class="nav-link" data-scroll-target="#rocket_usagedf-top_n10"><span class="header-section-number">2.3</span> <code>rocket_usage(df, top_n=10)</code></a></li>
-  <li><a href="#status_by_locationdf" id="toc-status_by_locationdf" class="nav-link" data-scroll-target="#status_by_locationdf"><span class="header-section-number">2.4</span> <code>status_by_location(df)</code></a></li>
-  <li><a href="#launches_by_countrydf" id="toc-launches_by_countrydf" class="nav-link" data-scroll-target="#launches_by_countrydf"><span class="header-section-number">2.5</span> <code>launches_by_country(df)</code></a></li>
+  <li><a href="#motivation" id="toc-motivation" class="nav-link" data-scroll-target="#motivation"><span class="header-section-number">1.2.1</span> Motivation</a></li>
+  <li><a href="#hypothesis" id="toc-hypothesis" class="nav-link" data-scroll-target="#hypothesis"><span class="header-section-number">1.2.2</span> Hypothesis</a></li>
   </ul></li>
-  <li><a href="#modeling-functions" id="toc-modeling-functions" class="nav-link" data-scroll-target="#modeling-functions"><span class="header-section-number">3</span> 🤖 Modeling Functions</a>
+  <li><a href="#data-collection-and-wrangling" id="toc-data-collection-and-wrangling" class="nav-link" data-scroll-target="#data-collection-and-wrangling"><span class="header-section-number">1.3</span> Data Collection and Wrangling</a>
   <ul class="collapse">
-  <li><a href="#run_failure_modeldf" id="toc-run_failure_modeldf" class="nav-link" data-scroll-target="#run_failure_modeldf"><span class="header-section-number">3.1</span> <code>run_failure_model(df)</code></a></li>
-  <li><a href="#evaluate_modelmodel-x_test-y_test" id="toc-evaluate_modelmodel-x_test-y_test" class="nav-link" data-scroll-target="#evaluate_modelmodel-x_test-y_test"><span class="header-section-number">3.2</span> <code>evaluate_model(model, X_test, y_test)</code></a></li>
+  <li><a href="#data-source" id="toc-data-source" class="nav-link" data-scroll-target="#data-source"><span class="header-section-number">1.3.1</span> Data Source</a></li>
+  <li><a href="#data-cleaning" id="toc-data-cleaning" class="nav-link" data-scroll-target="#data-cleaning"><span class="header-section-number">1.3.2</span> Data Cleaning</a></li>
+  <li><a href="#reproducibility" id="toc-reproducibility" class="nav-link" data-scroll-target="#reproducibility"><span class="header-section-number">1.3.3</span> Reproducibility</a></li>
   </ul></li>
-  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes"><span class="header-section-number">4</span> 📝 Notes</a></li>
-  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">5</span> 🚀 Summary</a></li>
+  <li><a href="#exploratory-data-analysis-eda" id="toc-exploratory-data-analysis-eda" class="nav-link" data-scroll-target="#exploratory-data-analysis-eda"><span class="header-section-number">1.4</span> Exploratory Data Analysis (EDA)</a>
+  <ul class="collapse">
+  <li><a href="#visualization" id="toc-visualization" class="nav-link" data-scroll-target="#visualization"><span class="header-section-number">1.4.1</span> Visualization</a></li>
+  <li><a href="#narrative" id="toc-narrative" class="nav-link" data-scroll-target="#narrative"><span class="header-section-number">1.4.2</span> Narrative</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#methodology-machine-learning-component" id="toc-methodology-machine-learning-component" class="nav-link" data-scroll-target="#methodology-machine-learning-component"><span class="header-section-number">2</span> Methodology (Machine Learning Component)</a>
+  <ul class="collapse">
+  <li><a href="#feature-engineering" id="toc-feature-engineering" class="nav-link" data-scroll-target="#feature-engineering"><span class="header-section-number">2.1</span> Feature Engineering</a></li>
+  </ul></li>
+  <li><a href="#results-and-discussion" id="toc-results-and-discussion" class="nav-link" data-scroll-target="#results-and-discussion"><span class="header-section-number">3</span> Results and Discussion</a>
+  <ul class="collapse">
+  <li><a href="#model-performance" id="toc-model-performance" class="nav-link" data-scroll-target="#model-performance"><span class="header-section-number">3.1</span> Model Performance</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings"><span class="header-section-number">3.2</span> Key Findings</a></li>
+  <li><a href="#limitations" id="toc-limitations" class="nav-link" data-scroll-target="#limitations"><span class="header-section-number">3.3</span> Limitations</a></li>
+  </ul></li>
+  <li><a href="#conclusion-and-future-work" id="toc-conclusion-and-future-work" class="nav-link" data-scroll-target="#conclusion-and-future-work"><span class="header-section-number">4</span> Conclusion and Future Work</a>
+  <ul class="collapse">
+  <li><a href="#final-summary" id="toc-final-summary" class="nav-link" data-scroll-target="#final-summary"><span class="header-section-number">4.1</span> Final Summary</a></li>
+  <li><a href="#future-work" id="toc-future-work" class="nav-link" data-scroll-target="#future-work"><span class="header-section-number">4.2</span> Future Work</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -144,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Function Reference</h1>
+<h1 class="title">Evolution of Rocket Launch Reliability: A Comparative Analysis</h1>
 </div>
 
 
@@ -161,124 +206,159 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="index.html">Home</a> | <a href="tutorial.html">Tutorial</a> | <a href="reference.html">Function Reference</a> | <a href="https://rocket-py-package.streamlit.app/">StreamLit App</a> | <a href="./report.html">Final Report</a> # 📚 Function Reference</p>
-<p>This page documents the main functions available in the <code>Rocket_Launches</code> package. These functions are designed to help you explore rocket launch trends, analyze outcomes, and build predictive models.</p>
+<p><a href="index.html">Home</a> | <a href="tutorial.html">Tutorial</a> | <a href="reference.html">Function Reference</a> | <a href="https://rocket-py-package.streamlit.app/">StreamLit App</a> | <a href="./report.html">Final Report</a></p>
+<section id="rocket-launches-space-race-vs-commercial-age" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> 🚀 Rocket Launches: Space Race vs Commercial Age</h1>
 <hr>
-<section id="data-preparation" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> 🌍 Data Preparation</h1>
-<section id="add_countrydf" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="add_countrydf"><span class="header-section-number">1.1</span> <code>add_country(df)</code></h2>
-<p>Extracts the country from the <code>location</code> column.</p>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame): Dataset containing a <code>location</code> column</p>
-<p><strong>Returns:</strong> - DataFrame with a new <code>country</code> column</p>
-<hr>
-</section>
-</section>
-<section id="descriptive-analysis" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> 📊 Descriptive Analysis</h1>
-<section id="launches_per_yeardf" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="launches_per_yeardf"><span class="header-section-number">2.1</span> <code>launches_per_year(df)</code></h2>
-<p>Calculates the total number of launches per year.</p>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
-<p><strong>Returns:</strong> - DataFrame with: - <code>year</code> - <code>launch_count</code></p>
+<section id="abstract" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="abstract"><span class="header-section-number">1.1</span> Abstract</h2>
+<p>Some people are interested in aerospace but have not had the opportunity to explore trends due to the complexity of working with API-based data pipelines. This project was motivated by both an interest in rockets and a desire to simplify access to meaningful launch data. We developed a Python package that integrates web scraping, data engineering, machine learning, and visualization into a single analytical pipeline.</p>
+<p>Using The Space Devs API, we collected and cleaned approximately 1000 rocket launch records, evenly split between the Space Race era and the modern commercial era. Our package automates the data collection and cleaning process, allowing users to immediately begin analysis without needing to interact with APIs directly.</p>
+<p>We implemented a series of functions for exploratory data analysis and developed a logistic regression model to predict launch failure based on key features such as year, location, and rocket family. Our findings suggest that launch frequency has increased significantly in the modern era, and that reliability has improved over time.</p>
+<p>This project provides a reusable framework for analyzing spaceflight trends and invites users to explore their own questions using the provided dataset and tools.</p>
 <hr>
 </section>
-<section id="status_by_yeardf" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="status_by_yeardf"><span class="header-section-number">2.2</span> <code>status_by_year(df)</code></h2>
-<p>Counts launch outcomes (status) for each year.</p>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
-<p><strong>Returns:</strong> - DataFrame with: - <code>year</code> - <code>status</code> - <code>count</code></p>
-<hr>
+<section id="introduction-and-research-question" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="introduction-and-research-question"><span class="header-section-number">1.2</span> Introduction and Research Question</h2>
+<section id="motivation" class="level3" data-number="1.2.1">
+<h3 data-number="1.2.1" class="anchored" data-anchor-id="motivation"><span class="header-section-number">1.2.1</span> Motivation</h3>
+<p>Many people wonder whether the early Space Race demonstrated greater ambition and innovation, or whether modern commercial spaceflight represents a more advanced and capable era. We wanted to investigate how rocket launches have changed over time while also creating a tool that allows others to explore their own analytical questions.</p>
 </section>
-<section id="rocket_usagedf-top_n10" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="rocket_usagedf-top_n10"><span class="header-section-number">2.3</span> <code>rocket_usage(df, top_n=10)</code></h2>
-<p>Analyzes usage trends for the most common rocket families.</p>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame) - <code>top_n</code> (int): Number of top rocket families to include</p>
-<p><strong>Returns:</strong> - DataFrame with: - <code>year</code> - <code>rocket_family</code> - <code>count</code></p>
-<hr>
-</section>
-<section id="status_by_locationdf" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="status_by_locationdf"><span class="header-section-number">2.4</span> <code>status_by_location(df)</code></h2>
-<p>Counts launch outcomes by location.</p>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
-<p><strong>Returns:</strong> - DataFrame with: - <code>location</code> - <code>status</code> - <code>count</code></p>
-<hr>
-</section>
-<section id="launches_by_countrydf" class="level2" data-number="2.5">
-<h2 data-number="2.5" class="anchored" data-anchor-id="launches_by_countrydf"><span class="header-section-number">2.5</span> <code>launches_by_country(df)</code></h2>
-<p>Aggregates launch counts by country and year.</p>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
-<p><strong>Returns:</strong> - DataFrame with: - <code>country</code> - <code>year</code> - <code>launch_count</code></p>
+<section id="hypothesis" class="level3" data-number="1.2.2">
+<h3 data-number="1.2.2" class="anchored" data-anchor-id="hypothesis"><span class="header-section-number">1.2.2</span> Hypothesis</h3>
+<p>We expected to see a significant increase in the volume of launches during the modern era. With the rapid growth of private space companies, it appears that launches occur far more frequently today. However, it was also possible that the pioneers of national space programs achieved comparable or even greater launch intensity during the Space Race.</p>
 <hr>
 </section>
 </section>
-<section id="modeling-functions" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> 🤖 Modeling Functions</h1>
-<section id="run_failure_modeldf" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="run_failure_modeldf"><span class="header-section-number">3.1</span> <code>run_failure_model(df)</code></h2>
-<p>Builds a logistic regression model to predict launch failure based on available features.</p>
-<p><strong>Details:</strong> - Uses <code>status</code> as the outcome variable - Encodes: - <code>"Launch Successful"</code> → 0<br>
-- <code>"Launch Failure"</code> → 1<br>
-- <code>"Launch was a Partial Failure"</code> → 1</p>
+<section id="data-collection-and-wrangling" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="data-collection-and-wrangling"><span class="header-section-number">1.3</span> Data Collection and Wrangling</h2>
+<section id="data-source" class="level3" data-number="1.3.1">
+<h3 data-number="1.3.1" class="anchored" data-anchor-id="data-source"><span class="header-section-number">1.3.1</span> Data Source</h3>
+<p>We used The Space Devs API, which provides detailed and structured records of rocket launches. Its accessibility and well-documented endpoints made it an ideal source for building a reproducible dataset.</p>
+</section>
+<section id="data-cleaning" class="level3" data-number="1.3.2">
+<h3 data-number="1.3.2" class="anchored" data-anchor-id="data-cleaning"><span class="header-section-number">1.3.2</span> Data Cleaning</h3>
+<p>Most of the required cleaning involved restructuring and standardizing data formats. Several key transformations were applied:</p>
 <ul>
-<li>Uses the following features:
-<ul>
-<li><code>year</code></li>
-<li><code>location</code></li>
-<li><code>rocket_family</code></li>
-</ul></li>
+<li>The <code>name</code> column was split into <code>rocket_family</code> and <code>mission</code><br>
+</li>
+<li>A <code>year</code> column was extracted from launch dates<br>
+</li>
+<li>Country names were extracted from the <code>location</code> field<br>
+</li>
+<li>Launch outcomes were standardized into success and failure categories<br>
+</li>
+<li>An <code>era</code> column was added to distinguish between Space Race and modern launches</li>
 </ul>
-<p><strong>Parameters:</strong> - <code>df</code> (pandas DataFrame)</p>
-<p><strong>Returns:</strong> - <code>model</code>: trained logistic regression model<br>
-- <code>X_test</code>: test feature set<br>
-- <code>y_test</code>: test labels</p>
-<hr>
+<p>These steps ensured the dataset was both structured and analytically useful.</p>
 </section>
-<section id="evaluate_modelmodel-x_test-y_test" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="evaluate_modelmodel-x_test-y_test"><span class="header-section-number">3.2</span> <code>evaluate_model(model, X_test, y_test)</code></h2>
-<p>Evaluates the performance of the trained model.</p>
-<p><strong>Parameters:</strong> - <code>model</code>: trained model from <code>run_failure_model</code> - <code>X_test</code>: test feature set - <code>y_test</code>: true labels</p>
-<p><strong>Returns:</strong> - Dictionary with: - <code>accuracy</code>: classification accuracy of the model</p>
+<section id="reproducibility" class="level3" data-number="1.3.3">
+<h3 data-number="1.3.3" class="anchored" data-anchor-id="reproducibility"><span class="header-section-number">1.3.3</span> Reproducibility</h3>
+<p>To make the project accessible and reusable, we developed a <code>cleaning.py</code> script that automates the entire data collection and cleaning process.</p>
+<p>Designing functions that were intuitive and flexible required avoiding hard-coded values and maintaining consistent naming conventions. The result is a streamlined pipeline that allows users to regenerate the dataset with minimal effort.</p>
 <hr>
 </section>
 </section>
-<section id="notes" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> 📝 Notes</h1>
+<section id="exploratory-data-analysis-eda" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="exploratory-data-analysis-eda"><span class="header-section-number">1.4</span> Exploratory Data Analysis (EDA)</h2>
+<section id="visualization" class="level3" data-number="1.4.1">
+<h3 data-number="1.4.1" class="anchored" data-anchor-id="visualization"><span class="header-section-number">1.4.1</span> Visualization</h3>
+<p>Our Exploratory Data Analysis involved the investigation of secondary and tertiary analytical questions that go beyond: “Do we launch more rockets today, or did we launch more in the 60s-70s?” Among these was success rates, and a breakdown of launch frequency around the world over time. The question of success rate led to the creation of our machine learning algorithm. Our main visuals include Global Launch Activity and Annual Launch Volume by Era.</p>
+</section>
+<section id="narrative" class="level3" data-number="1.4.2">
+<h3 data-number="1.4.2" class="anchored" data-anchor-id="narrative"><span class="header-section-number">1.4.2</span> Narrative</h3>
+<p>In the first graph (Global Launch Activity) we see a bar chart which lays out how total launch frequency has increased from year 1 of space race to year 5 of modern era: <img src="docs/bar.png" class="img-fluid" alt="Global Launch Activity"></p>
+<p>The second graph is a density chart which more clearly displays how launch volume changed for each rocket era: <img src="docs/density.png" class="img-fluid" alt="Launch Volume by Era"></p>
+<p>These observations motivated the development of a predictive model to better understand launch success and failure patterns.</p>
+<hr>
+</section>
+</section>
+</section>
+<section id="methodology-machine-learning-component" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Methodology (Machine Learning Component)</h1>
+<p>To extend the analysis beyond descriptive trends, we implemented a predictive modeling approach to estimate the likelihood of launch failure. Because the outcome variable is binary (success vs.&nbsp;failure), we selected <strong>logistic regression</strong> as our primary modeling technique. This model is well-suited for classification problems and provides interpretable results, making it appropriate for understanding how different factors influence launch outcomes.</p>
+<p>The response variable was derived from the <code>status</code> column, where: - <code>"Launch Successful"</code> was encoded as 0<br>
+- <code>"Launch Failure"</code> and <code>"Launch was a Partial Failure"</code> were encoded as 1</p>
+<p>This allowed us to model the probability of a launch resulting in failure.</p>
+<p>The logistic regression model estimates this probability using the following functional form:</p>
+<p><span class="math display">\[
+P(\text{Failure}) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 \cdot \text{Year} + \beta_2 \cdot \text{Location} + \beta_3 \cdot \text{Rocket Family} + \cdots)}}
+\]</span></p>
+<section id="feature-engineering" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="feature-engineering"><span class="header-section-number">2.1</span> Feature Engineering</h2>
+<p>Several preprocessing and feature engineering steps were applied to prepare the data for modeling:</p>
 <ul>
-<li>The dataset must include the following columns:
-<ul>
-<li><code>year</code></li>
-<li><code>location</code></li>
-<li><code>rocket_family</code></li>
-<li><code>status</code></li>
-</ul></li>
-<li>Only the following launch statuses are used in modeling:
-<ul>
-<li>Launch Successful<br>
+<li><strong>Filtering Valid Outcomes</strong>: Only launches with clearly defined outcomes (successful, failed, or partial failure) were included.<br>
 </li>
-<li>Launch Failure<br>
+<li><strong>Categorical Encoding</strong>: <code>location</code> and <code>rocket_family</code> were transformed using one-hot encoding (<code>pd.get_dummies</code>).<br>
 </li>
-<li>Launch was a Partial Failure</li>
-</ul></li>
-<li>Rows with missing values in required fields are automatically removed during modeling.</li>
+<li><strong>Numerical Feature</strong>: <code>year</code> was included to capture long-term trends.<br>
+</li>
+<li><strong>Handling Missing Data</strong>: Rows with missing values were removed prior to modeling.</li>
+</ul>
+<p>The dataset was split into training and testing sets using an 80/20 split.</p>
+<hr>
+</section>
+</section>
+<section id="results-and-discussion" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Results and Discussion</h1>
+<section id="model-performance" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="model-performance"><span class="header-section-number">3.1</span> Model Performance</h2>
+<p>The model was evaluated using classification accuracy on the test dataset.</p>
+<p><strong>Accuracy:</strong> 83.50%</p>
+<p>This indicates that the model captures meaningful—but incomplete—patterns in launch outcomes.</p>
+</section>
+<section id="key-findings" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="key-findings"><span class="header-section-number">3.2</span> Key Findings</h2>
+<ul>
+<li>Launch outcomes are <strong>partially predictable</strong> using year, location, and rocket family.<br>
+</li>
+<li>More recent launches tend to have higher success rates, reflecting technological improvement.<br>
+</li>
+<li>Rocket type and launch location contribute to differences in reliability.<br>
+</li>
+<li>Although the dataset includes an <code>era</code> variable, it was not included in the model; however, the <code>year</code> variable still captures long-term historical trends.</li>
+</ul>
+<p>These findings support the hypothesis that <strong>modern spaceflight is more reliable than during the Space Race era</strong>.</p>
+</section>
+<section id="limitations" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="limitations"><span class="header-section-number">3.3</span> Limitations</h2>
+<ul>
+<li><strong>Dataset Size</strong>: Approximately 1000 records limits generalizability.<br>
+</li>
+<li><strong>Missing Features</strong>: No data on weather, cost, payload, or engineering complexity.<br>
+</li>
+<li><strong>Model Simplicity</strong>: Logistic regression may not capture nonlinear relationships.<br>
+</li>
+<li><strong>Era Not Modeled Directly</strong>: The <code>era</code> variable was not included as a feature.</li>
 </ul>
 <hr>
 </section>
-<section id="summary" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> 🚀 Summary</h1>
-<p>The <code>Rocket_Launches</code> package provides tools for:</p>
+</section>
+<section id="conclusion-and-future-work" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Conclusion and Future Work</h1>
+<section id="final-summary" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="final-summary"><span class="header-section-number">4.1</span> Final Summary</h2>
+<p>This project analyzed rocket launch data across historical and modern periods using data collected from The Space Devs API. After cleaning and structuring the dataset, we explored trends and implemented a logistic regression model to predict launch outcomes.</p>
+<p>The results indicate that launch reliability has improved over time, reflecting advancements in technology and operational experience. While the model demonstrates that launch outcomes are somewhat predictable, it also highlights the complexity of factors influencing success.</p>
+</section>
+<section id="future-work" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="future-work"><span class="header-section-number">4.2</span> Future Work</h2>
 <ul>
-<li>Exploring launch trends over time<br>
+<li>Incorporate additional variables such as cost, weather, and payload<br>
 </li>
-<li>Comparing rocket family usage<br>
+<li>Include the <code>era</code> variable directly in the model<br>
 </li>
-<li>Analyzing geographic differences<br>
+<li>Use more advanced machine learning models (e.g., random forests)<br>
 </li>
-<li>Modeling and predicting launch outcomes</li>
+<li>Expand the dataset beyond 1000 launches<br>
+</li>
+<li>Enhance the Streamlit app with real-time data integration</li>
 </ul>
-<p>For a step-by-step walkthrough, see the <strong>Tutorial</strong> page.</p>
+<hr>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
