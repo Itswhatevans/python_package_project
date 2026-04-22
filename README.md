@@ -42,4 +42,4 @@ The "Predictive Analytics" section utilizes a Logistic Regression model.
 - Processing: Categorical variables are converted via One-Hot Encoding to allow the model to weight the reliability of specific locations and rocket families.
 
 ## 🛰️ Data Source 
-Data is sourced from the [https://ll.thespacedevs.com/2.2.0/launch/](The Space Devs (Launch Library 2)), a comprehensive API for historical and upcoming spaceflight data
+Data is sourced from the [The Space Devs (Launch Library 2)](https://ll.thespacedevs.com/2.2.0/launch/), a comprehensive API for historical and upcoming spaceflight data
