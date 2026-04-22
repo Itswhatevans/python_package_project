@@ -45,6 +45,40 @@ def main():
         model, X_test, y_test = run_failure_model(data)
         metrics = evaluate_model(model, X_test, y_test)
         st.metric("Model Accuracy", f"{metrics['accuracy']:.2%}")
+        
+    st.header("⏳ The Evolution of Spaceflight")
+    # Create two columns for side-by-side metrics
+    col1, col2 = st.columns(2)
+
+    with col1:
+        space_race_data = data[data['era'] == 'Space Race']
+        sr_success = (space_race_data['status'] == 'Launch Successful').mean()
+        st.metric("Space Race Success Rate", f"{sr_success:.1%}")
+
+    with col2:
+        modern_data = data[data['era'] == 'Modern']
+        mod_success = (modern_data['status'] == 'Launch Successful').mean()
+        st.metric("Modern Success Rate", f"{mod_success:.1%}", delta=f"{mod_success - sr_success:.1%}")
+
+    # Era-based Volume Chart
+    st.subheader("Annual Launch Volume by Era")
+    st.area_chart(data.groupby(['year', 'era']).size().unstack(fill_value=0))
+    
+    st.sidebar.header("Filter Analytics")
+
+    # 1. Select Era
+    era_choice = st.sidebar.multiselect("Select Era:", options=data['era'].unique(), default=data['era'].unique())
+
+    # 2. Select Provider (Dynamic based on selected Era)
+    filtered_df = data[data['era'].isin(era_choice)]
+    providers = sorted(filtered_df['provider'].unique())
+    selected_provider = st.sidebar.selectbox("Select Launch Provider:", ["All"] + providers)
+
+    if selected_provider != "All":
+        filtered_df = filtered_df[filtered_df['provider'] == selected_provider]
+
+    # Now, use 'filtered_df' for all your charts below this point!
+    st.write(f"Displaying {len(filtered_df)} launches for {selected_provider}")
 
 if __name__ == "__main__":
     main()
